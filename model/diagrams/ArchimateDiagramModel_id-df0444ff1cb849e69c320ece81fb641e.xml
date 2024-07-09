@@ -9,9 +9,9 @@
       targetConnections="id-2f18b8681be04ab1849fce420fb5a91f id-8003fbca70ca40f892ec5aeac1d58873 id-34f8cd66452844f3b61c7094498aa839 id-03580ffcc45b43da8fab65da7bc80350">
     <bounds
         x="108"
-        y="144"
+        y="48"
         width="265"
-        height="55"/>
+        height="258"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-72be67855ddf42db8997e36a8e16dc8b.xml#id-72be67855ddf42db8997e36a8e16dc8b"/>
@@ -106,9 +106,9 @@
       targetConnections="id-c2ddb87d4e6e4d9e9af2e035c8162e16 id-4f993eb58dff4b749859cc6bf58addc7 id-6b0163fe28eb427ba4a796d64b5ae03d">
     <bounds
         x="108"
-        y="408"
+        y="339"
         width="265"
-        height="55"/>
+        height="196"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-a11024ccee5e41ceae2969db57964190.xml#id-a11024ccee5e41ceae2969db57964190"/>
@@ -182,9 +182,9 @@
       targetConnections="id-a5ff135884ec4701a86e2553cb21933a id-fe5fd9b1aac44f09b85e337acda2fc0e id-e9c55c233e414c79af5f939569bc182b id-26cb99d52e184cfb922f73cc58d45283 id-cc9186e10f854e03ac62c084c81e55e9">
     <bounds
         x="108"
-        y="720"
+        y="576"
         width="265"
-        height="55"/>
+        height="343"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-08632b0052cd4a68a27c145d3935e914.xml#id-08632b0052cd4a68a27c145d3935e914"/>
@@ -300,9 +300,9 @@
       targetConnections="id-d0fb9138b83d472e803311458ff206f6 id-61396a0dd66b4f8daf715ee3e6ee114f id-66d838a736b040e8ae8671dff3e32fd4">
     <bounds
         x="924"
-        y="144"
+        y="48"
         width="265"
-        height="55"/>
+        height="189"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-391f9ab8aa0345a5a2f3db512039ecba.xml#id-391f9ab8aa0345a5a2f3db512039ecba"/>
@@ -376,9 +376,9 @@
       targetConnections="id-555b796b705e48898a0c91eced6a6364 id-af57bef19e974470a14b03058de9f378 id-a92dea05c55541878b412163f7acc3da id-d0639e7e98f148aaabe4e35a099ace50 id-a9186b330b6741269284801fab430a34">
     <bounds
         x="924"
-        y="408"
+        y="264"
         width="265"
-        height="55"/>
+        height="343"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-36ce699035414494a8c26fada7d2b9a7.xml#id-36ce699035414494a8c26fada7d2b9a7"/>
@@ -494,9 +494,9 @@
       targetConnections="id-40e2e9578ca444589166b39f5dad9030 id-be0f94ac76f340fdbcc68ab6c3874b08 id-97fd103a5ce64c80831d02d14100c9be">
     <bounds
         x="924"
-        y="708"
+        y="636"
         width="265"
-        height="55"/>
+        height="203"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-296ac3c25fd94b75bbc75cbb18fe2236.xml#id-296ac3c25fd94b75bbc75cbb18fe2236"/>
@@ -570,9 +570,9 @@
       targetConnections="id-05f814e2d2ee42e78240fcd6c4248e0b id-5048aadbd3e84c5d8008f0ca689a07f3">
     <bounds
         x="108"
-        y="1146"
+        y="1104"
         width="265"
-        height="55"/>
+        height="121"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-72c8ed5c8e7544e4bdaa51ec2bd69262.xml#id-72c8ed5c8e7544e4bdaa51ec2bd69262"/>
@@ -625,9 +625,9 @@
       targetConnections="id-7c861fce17274fe487fc6dc8d41f3190 id-816105100b9b463aab4149167df954eb id-9dc53abf23e041bc8b590e58ddf0963e">
     <bounds
         x="924"
-        y="924"
+        y="859"
         width="265"
-        height="55"/>
+        height="189"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-d8923110faf04947818525dc35818d90.xml#id-d8923110faf04947818525dc35818d90"/>
@@ -680,9 +680,9 @@
       targetConnections="id-e8cfbc37bdaf4255b80ba0a8c07dc884 id-50482c7835b5486eaa3bc700582dc59e id-e6e919eb479640e1b926270056eb186e">
     <bounds
         x="924"
-        y="1136"
+        y="1076"
         width="265"
-        height="55"/>
+        height="199"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-671b81f3b2ba40e88f2794bcdd22857a.xml#id-671b81f3b2ba40e88f2794bcdd22857a"/>
@@ -777,9 +777,9 @@
       targetConnections="id-9074c8d4852d47b99ba627aff027707a id-89536b5cf34b4cf6a313ae22eaa37b4b">
     <bounds
         x="108"
-        y="992"
+        y="953"
         width="265"
-        height="55"/>
+        height="122"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-0a9f81403c8b40d8be3d7d184b1a6c54.xml#id-0a9f81403c8b40d8be3d7d184b1a6c54"/>
@@ -830,11 +830,58 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ab30ca03e808460891f268ec62e86c67"
       textAlignment="1"
-      content="Overgenomen uit https://www.surf.nl/files/2021-11/hosa-overkoepelende-principes-v1.0.pdf ">
+      content="Ontleend aan https://www.surf.nl/files/2021-11/hosa-overkoepelende-principes-v1.0.pdf ">
     <bounds
-        x="137"
-        y="1344"
+        x="108"
+        y="1296"
         width="356"
         height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ea3176d78674213afa32bf910f94904">
+    <bounds
+        x="108"
+        y="1464"
+        width="266"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-be9ab00cac574199b2207816ef1acc05.xml#id-be9ab00cac574199b2207816ef1acc05"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e5f18595f1024e5dbb6a7e9ad0e29de9">
+    <bounds
+        x="108"
+        y="1542"
+        width="266"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-a6b68d65e31541a188463c831c61cbc3.xml#id-a6b68d65e31541a188463c831c61cbc3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5e43d036db224f7dae8e868937006f66">
+    <bounds
+        x="121"
+        y="1620"
+        width="266"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-a3225d3c86be42c2bae61cd3aff588b1.xml#id-a3225d3c86be42c2bae61cd3aff588b1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2bb0da4332c04b2c9d3ae1bf3d87666a"
+      textAlignment="1"
+      content="Uit projectplan p 13">
+    <bounds
+        x="432"
+        y="1476"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
