@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-8cb5d7b991a24361a2e5e0177a02360f"
-      name="Certificeringsfase"
+      name="Certificering"
       textAlignment="1">
     <bounds
         x="1524"
@@ -18,7 +18,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-e1a571e2924d42398d4e172f69c82166"
-      name="Onderwijsuitvoeringsfase"
+      name="Onderwijsuitvoering"
       textAlignment="1">
     <bounds
         x="1032"
@@ -40,7 +40,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-563646644051430298533c2547bb4dcd"
-      name="Orientatie en aanmelden"
+      name="Oriënteren en aanmelden"
       textAlignment="1">
     <bounds
         x="312"
@@ -478,14 +478,14 @@
           source="id-c2c96e7083804dda8fe23357bd4d6055"
           target="id-1ec9bc885f0848b6a51b56c78200292c">
         <bendpoints
-            startX="312"
+            startX="270"
             startY="-10"
-            endX="-96"
+            endX="-120"
             endY="141"/>
         <bendpoints
-            startX="312"
+            startX="270"
             startY="-154"
-            endX="-96"
+            endX="-120"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -494,7 +494,7 @@
       <bounds
           x="396"
           y="48"
-          width="144"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
