@@ -295,7 +295,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ff0fbd59705d4e83879ddf311e9d814f"
-      targetConnections="id-7bc291d2e9134074888e06b1bea91410"
       textPosition="1">
     <features
         name="gradient"
@@ -326,7 +325,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-628cf484557b433ba55f9de7e10185c1"
-      targetConnections="id-d7aff3f2cec241fa895e1001e0a89d35"
       textPosition="1">
     <features
         name="gradient"
@@ -356,24 +354,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-5d8b1261323d4663b5135facdc85fb15"
+      id="id-674bafbc4df3491da70ac226f57efb5d"
       textAlignment="1"
-      content="TODO: Welke?">
+      content="Edu-V services">
     <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        id="id-d7aff3f2cec241fa895e1001e0a89d35"
-        source="id-5d8b1261323d4663b5135facdc85fb15"
-        target="id-628cf484557b433ba55f9de7e10185c1"/>
-    <sourceConnections
-        id="id-7bc291d2e9134074888e06b1bea91410"
-        source="id-5d8b1261323d4663b5135facdc85fb15"
-        target="id-ff0fbd59705d4e83879ddf311e9d814f"/>
+        name="deriveElementLineColor"
+        value="false"/>
     <bounds
-        x="468"
-        y="768"
-        width="185"
-        height="80"/>
+        x="816"
+        y="708"
+        width="133"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>

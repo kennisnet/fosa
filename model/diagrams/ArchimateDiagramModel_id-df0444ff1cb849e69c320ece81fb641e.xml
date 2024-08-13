@@ -839,89 +839,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2ea3176d78674213afa32bf910f94904">
-    <bounds
-        x="108"
-        y="1464"
-        width="266"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-be9ab00cac574199b2207816ef1acc05.xml#id-be9ab00cac574199b2207816ef1acc05"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e5f18595f1024e5dbb6a7e9ad0e29de9">
-    <bounds
-        x="108"
-        y="1542"
-        width="266"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-a6b68d65e31541a188463c831c61cbc3.xml#id-a6b68d65e31541a188463c831c61cbc3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5e43d036db224f7dae8e868937006f66">
-    <bounds
-        x="121"
-        y="1620"
-        width="266"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-a3225d3c86be42c2bae61cd3aff588b1.xml#id-a3225d3c86be42c2bae61cd3aff588b1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-2bb0da4332c04b2c9d3ae1bf3d87666a"
-      textAlignment="1"
-      content="Uit projectplan p 13">
-    <bounds
-        x="432"
-        y="1476"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f142097b50684260bec7737c4083f0d0">
-    <bounds
-        x="108"
-        y="1692"
-        width="266"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-67b60ddcf07046edbbedbfab5a95016b.xml#id-67b60ddcf07046edbbedbfab5a95016b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6f6034ee251946c4a384acb3e7886f3d">
-    <bounds
-        x="72"
-        y="1776"
-        width="266"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-00587d172e504fa799ecdf75cae86984.xml#id-00587d172e504fa799ecdf75cae86984"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a832c7223554417791f813965eba7a83">
-    <bounds
-        x="84"
-        y="1860"
-        width="266"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_id-249abef623834cd884f409f92c197c22.xml#id-249abef623834cd884f409f92c197c22"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f989e7f56ca0410a93ed13082256fcab">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -940,5 +857,19 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-9b26c7f10cc64a18b931bea6c26edb4e.xml#id-9b26c7f10cc64a18b931bea6c26edb4e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e7469a97483b4eb7995b95baf7afd64e"
+      textAlignment="1"
+      content="TODO: Vervangen door principes uit ROSA">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="755"
+        y="19"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
