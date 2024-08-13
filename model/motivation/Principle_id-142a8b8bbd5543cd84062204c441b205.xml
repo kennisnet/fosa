@@ -1,0 +1,21 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging door ketenpartijen"
+    id="id-142a8b8bbd5543cd84062204c441b205"
+    documentation="Elke individuele ketenpartij is verantwoordelijk voor zijn eigen (interne) informatiebeveiliging.">
+  <properties
+      key="Implicaties"
+      value="Ketenpartijen conformeren zich aan de 'Code voor informatiebeveiliging'"/>
+  <properties
+      key="Uitspraak"
+      value="Informatiebeveiliging door ketenpartijen"/>
+  <properties
+      key="Rationale"
+      value="Van alle partijen in het onderwijsdomein mag worden verwacht dat zij serieus met informatiebeveiliging omgaan."/>
+  <properties
+      key="Stelling"
+      value="Elke individuele ketenpartij is verantwoordelijk voor zijn eigen (interne) informatiebeveiliging."/>
+  <properties
+      key="Type"
+      value="Afgeleid principe"/>
+</archimate:Principle>

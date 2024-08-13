@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ondersteunt"
     id="id-1347e77cacc647a0b992e4c724e8d63b">
   <source
       xsi:type="archimate:BusinessService"

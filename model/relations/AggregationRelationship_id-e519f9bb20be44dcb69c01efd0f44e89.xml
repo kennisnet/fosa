@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-e519f9bb20be44dcb69c01efd0f44e89">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-9c9c33e716884b38ab55bb78991e88b8.xml#id-9c9c33e716884b38ab55bb78991e88b8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-90b1346d46824ed990ac850353962f6c.xml#id-90b1346d46824ed990ac850353962f6c"/>
+</archimate:AggregationRelationship>

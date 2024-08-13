@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert aan"
     id="id-32dd56fefab24f15818d49a66e2ce5e2">
   <source
       xsi:type="archimate:BusinessProcess"
