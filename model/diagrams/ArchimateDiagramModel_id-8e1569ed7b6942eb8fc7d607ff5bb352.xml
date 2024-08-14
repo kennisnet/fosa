@@ -19,7 +19,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e28384d6eccf4f33aa930197a60c293f"
-      targetConnections="id-b628eaa9b2d94ae9a02698bcdbc725df id-9de33f8a7f1c4457a7937c4b9126646b">
+      targetConnections="id-b628eaa9b2d94ae9a02698bcdbc725df id-9de33f8a7f1c4457a7937c4b9126646b id-7c7043ce9f854172995d8486a4ebc73e">
     <bounds
         x="444"
         y="324"
@@ -74,6 +74,20 @@
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-7b9e973243824a21b30ceb0d2351192b.xml#id-7b9e973243824a21b30ceb0d2351192b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d3e7072d81a549238cda19e7c52fc151"
+        source="id-87a69ad3392e4290a4fa05874374a12d"
+        target="id-7b34cdf310634ace868ec4029731a564">
+      <bendpoints
+          startX="510"
+          startY="9"
+          endX="-6"
+          endY="102"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-abfe6fe4ba7241fa8472815b24c2708c.xml#id-abfe6fe4ba7241fa8472815b24c2708c"/>
     </sourceConnections>
     <bounds
         x="708"
@@ -433,6 +447,32 @@
         y="811"
         width="291"
         height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b34cdf310634ace868ec4029731a564"
+      targetConnections="id-d3e7072d81a549238cda19e7c52fc151"
+      textAlignment="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7c7043ce9f854172995d8486a4ebc73e"
+        source="id-7b34cdf310634ace868ec4029731a564"
+        target="id-e28384d6eccf4f33aa930197a60c293f">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-7acf1862d6f34284a37bbe5c68fd9284.xml#id-7acf1862d6f34284a37bbe5c68fd9284"/>
+    </sourceConnections>
+    <bounds
+        x="1488"
+        y="336"
+        width="133"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-9e4a7910f77548d187735d836a2e4087.xml#id-9e4a7910f77548d187735d836a2e4087"/>
   </children>
   <properties
       key="_hide_from_export_"
