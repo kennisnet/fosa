@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US3 Doorlopende leerlijn (persp: aanbieder)"
+    name="US2 Doorlopende leerlijn (persp: aanbieder)"
     id="id-97b6755120064dfc827d51d67971423f"
     documentation="Een leerling doet een module Cambridge Engels&#xD;&#xA;">
   <children
@@ -267,7 +267,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-738c4ca9c85b49caa7afbfbd543fbd61"
-      targetConnections="id-089fc88ff7b94307a8857bf30dad2f8d"
       textAlignment="1"
       fillColor="#ffffff"
       alpha="200">
@@ -288,15 +287,6 @@
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-089fc88ff7b94307a8857bf30dad2f8d"
-        source="id-68dc9e2118304bc4aa59aff9f88ae17b"
-        target="id-738c4ca9c85b49caa7afbfbd543fbd61">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-ca9df523a77e45e1b3208b694dbea83c.xml#id-ca9df523a77e45e1b3208b694dbea83c"/>
-    </sourceConnections>
     <bounds
         x="-168"
         y="468"
