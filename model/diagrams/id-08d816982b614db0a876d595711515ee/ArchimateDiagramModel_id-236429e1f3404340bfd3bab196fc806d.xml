@@ -3,17 +3,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04 Inschrijven"
     id="id-236429e1f3404340bfd3bab196fc806d"
-    documentation="Administratiesystemen zijn niet in staat om leerroutes voor individuele leerlingen te registreren. De gevolgen hiervan zijn&#xD;&#xA;* planning en roostering moet 'handmatig' worden aangepast op uitzonderingen van klassikale lesgroepen&#xD;&#xA;* registreren en verantwoorden van aanwezigheid vereist handmatige aanpassingen&#xD;&#xA;* registreren van voortgang en resultaten vereist veel inspanning&#xD;&#xA;* samenstellen van diploma of certificaat moet handmatig&#xD;&#xA;">
+    documentation="&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b6ef28079d204af6adcd2f39d870fd0f"
-      targetConnections="id-78f0ddbe1bd64f38a439f1e380c89af9"
+      targetConnections="id-78f0ddbe1bd64f38a439f1e380c89af9 id-b6711013eea6498d9af0c647a65ee13b"
       textPosition="1">
     <features
         name="gradient"
         value="0"/>
     <bounds
-        x="-60"
+        x="216"
         y="516"
         width="193"
         height="55"/>
@@ -56,7 +56,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-124f860fa6124edfaacd95a1b59107c8"
       textAlignment="1"
-      content="Principes van Edu-V: Overnemen of rekening houden met?&#xD;&#xA;V1: Directe toegang: Onmiddellijke toegang tot een leermiddel na activatie van de licentie mits de licentie wordt geactiveerd in de mogelijke activatieperiode van het leermiddel.&#xD;&#xA;V2: Ontkoppeling fysiek en digitaal: Toegang tot het digitale leermiddel is niet afhankelijk van de levering van een eventueel bijbehorend fysiek leermiddel.&#xD;&#xA;V3: Licenties zijn persoonlijk: Een licentie is een persoonlijk gebruiksrecht en niet overdraagbaar.&#xD;&#xA;V4: Licenties zijn terug te herleiden tot de bestelling: De bestelgrondslag van elke licentie is duidelijk.&#xD;&#xA;V5: Business- en betaalmodellen: Het afsprakenstelsel ondersteunt een product-, abonnements- en verbruiksmodel en verschillende betaalvoorwaarden.&#xD;&#xA;V6: Status van een bestelling: De status van een bestelling en/of levering is inzichtelijk en onbetwistbaar voor alle betrokken partijen.&#xD;&#xA;V7: Geautomatiseerde plaatsing van toegangslinks: Toegangslinks worden geautomatiseerd geplaatst in het leermiddelenportaal van de onderwijsorganisatie. Dat hoeft een onderwijsmedewerker niet met de hand te doen.&#xD;&#xA;V8: Uniformiteit over sectoren: De afspraken zijn breed toepasbaar in alle sectoren. De afspraken zijn generiek maar maken een specifieke invulling per sector mogelijk. &#xD;&#xA;V9: Inzicht in activatie en gebruik: Scholen hebben de mogelijkheid om een totaaloverzicht te hebben over hun leermiddelen.&#xD;&#xA;&#xD;&#xA;">
+      content="TODO Principes van Edu-V: Overnemen of rekening houden met?&#xD;&#xA;V1: Directe toegang: Onmiddellijke toegang tot een leermiddel na activatie van de licentie mits de licentie wordt geactiveerd in de mogelijke activatieperiode van het leermiddel.&#xD;&#xA;V2: Ontkoppeling fysiek en digitaal: Toegang tot het digitale leermiddel is niet afhankelijk van de levering van een eventueel bijbehorend fysiek leermiddel.&#xD;&#xA;V3: Licenties zijn persoonlijk: Een licentie is een persoonlijk gebruiksrecht en niet overdraagbaar.&#xD;&#xA;V4: Licenties zijn terug te herleiden tot de bestelling: De bestelgrondslag van elke licentie is duidelijk.&#xD;&#xA;V5: Business- en betaalmodellen: Het afsprakenstelsel ondersteunt een product-, abonnements- en verbruiksmodel en verschillende betaalvoorwaarden.&#xD;&#xA;V6: Status van een bestelling: De status van een bestelling en/of levering is inzichtelijk en onbetwistbaar voor alle betrokken partijen.&#xD;&#xA;V7: Geautomatiseerde plaatsing van toegangslinks: Toegangslinks worden geautomatiseerd geplaatst in het leermiddelenportaal van de onderwijsorganisatie. Dat hoeft een onderwijsmedewerker niet met de hand te doen.&#xD;&#xA;V8: Uniformiteit over sectoren: De afspraken zijn breed toepasbaar in alle sectoren. De afspraken zijn generiek maar maken een specifieke invulling per sector mogelijk. &#xD;&#xA;V9: Inzicht in activatie en gebruik: Scholen hebben de mogelijkheid om een totaaloverzicht te hebben over hun leermiddelen.&#xD;&#xA;&#xD;&#xA;">
     <features
         name="gradient"
         value="0"/>
@@ -179,6 +179,15 @@
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-73a0bbbf943b47ac80c0b4904dd44a1e"
+        source="id-d65bba8d29a344188d0224df6e4f3e74"
+        target="id-4fb83d715587430ea07a71e37e33fe9f">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-5157d427941c4603aa1e8063039f6eb8.xml#id-5157d427941c4603aa1e8063039f6eb8"/>
+    </sourceConnections>
     <bounds
         x="636"
         y="516"
@@ -351,8 +360,8 @@
         source="id-19ce4f5b40a94c47a04a4d4706c0ce3a"
         target="id-5920cf6cedc14d7498d3601fcb7c309f"/>
     <bounds
-        x="96"
-        y="-144"
+        x="108"
+        y="-69"
         width="331"
         height="121"/>
   </children>
@@ -399,8 +408,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1152"
-        y="-72"
+        x="936"
+        y="144"
         width="169"
         height="55"/>
     <archimateElement
@@ -433,8 +442,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1152"
-        y="-180"
+        x="936"
+        y="36"
         width="169"
         height="55"/>
     <archimateElement
@@ -450,8 +459,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1152"
-        y="-234"
+        x="936"
+        y="-18"
         width="169"
         height="55"/>
     <archimateElement
@@ -467,8 +476,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1152"
-        y="-126"
+        x="936"
+        y="90"
         width="169"
         height="55"/>
     <archimateElement
@@ -561,9 +570,9 @@
           source="id-5920cf6cedc14d7498d3601fcb7c309f"
           target="id-b6ef28079d204af6adcd2f39d870fd0f">
         <bendpoints
-            startX="-16"
+            startX="20"
             startY="237"
-            endX="120"
+            endX="-120"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -773,9 +782,28 @@
           id="id-7c5da86c942f41d2bfeafc652aa86d79"
           source="id-927f04d61dd54ad8aa2b958fbd3f31d2"
           target="id-c26df628b99b4dd0b66670e9a429a00e">
+        <bendpoints
+            startX="-60"
+            startY="285"
+            endX="123"
+            endY="-39"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-b1c3ece60a004b4d80613fa108f5e9ad.xml#id-b1c3ece60a004b4d80613fa108f5e9ad"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b6711013eea6498d9af0c647a65ee13b"
+          source="id-927f04d61dd54ad8aa2b958fbd3f31d2"
+          target="id-b6ef28079d204af6adcd2f39d870fd0f">
+        <bendpoints
+            startX="-84"
+            startY="237"
+            endX="192"
+            endY="-3"/>
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-ee2b879e509c42348233052ab44cc7fc.xml#id-ee2b879e509c42348233052ab44cc7fc"/>
       </sourceConnections>
       <bounds
           x="408"
@@ -847,7 +875,7 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-66bb8eba25fb4e00a6e42eb48f541e85">
         <bendpoints
-            startY="-171"
+            startY="-207"
             endX="-108"
             endY="-3"/>
         <archimateRelationship
@@ -860,7 +888,7 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-5d5f9bed5a654dcba60ad5df73d04cb9">
         <bendpoints
-            startY="-219"
+            startY="-255"
             endX="-108"
             endY="3"/>
         <archimateRelationship
@@ -873,7 +901,7 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-3960d36af0754b95a3b7e27820064b02">
         <bendpoints
-            startY="-279"
+            startY="-315"
             endX="-108"
             endY="-3"/>
         <archimateRelationship
@@ -886,7 +914,7 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-5018241ee8d24a45948f3071cadbab45">
         <bendpoints
-            startY="-327"
+            startY="-363"
             endX="-108"
             endY="3"/>
         <archimateRelationship
@@ -899,8 +927,8 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-4cca6f54b64f4f17a757055b4c617084">
         <bendpoints
-            startY="-387"
-            endX="-108"
+            startY="-207"
+            endX="108"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -912,8 +940,8 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-3de4d279b6a54ce2b611107319f6a060">
         <bendpoints
-            startY="-543"
-            endX="-108"
+            startY="-363"
+            endX="108"
             endY="3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -925,8 +953,8 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-1c4c8cfe0cd24b3a9896846d1c96868e">
         <bendpoints
-            startY="-495"
-            endX="-108"
+            startY="-315"
+            endX="108"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -938,8 +966,8 @@
           source="id-f38bef96700d444dab534c8aeef738fc"
           target="id-04a56efe0eac4b9d8110a5211fa328df">
         <bendpoints
-            startY="-435"
-            endX="-108"
+            startY="-255"
+            endX="108"
             endY="3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -1003,8 +1031,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="240"
-        y="468"
+        x="276"
+        y="600"
         width="210"
         height="55"/>
     <archimateElement
@@ -1040,5 +1068,25 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-e59ffe47aa194689a527204dc8751176.xml#id-e59ffe47aa194689a527204dc8751176"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4fb83d715587430ea07a71e37e33fe9f"
+      targetConnections="id-73a0bbbf943b47ac80c0b4904dd44a1e"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineWidth="3"
+      fillColor="#ccccff"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="876"
+        y="636"
+        width="210"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-df258f254e96408d9ce47ef342b7fc41.xml#id-df258f254e96408d9ce47ef342b7fc41"/>
   </children>
 </archimate:ArchimateDiagramModel>

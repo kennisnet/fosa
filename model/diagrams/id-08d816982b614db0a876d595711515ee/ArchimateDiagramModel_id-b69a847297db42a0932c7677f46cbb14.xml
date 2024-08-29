@@ -337,7 +337,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2cf77e78cb7c42f2988e04b800936136"
-      targetConnections="id-736be28b092346c799d522cbd881bc5a"
+      targetConnections="id-736be28b092346c799d522cbd881bc5a id-4158f23d3a404751b67cbb54d38b80c3"
       textPosition="1">
     <features
         name="gradient"
@@ -470,10 +470,10 @@
           source="id-7756987048e84bddaa1eb2ae527ebaea"
           target="id-9181c1594ca045b7982cdc805632704f">
         <bendpoints
-            startX="-36"
-            startY="178"
-            endX="168"
-            endY="-9"/>
+            startX="-48"
+            startY="177"
+            endX="220"
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-473e32c5bad44f77a449321657cabf5c.xml#id-473e32c5bad44f77a449321657cabf5c"/>
@@ -484,9 +484,9 @@
           source="id-7756987048e84bddaa1eb2ae527ebaea"
           target="id-0c8100ffe7b849a99eec0336d403f3fb">
         <bendpoints
-            startX="-36"
-            startY="130"
-            endX="168"
+            startX="-48"
+            startY="117"
+            endX="220"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -498,9 +498,9 @@
           source="id-7756987048e84bddaa1eb2ae527ebaea"
           target="id-a6cb2958f40b4969a02d12823aa0871e">
         <bendpoints
-            startX="-36"
-            startY="238"
-            endX="168"
+            startX="-48"
+            startY="225"
+            endX="220"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -983,7 +983,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-93cbfc47de62479fa838c4bb0bacb8c9"
-      targetConnections="id-30e0a4039db245cfb9fff40c19778d61"
+      targetConnections="id-30e0a4039db245cfb9fff40c19778d61 id-55621e8d0a9745a38de9ec217e411b67"
       fillColor="#ffffb5"
       textPosition="1">
     <features
@@ -1026,5 +1026,27 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-df258f254e96408d9ce47ef342b7fc41.xml#id-df258f254e96408d9ce47ef342b7fc41"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-51df48b965a54d98aa8a2fe8f1b534cf"
+      textAlignment="1"
+      content="TODO: Strikt genomen komt hier een voorstel voor onderwijs uit (bestaat dit?). De vastlegging van de onderwijsdeelnemer en portfolio volgen dan pas na de inschrijving.">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        id="id-4158f23d3a404751b67cbb54d38b80c3"
+        source="id-51df48b965a54d98aa8a2fe8f1b534cf"
+        target="id-2cf77e78cb7c42f2988e04b800936136"/>
+    <sourceConnections
+        id="id-55621e8d0a9745a38de9ec217e411b67"
+        source="id-51df48b965a54d98aa8a2fe8f1b534cf"
+        target="id-93cbfc47de62479fa838c4bb0bacb8c9"/>
+    <bounds
+        x="1680"
+        y="388"
+        width="205"
+        height="105"/>
   </children>
 </archimate:ArchimateDiagramModel>
