@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US3 Doorlopende leerlijn (persp: deelnemer) "
+    name="US2 Doorlopende leerlijn (persp: deelnemer) "
     id="id-88213ca31e574122922c1f15675082c7"
     documentation="Een leerling doet een module Cambridge Engels&#xD;&#xA;">
   <children
@@ -113,106 +113,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-48598492b79149d99bfff541fc5c482e"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-71fa8203e9fc48f5a47faba48ea4fd56"
-        source="id-48598492b79149d99bfff541fc5c482e"
-        target="id-6c18b2d274c145d086c1e6b051ede80c">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-32f11d3af0e44b8388905be9da8ab741.xml#id-32f11d3af0e44b8388905be9da8ab741"/>
-    </sourceConnections>
-    <bounds
-        x="108"
-        y="126"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-42168363cdab4c76b8f14f28447da951.xml#id-42168363cdab4c76b8f14f28447da951"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-06f0bd3ce28444b1bf51ac7e4a02c545"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-72469a4355a44434a5cbb68398937b41"
-        source="id-06f0bd3ce28444b1bf51ac7e4a02c545"
-        target="id-f4ec829b4dab4fa09261d01b86b36986">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-27463df4200e4230a9cdfb5e78f938b5.xml#id-27463df4200e4230a9cdfb5e78f938b5"/>
-    </sourceConnections>
-    <bounds
-        x="108"
-        y="265"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-84832d25e5b641349810e824c376add3.xml#id-84832d25e5b641349810e824c376add3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c5054306fccd499680ca87c76bc3a97a"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f380611e7c984959847197f5b38b8eb4"
-        source="id-c5054306fccd499680ca87c76bc3a97a"
-        target="id-ed5f79e8e019475ca4460d994050dad5">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-54f387099fba4cb68f7067615422352b.xml#id-54f387099fba4cb68f7067615422352b"/>
-    </sourceConnections>
-    <bounds
-        x="108"
-        y="543"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-cf47dd7bcb034a639fe0c6bfa84b4e62.xml#id-cf47dd7bcb034a639fe0c6bfa84b4e62"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5329098c420e4ceca1eb40e50e53a63b"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-725d0d7e451941dba64fa4914e655e4c"
-        source="id-5329098c420e4ceca1eb40e50e53a63b"
-        target="id-5210940e021749e8ac20902992d8b7fb">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-541d89b37683487d822d51e92c0d16f4.xml#id-541d89b37683487d822d51e92c0d16f4"/>
-    </sourceConnections>
-    <bounds
-        x="108"
-        y="821"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-41720df8c7ca455a9bc35039224b3754.xml#id-41720df8c7ca455a9bc35039224b3754"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-260d805fbef346579377c5e8b5ec3a1b"
       targetConnections="id-7ace0e9753a74ed6af301c8fad4f18cb"
       textAlignment="1"
@@ -226,31 +126,6 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-52ba965264ce4649a2ccba2d8cb6da1d.xml#id-52ba965264ce4649a2ccba2d8cb6da1d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8ca1a1840b354a658022193ea299b2b9"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7ace0e9753a74ed6af301c8fad4f18cb"
-        source="id-8ca1a1840b354a658022193ea299b2b9"
-        target="id-260d805fbef346579377c5e8b5ec3a1b">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-f155c418c26d4726a60c103924e2b083.xml#id-f155c418c26d4726a60c103924e2b083"/>
-    </sourceConnections>
-    <bounds
-        x="108"
-        y="682"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-abc6d00fcea84b3eb530dc7f59fea15d.xml#id-abc6d00fcea84b3eb530dc7f59fea15d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -297,7 +172,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3856719576814f9bb91e71f3a4070ab2"
-      targetConnections="id-3be8e26580ac4cb5bc4c7790c04961d4"
+      targetConnections="id-5657fe377c6c45ef824a5d7f5e61568f"
       textAlignment="1"
       fillColor="#ffffff"
       alpha="200">
@@ -312,23 +187,154 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7765fa35aad14ad9ba32577c3c8870d4"
+      id="id-828b9b103e5745da92e79c3ca5a71a63"
+      fillColor="#d892d5"
       textPosition="1">
     <features
         name="gradient"
         value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3be8e26580ac4cb5bc4c7790c04961d4"
-        source="id-7765fa35aad14ad9ba32577c3c8870d4"
-        target="id-3856719576814f9bb91e71f3a4070ab2">
+        id="id-71fa8203e9fc48f5a47faba48ea4fd56"
+        source="id-828b9b103e5745da92e79c3ca5a71a63"
+        target="id-6c18b2d274c145d086c1e6b051ede80c">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-ca9df523a77e45e1b3208b694dbea83c.xml#id-ca9df523a77e45e1b3208b694dbea83c"/>
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-32f11d3af0e44b8388905be9da8ab741.xml#id-32f11d3af0e44b8388905be9da8ab741"/>
     </sourceConnections>
     <bounds
         x="108"
-        y="408"
+        y="126"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-42168363cdab4c76b8f14f28447da951.xml#id-42168363cdab4c76b8f14f28447da951"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-75887f31ddf042d6b880f1d91a8f6239"
+      fillColor="#cbece2"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f380611e7c984959847197f5b38b8eb4"
+        source="id-75887f31ddf042d6b880f1d91a8f6239"
+        target="id-ed5f79e8e019475ca4460d994050dad5">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-54f387099fba4cb68f7067615422352b.xml#id-54f387099fba4cb68f7067615422352b"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="550"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-cf47dd7bcb034a639fe0c6bfa84b4e62.xml#id-cf47dd7bcb034a639fe0c6bfa84b4e62"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7a614a5f39b143b1ad212f3ff00e9e29"
+      fillColor="#fe8e91"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-725d0d7e451941dba64fa4914e655e4c"
+        source="id-7a614a5f39b143b1ad212f3ff00e9e29"
+        target="id-5210940e021749e8ac20902992d8b7fb">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-541d89b37683487d822d51e92c0d16f4.xml#id-541d89b37683487d822d51e92c0d16f4"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="819"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-41720df8c7ca455a9bc35039224b3754.xml#id-41720df8c7ca455a9bc35039224b3754"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5489d7a95d404a1290615302d5cd3787"
+      fillColor="#ffdbc5"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7ace0e9753a74ed6af301c8fad4f18cb"
+        source="id-5489d7a95d404a1290615302d5cd3787"
+        target="id-260d805fbef346579377c5e8b5ec3a1b">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-f155c418c26d4726a60c103924e2b083.xml#id-f155c418c26d4726a60c103924e2b083"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="680"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-abc6d00fcea84b3eb530dc7f59fea15d.xml#id-abc6d00fcea84b3eb530dc7f59fea15d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4be78b2d2d574ea3b2d14c019718a658"
+      fillColor="#c8d2e0"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5657fe377c6c45ef824a5d7f5e61568f"
+        source="id-4be78b2d2d574ea3b2d14c019718a658"
+        target="id-3856719576814f9bb91e71f3a4070ab2">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-e106a6ece3444b5080caec5927c6514f.xml#id-e106a6ece3444b5080caec5927c6514f"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="399"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-84832d25e5b641349810e824c376add3.xml#id-84832d25e5b641349810e824c376add3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-87dba30093d14ac4bd306e647b74716e"
+      fillColor="#c8d2e0"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-72469a4355a44434a5cbb68398937b41"
+        source="id-87dba30093d14ac4bd306e647b74716e"
+        target="id-f4ec829b4dab4fa09261d01b86b36986">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-27463df4200e4230a9cdfb5e78f938b5.xml#id-27463df4200e4230a9cdfb5e78f938b5"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="256"
         width="144"
         height="55"/>
     <archimateElement

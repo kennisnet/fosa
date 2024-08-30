@@ -372,6 +372,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a467314d1fd04e1d88c4e46f2fb4532e"
+        targetConnections="id-eff1edd23b064393af47500360316db6 id-be4e54bf815c4b8a99793de2baaf8087"
         fontColor="#000000"
         textAlignment="1"
         fillColor="#ffaaaa">
@@ -1501,6 +1502,20 @@
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-7429e2df9a3a4d2f9d13a1c6daf5a07c.xml#id-7429e2df9a3a4d2f9d13a1c6daf5a07c"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-eff1edd23b064393af47500360316db6"
+        source="id-9ad0c19697e64e779d73ef1572870d45"
+        target="id-a467314d1fd04e1d88c4e46f2fb4532e">
+      <bendpoints
+          startX="-144"
+          startY="-3"
+          endX="30"
+          endY="719"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-9592b27244064b2a98a0406070a6019f.xml#id-9592b27244064b2a98a0406070a6019f"/>
+    </sourceConnections>
     <bounds
         x="1164"
         y="1140"
@@ -1632,6 +1647,20 @@
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-5d52b8c2d65d40e09f9eb4ca0aed88ea.xml#id-5d52b8c2d65d40e09f9eb4ca0aed88ea"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-be4e54bf815c4b8a99793de2baaf8087"
+        source="id-5ab63489c2464081ab5197ae64a8c36f"
+        target="id-a467314d1fd04e1d88c4e46f2fb4532e">
+      <bendpoints
+          startX="-132"
+          startY="3"
+          endX="42"
+          endY="671"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-c66f377299f24ce1817b6f9e557e94ec.xml#id-c66f377299f24ce1817b6f9e557e94ec"/>
     </sourceConnections>
     <bounds
         x="1164"
