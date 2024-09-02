@@ -70,11 +70,37 @@
       textAlignment="1"
       fillColor="#f4eeea"
       alpha="200">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-16292a61f119474c9b36b8e718b790e2"
+        source="id-f4ec829b4dab4fa09261d01b86b36986"
+        target="id-5646c6abd5f64521b4380551014522d2">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-cef160d0be474440bf392819ca7ad8af.xml#id-cef160d0be474440bf392819ca7ad8af"/>
+    </sourceConnections>
     <bounds
         x="288"
         y="223"
         width="1609"
         height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5646c6abd5f64521b4380551014522d2"
+        targetConnections="id-16292a61f119474c9b36b8e718b790e2"
+        fillColor="#c8d2e0">
+      <features
+          name="gradient"
+          value="0"/>
+      <bounds
+          x="36"
+          y="48"
+          width="145"
+          height="205"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-957a40c18dc8444eae8e4b2ecf28652e.xml#id-957a40c18dc8444eae8e4b2ecf28652e"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-48365d2b14134b7ab811c454ee5ad1c6.xml#id-48365d2b14134b7ab811c454ee5ad1c6"/>
@@ -156,20 +182,6 @@
         height="80"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-51c5442780fe469ab1800f3794a83460"
-      textAlignment="1"
-      content="NB is Agora al voor-gedefinieerd vwo niveau of havo-niveau oid? Of wordt de keuze pas op het einde gemaakt">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="810"
-        y="-83"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3856719576814f9bb91e71f3a4070ab2"
       targetConnections="id-5657fe377c6c45ef824a5d7f5e61568f"
@@ -184,6 +196,20 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-0f06ca3c9a544dd4a191a0c395f44a0e.xml#id-0f06ca3c9a544dd4a191a0c395f44a0e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-51c5442780fe469ab1800f3794a83460"
+      textAlignment="1"
+      content="NB is Agora al voor-gedefinieerd vwo niveau of havo-niveau oid? Of wordt de keuze pas op het einde gemaakt">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="810"
+        y="-83"
+        width="185"
+        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
