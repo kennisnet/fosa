@@ -53,7 +53,8 @@
       id="id-a6f9cdf76ef64515bb575b6b2a50f8a2"
       targetConnections="id-439ce21f33d24c61aad4e260f0d86b5e"
       textAlignment="1"
-      alpha="200">
+      alpha="200"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-77fb87aa044a4ae59eaee12939508898"
@@ -375,7 +376,8 @@
       targetConnections="id-a6df0b6add6241259cf96f368503c895"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200">
+      alpha="200"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-85c8534b7e344ac8b8ecf12969faf74d"
@@ -608,7 +610,8 @@
       targetConnections="id-8e20add2efcc4031b6df66bf217b1d85"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200">
+      alpha="200"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4dd37e9fd7504afdb1d86ddaacc6d084"
@@ -651,7 +654,8 @@
       targetConnections="id-2554ca4f961744f48cc0737444d23402"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200">
+      alpha="200"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1bba6bc041e94a05a8b239a72e205d27"
@@ -813,7 +817,8 @@
       targetConnections="id-7f0d68d43cd84eba885887b56efff372"
       textAlignment="1"
       fillColor="#ffffff"
-      alpha="200">
+      alpha="200"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b51cf05c0adc4304ae5fbfa747bbf0b7"
@@ -937,7 +942,8 @@
       id="id-a62358ff108e4efeb53d7517394e6358"
       targetConnections="id-7710d454f5df4728adf0bf628a63ba1f"
       textAlignment="1"
-      alpha="200">
+      alpha="200"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f3405b4fba8d4ec59124b54b0386a382"
