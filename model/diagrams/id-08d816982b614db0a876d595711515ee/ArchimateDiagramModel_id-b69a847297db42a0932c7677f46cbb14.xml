@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99514fbdab0e4c27a48dc211cf2dcee9"
       targetConnections="id-ae4fcf538f1a4dc19b8224693852b320"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -55,7 +56,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0c8100ffe7b849a99eec0336d403f3fb"
       targetConnections="id-600f4ec32ff94e078f1988a61ed54fc9 id-8f6b70db100f4fbd929cf291ae80dfb4"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -72,7 +74,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9181c1594ca045b7982cdc805632704f"
       targetConnections="id-a356c9b67f964ce086c22daff35caf0c id-8ebfffb745de4e4ebeff60c83028be00"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -89,7 +92,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a6cb2958f40b4969a02d12823aa0871e"
       targetConnections="id-5474aee6cc3846b199ac6247c28dd4ba id-3986960f38424096a5e9446d90942162"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -338,7 +342,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2cf77e78cb7c42f2988e04b800936136"
       targetConnections="id-736be28b092346c799d522cbd881bc5a id-4158f23d3a404751b67cbb54d38b80c3"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -355,7 +360,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ffe35335654e4d829c96d85cfd235179"
       targetConnections="id-d7dd27e8edae4a9fbe18097671c095a1"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -912,7 +918,8 @@
       id="id-35635985e5ba43bbba00ae09d097e4fd"
       targetConnections="id-8e05aea837a7408b9ac0264765c6c785"
       fillColor="#ffffb5"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -999,7 +1006,8 @@
       id="id-93cbfc47de62479fa838c4bb0bacb8c9"
       targetConnections="id-30e0a4039db245cfb9fff40c19778d61 id-55621e8d0a9745a38de9ec217e411b67"
       fillColor="#ffffb5"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>

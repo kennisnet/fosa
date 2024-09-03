@@ -627,7 +627,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c951802934a04cbd9d7aaedcd3031648"
       targetConnections="id-133b36682e324b7d83a04c4d91f1f208 id-cdcfc5d9bd6f411a8e09377e7d127643"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -647,7 +648,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ceb332711c2a490897db48efef7f9c76"
       targetConnections="id-a38a8385010b4b38afa7b5de513d1dc5"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -682,7 +684,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d530a4a83cf421d9e8d2db75100f0ef"
       targetConnections="id-7a126e307c514a719a17df51e5414f37 id-7674294fb18e479abf22860f3a17ff8c"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
