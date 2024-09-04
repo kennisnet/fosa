@@ -593,6 +593,24 @@
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-3e7e37a10bec490b94835214d16d7727.xml#id-3e7e37a10bec490b94835214d16d7727"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a8f6897ac72541689b04ff7cf67b20a3"
+          source="id-7756987048e84bddaa1eb2ae527ebaea"
+          target="id-a6f920676f4042d092dd2aa2d5e3c4b7">
+        <bendpoints
+            startX="60"
+            startY="45"
+            endX="-492"
+            endY="45"/>
+        <bendpoints
+            startX="552"
+            startY="45"
+            endY="45"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-98c2a3d111fd4d41be48a9b3fb2157a5.xml#id-98c2a3d111fd4d41be48a9b3fb2157a5"/>
+      </sourceConnections>
       <bounds
           x="1156"
           y="48"
@@ -655,7 +673,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f7a8890f36634c4693be1245fd37796b"
-        targetConnections="id-0e53265406fe4eb58e267a4521ea859b id-94b522575fb7435c92da044b547600ef id-1163d65d95f843bfbe166f3669715af9 id-b81d564ea91948fb83678f6ae2a4b5de"
+        targetConnections="id-0e53265406fe4eb58e267a4521ea859b id-94b522575fb7435c92da044b547600ef id-1163d65d95f843bfbe166f3669715af9 id-b81d564ea91948fb83678f6ae2a4b5de id-45ff934c6d274e81ab9cd3ce4c777f0e"
         fillColor="#d892d5"
         textPosition="1">
       <features
@@ -1041,7 +1059,7 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1548"
+        x="1561"
         y="516"
         width="120"
         height="55"/>
@@ -1053,7 +1071,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-51df48b965a54d98aa8a2fe8f1b534cf"
       textAlignment="1"
-      content="TODO: Strikt genomen komt hier een voorstel voor onderwijs uit (bestaat dit?). De vastlegging van de onderwijsdeelnemer en portfolio volgen dan pas na de inschrijving.">
+      content="TODO: Volgens ROSA. Strikt genomen komt hier een voorstel voor onderwijs uit (bestaat dit?). De vastlegging van de onderwijsdeelnemer en portfolio volgen dan pas na de inschrijving.">
     <features
         name="gradient"
         value="0"/>
@@ -1090,5 +1108,58 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-0cc3f67a485f4562a63b5cd649344e46.xml#id-0cc3f67a485f4562a63b5cd649344e46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-64cff657aafe4b2891c298f8f084e4b4"
+      fillColor="#c8d2e0"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-45ff934c6d274e81ab9cd3ce4c777f0e"
+        source="id-64cff657aafe4b2891c298f8f084e4b4"
+        target="id-f7a8890f36634c4693be1245fd37796b">
+      <bendpoints
+          startY="-39"
+          endX="1205"
+          endY="-39"/>
+      <bendpoints
+          startX="-1152"
+          startY="-39"
+          endX="53"
+          endY="-39"/>
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-4c5cb975647946d68280d2f173b509a3.xml#id-4c5cb975647946d68280d2f173b509a3"/>
+    </sourceConnections>
+    <bounds
+        x="1980"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-feed2ce90a574f2eaa140f92dd52aa16.xml#id-feed2ce90a574f2eaa140f92dd52aa16"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a6f920676f4042d092dd2aa2d5e3c4b7"
+      targetConnections="id-a8f6897ac72541689b04ff7cf67b20a3"
+      fillColor="#d892d5"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="1848"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-5c22bd12389648869a34ff8fd7bc66db.xml#id-5c22bd12389648869a34ff8fd7bc66db"/>
   </children>
 </archimate:ArchimateDiagramModel>
