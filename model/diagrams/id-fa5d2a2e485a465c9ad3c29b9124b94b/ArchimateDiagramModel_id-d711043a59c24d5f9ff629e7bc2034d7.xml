@@ -111,7 +111,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-3577b872150142ffbfc7e4b369b4cc5e"
-        name="Identificatie en autorisatie"
+        name="Identificatie authenticatie en autorisatie"
         textAlignment="1">
       <features
           name="gradient"
@@ -219,7 +219,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-9a72379f84034c309f1b84c9f9502ab0"
-        name="Aanschaf- en licentiediensten"
+        name="Leermiddelendiensten"
         textAlignment="1">
       <features
           name="gradient"
@@ -237,7 +237,7 @@
             name="gradient"
             value="0"/>
         <bounds
-            x="228"
+            x="168"
             y="60"
             width="133"
             height="55"/>
@@ -253,13 +253,29 @@
             name="gradient"
             value="0"/>
         <bounds
-            x="60"
+            x="24"
             y="60"
             width="133"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_id-4e2e126c33e647289563bfa602233465.xml#id-4e2e126c33e647289563bfa602233465"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-c07abc021da84136b84678de5f595734"
+          textPosition="1">
+        <features
+            name="gradient"
+            value="0"/>
+        <bounds
+            x="312"
+            y="60"
+            width="133"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-879ed6d15fc04fcbb02418c90a7faae6.xml#id-879ed6d15fc04fcbb02418c90a7faae6"/>
       </children>
     </children>
     <children
@@ -329,29 +345,13 @@
             name="gradient"
             value="0"/>
         <bounds
-            x="36"
+            x="108"
             y="48"
             width="133"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_id-ee2709982c5b43a3b1917917a88e0601.xml#id-ee2709982c5b43a3b1917917a88e0601"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-c07abc021da84136b84678de5f595734"
-          textPosition="1">
-        <features
-            name="gradient"
-            value="0"/>
-        <bounds
-            x="180"
-            y="48"
-            width="133"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessService"
-            href="BusinessService_id-879ed6d15fc04fcbb02418c90a7faae6.xml#id-879ed6d15fc04fcbb02418c90a7faae6"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"

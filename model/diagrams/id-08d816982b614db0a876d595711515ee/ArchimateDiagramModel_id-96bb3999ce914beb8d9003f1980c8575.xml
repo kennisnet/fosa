@@ -730,11 +730,6 @@
           id="id-378def23764048dfa64a135a887204d0"
           source="id-c8ddd84114804e2a93c1d43fb00782b8"
           target="id-13dd8b9f3cb34de886bb4a3da332ef59">
-        <bendpoints
-            startX="275"
-            startY="9"
-            endX="-300"
-            endY="9"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-65eccb61a8164790ac0964bb6c221636.xml#id-65eccb61a8164790ac0964bb6c221636"/>
