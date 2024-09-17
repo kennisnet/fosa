@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="03 Oriënteren en aanmelden"
-    id="id-b69a847297db42a0932c7677f46cbb14">
+    id="id-b69a847297db42a0932c7677f46cbb14"
+    documentation="Deze procesketen beschrijft hoe een leerling geinformeerd wordt over het beschikbare onderwijsaanbod, ook buiten de eigen opleiding en buiten de eigen onderwijsaanbieder. De veronderstelling hierbij is dat onderwijsaanbieders samen afspraken maken over het combineren van onderwijsaanbod of het ontwikkelen van gecombineerd onderwijsaanbod voor elkaars leerlingen. &#xD;&#xA;&#xD;&#xA;De leerling (of diens vertegenwoordigers) initieert het aanmelden en levert de benodigde gegevens aan de onderwijsaanbieder. De gegevens worden alleen gebruikt voor de aanmelding (en evt de daaropvolgende inschrijving). &#xD;&#xA;&#xD;&#xA;Het is wenselijk dat als een leerling een eigen persoonlijk portfolio heeft, dit portfolio kan worden gebruikt door de onderwijsaanbieder om het aanbod af te stemmen op de leerling (niveau, vermijden van dubbelingen). &#xD;&#xA;&#xD;&#xA;Te valideren bij QA team en andere achterban: bij een soort aanmelding zoals deze zal de onderwijsaanbieder toch een soort van voorstel maken over het onderwijsaanbod voor de leerling. Dit kan een op maat gemaakt traject zijn maar natuurlijk ook de standaard brochure van de school. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99514fbdab0e4c27a48dc211cf2dcee9"
@@ -442,7 +443,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-00b359eb6c244892878e5c75239eb722"
-      name="Ketenproces"
+      name="Procesketen"
       textAlignment="1">
     <features
         name="gradient"
@@ -1085,6 +1086,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-51df48b965a54d98aa8a2fe8f1b534cf"
       textAlignment="1"
+      fillColor="#ffff80"
       content="TODO: Volgens ROSA. Strikt genomen komt hier een voorstel voor onderwijs uit (bestaat dit?). De vastlegging van de onderwijsdeelnemer en portfolio volgen dan pas na de inschrijving.">
     <features
         name="gradient"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="06 Onderwijsuitvoering"
-    id="id-a21867a836274502ae00a4b4b80a71f3">
+    id="id-a21867a836274502ae00a4b4b80a71f3"
+    documentation="De onderwijsuitvoering bevat twee belangrijke cycli: &#xD;&#xA;- De leerling volgt onderwijs&#xD;&#xA;- De leerling verzamelt resultaten&#xD;&#xA;- De onderwijsaanbieder evalueert resultaten en bepaalt de vervolgstap (vervolgd bij De leerling volgt onderwijs)&#xD;&#xA;Dit is de voortdurende onderwijs-cyclus, waarbij de leerling wordt begeleid in het onderwijsproces. Alle keuzes hier spelen zich af binnen het reguliere leertraject van de leerling. &#xD;&#xA;&#xD;&#xA;De tweede cyclus komt in de eerste twee stappen overeen met de eerste:&#xD;&#xA;- De leerling volgt onderwijs&#xD;&#xA;- De leerling verzamelt resultaten&#xD;&#xA;- De onderwijsaanbieder voert een summatieve beoordeling van de resultaten uit (proefwerk of examen)&#xD;&#xA;- De resultaten worden geregistreerd, in het portfolio (leerling) of in het dossier van de leerling (portfolio niet beschikbaar)&#xD;&#xA;- De onderwijsaanbieder begeleidt de leerling in de voortgang van het onderwijs en maakt hierbij gebruik van summatieve en formatieve resultaten. Leerling en begeleider kunnen hierbij samen tot de conclusie komen dat er een passende vervolgstap in aanvulling op of in plaats van het eigen leertraject is, en de leerling meldt zich daarop aan. &#xD;&#xA;&#xD;&#xA;Het kunnen aanbieden van een passend aanbod van onderwijs of begeleiding, als aanvulling op de huidige opleiding of als vervanging daarvan, is een belangrijk onderdeel van de flexibiliteit in het onderwijs die deze architectuur wenst te ondersteunen. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f5c0a4d0e4a04f4a80152b09bad0da68"
@@ -48,7 +49,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-44ad6da6b608463f823aebea28e81815"
-      name="Ketenproces"
+      name="Procesketen"
       textAlignment="1">
     <features
         name="gradient"
@@ -242,7 +243,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-546dec494e3e4e7699358d314b08cd50"
-        targetConnections="id-5f59da2c64e34529a58c4436c4e07339"
+        targetConnections="id-5f59da2c64e34529a58c4436c4e07339 id-c6b9ad9bfcb440479d90c32c6f750245"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -901,6 +902,20 @@
           id="id-e9d449df96e44e048d82e8c3b6bcf02b"
           source="id-9f6e2eefb04a408fa5ec3625cd84bbf3"
           target="id-4b2ff2f5d0004a96b9ac6336a57c7cc9">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-4c5cb975647946d68280d2f173b509a3.xml#id-4c5cb975647946d68280d2f173b509a3"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-ed0ecb6215b14713bd01cf4acf9e1f1c"
+          source="id-9f6e2eefb04a408fa5ec3625cd84bbf3"
+          target="id-768ab201dde140bb826d7a2d1c1f71f7">
+        <bendpoints
+            startX="870"
+            startY="15"
+            endX="-204"
+            endY="9"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-4c5cb975647946d68280d2f173b509a3.xml#id-4c5cb975647946d68280d2f173b509a3"/>
@@ -1818,5 +1833,42 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-653309474bf1462597012cc74b104f25.xml#id-653309474bf1462597012cc74b104f25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c8ac1eac73d74aa5a8168273f5748d48"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Agora-onderwijs e.d.: past &quot;elke X weken aanpassen leerplan&quot; binnen deze cyclus?">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        id="id-c6b9ad9bfcb440479d90c32c6f750245"
+        source="id-c8ac1eac73d74aa5a8168273f5748d48"
+        target="id-546dec494e3e4e7699358d314b08cd50"/>
+    <bounds
+        x="264"
+        y="624"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-768ab201dde140bb826d7a2d1c1f71f7"
+      targetConnections="id-ed0ecb6215b14713bd01cf4acf9e1f1c"
+      fillColor="#d892d5"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="2052"
+        y="348"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-8ba4def40baf426f83c0f9d4a0a9562c.xml#id-8ba4def40baf426f83c0f9d4a0a9562c"/>
   </children>
 </archimate:ArchimateDiagramModel>
