@@ -86,8 +86,7 @@
       id="id-636bc5277d574e68ad8b749594f40458"
       targetConnections="id-5fa98c8a023f41d5aa0a6b8a2be41f9f"
       textAlignment="1"
-      alpha="200"
-      type="1">
+      alpha="200">
     <bounds
         x="36"
         y="144"
@@ -103,8 +102,7 @@
       targetConnections="id-74eabe3153d64343a9b6c9ff0358a44c"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200"
-      type="1">
+      alpha="200">
     <bounds
         x="36"
         y="283"
@@ -120,8 +118,7 @@
       targetConnections="id-f85ad463ebc54fc1a40d11f8330d02df"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200"
-      type="1">
+      alpha="200">
     <bounds
         x="36"
         y="561"
@@ -137,8 +134,7 @@
       targetConnections="id-b81c16876ee14ce1bac6626e07a0ede6"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200"
-      type="1">
+      alpha="200">
     <bounds
         x="36"
         y="839"
@@ -232,8 +228,7 @@
       targetConnections="id-7ee0931fc9ba4c7baea7ddce8672cd70"
       textAlignment="1"
       fillColor="#ffffff"
-      alpha="200"
-      type="1">
+      alpha="200">
     <bounds
         x="36"
         y="700"
@@ -326,7 +321,8 @@
       id="id-1eda952ab3cb40ca92439f534184ae53"
       targetConnections="id-bb359a67a524457cbe31d69140fbb98c"
       textAlignment="1"
-      alpha="200">
+      alpha="200"
+      type="1">
     <bounds
         x="36"
         y="426"
