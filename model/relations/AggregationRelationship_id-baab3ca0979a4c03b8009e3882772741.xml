@@ -1,11 +1,11 @@
-<archimate:InfluenceRelationship
+<archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-f8e17f8735c24c3c9c0e3fff0038871c">
+    id="id-baab3ca0979a4c03b8009e3882772741">
   <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-239184163f0949d58b900bc3ccffc0f5.xml#id-239184163f0949d58b900bc3ccffc0f5"/>
+  <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-cff0c2fa609c413ba8c4fec599f99720.xml#id-cff0c2fa609c413ba8c4fec599f99720"/>
-  <target
-      xsi:type="archimate:Requirement"
-      href="Requirement_id-6d8dc39b3d1e4d7d82ff28c694480392.xml#id-6d8dc39b3d1e4d7d82ff28c694480392"/>
-</archimate:InfluenceRelationship>
+</archimate:AggregationRelationship>
