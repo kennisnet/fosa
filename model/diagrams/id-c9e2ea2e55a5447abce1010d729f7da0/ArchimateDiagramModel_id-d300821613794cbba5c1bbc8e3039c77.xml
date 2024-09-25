@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US2b Doorlopende leerlijn (persp: deelnemer)"
+    name="US2b 10-14 onderwijs (persp: deelnemer)"
     id="id-d300821613794cbba5c1bbc8e3039c77"
     documentation="Een leerling doet een module Cambridge Engels&#xD;&#xA;">
   <children
@@ -270,9 +270,9 @@
           target="id-ac897e6720d14fc8a48d236bfc4aa37c">
         <bendpoints
             startX="-109"
-            startY="45"
+            startY="9"
             endX="-108"
-            endY="-372"/>
+            endY="-411"/>
         <bendpoints
             startX="-109"
             startY="417"
