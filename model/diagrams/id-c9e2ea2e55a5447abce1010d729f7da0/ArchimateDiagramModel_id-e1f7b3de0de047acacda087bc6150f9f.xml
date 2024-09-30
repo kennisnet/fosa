@@ -8,7 +8,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-621a591b216d4601a573fece40089394"
       textAlignment="1"
-      fillColor="#d2d7d7">
+      fillColor="#d2d7d7"
+      type="1">
     <bounds
         x="-264"
         y="96"
@@ -100,8 +101,7 @@
       id="id-dc62eb0e8ee94941990e8eabc5f23348"
       targetConnections="id-7ff9151d07e04f30ab79fd022ec2b45b"
       textAlignment="1"
-      alpha="200"
-      type="1">
+      alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c65ca533dcbe4aeead891b6de4882763"
@@ -453,8 +453,7 @@
       targetConnections="id-3c98cd428e5146f591bb29ac529ac990"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200"
-      type="1">
+      alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9b2e042639ff4095859a1ea836e38d08"
@@ -625,8 +624,7 @@
       targetConnections="id-8ef90fb96cbf4a8aaebb0bfbaed5388d"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200"
-      type="1">
+      alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4433ee18487449de9306d1818aba24ed"
@@ -669,8 +667,7 @@
       targetConnections="id-80abb9c521644cf887733e92b87cb546"
       textAlignment="1"
       fillColor="#f4eeea"
-      alpha="200"
-      type="1">
+      alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4da69abdffbe41ed914ed483a9958616"
@@ -859,8 +856,7 @@
       targetConnections="id-5c2eb0e7962444e7ab07c14898fa9409"
       textAlignment="1"
       fillColor="#ffffff"
-      alpha="200"
-      type="1">
+      alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b6cc8013e77f45879bf05a4a80abdefc"
@@ -1112,8 +1108,7 @@
       targetConnections="id-6097e766dca24b0da8501786a4d0196a"
       textAlignment="1"
       fillColor="#ffffff"
-      alpha="200"
-      type="1">
+      alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7d2924f10d8f4e55adf78c19fe11643a"
