@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="US2a Doorlopende en geintegreerde leerlijn (persp: aanbieder)"
-    id="id-97b6755120064dfc827d51d67971423f"
-    documentation="Een leerling doet een module Cambridge Engels.&#xD;&#xA;">
+    id="id-97b6755120064dfc827d51d67971423f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-59d9f5fcb4f94c6cab31927e7f4c21b7"
@@ -1543,6 +1542,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-757899e811214288b2f7429076b8dcd7.xml#id-757899e811214288b2f7429076b8dcd7"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f6c365b7c7be4f0eb2b476738aeba99c"
+        source="id-e34d07a34a2047b8980250eda23441bc"
+        target="id-8200bc8154c0449e86179b6a11476d16">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-dfe6534fab9e417b956d0d4d592d5c62.xml#id-dfe6534fab9e417b956d0d4d592d5c62"/>
+    </sourceConnections>
     <bounds
         x="-288"
         y="422"
@@ -1987,8 +1995,8 @@
             href="TriggeringRelationship_id-69f35189a5ca485a85ec8faa1cf72148.xml#id-69f35189a5ca485a85ec8faa1cf72148"/>
       </sourceConnections>
       <bounds
-          x="2268"
-          y="22"
+          x="2292"
+          y="19"
           width="144"
           height="55"/>
       <archimateElement
@@ -1998,7 +2006,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6650ace3338245d1a4bab37a9e3ec133"
-        targetConnections="id-fad147fa811f4442b3ef363a9e2f3fb3 id-2c979ee40bbb4d2db68f80d3aa78dda9 id-fc682ffa0b5d44bf82a798f583e0c566 id-df02d412b616467ba1870e4fad00dcea"
+        targetConnections="id-fad147fa811f4442b3ef363a9e2f3fb3 id-2c979ee40bbb4d2db68f80d3aa78dda9 id-fc682ffa0b5d44bf82a798f583e0c566 id-df02d412b616467ba1870e4fad00dcea id-fdef54e0a08944be8866971911d6a144"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -2174,9 +2182,9 @@
           source="id-faf615e0212d4edab8c94082f5614864"
           target="id-5d1b8f9c3041490f8b0cf359b180bbcd">
         <bendpoints
-            startX="-12"
+            startX="-24"
             startY="-51"
-            endX="-12"
+            endX="-24"
             endY="50"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -2190,6 +2198,33 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-e02b7a01a5c04aae909c98cf8fda7e3a.xml#id-e02b7a01a5c04aae909c98cf8fda7e3a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8200bc8154c0449e86179b6a11476d16"
+        targetConnections="id-f6c365b7c7be4f0eb2b476738aeba99c"
+        fillColor="#c8d2e0"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-fdef54e0a08944be8866971911d6a144"
+          source="id-8200bc8154c0449e86179b6a11476d16"
+          target="id-6650ace3338245d1a4bab37a9e3ec133">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-de3841e43aba42038465202c7d9e9d50.xml#id-de3841e43aba42038465202c7d9e9d50"/>
+      </sourceConnections>
+      <bounds
+          x="2190"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-20c3819331d246859a74a393c1893ed9.xml#id-20c3819331d246859a74a393c1893ed9"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -2348,5 +2383,19 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-f3ca799994e64d1b8efce2c54c0cbdb5.xml#id-f3ca799994e64d1b8efce2c54c0cbdb5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2763f4f1f99f4219a9a1af50e57da2f9"
+      textAlignment="1"
+      content="Twee onderwijsinstellingen bieden doorlopende leerlijn vmbo-mbo aan, tbv doorlopende en geïntegreerde leerroutes vmbo - mbo en verlengd praktijkonderwijs tbv doorstroom vmbo - mbo entree opleidingen.&#xD;&#xA;Stellen gezamenlijk onderwijsteam samen met alle benodigde competenties&#xD;&#xA;Onderlinge afspraken over financiële verevening&#xD;&#xA;Leerling stapt na het tweede jaar vmbo over naar het mbo&#xD;&#xA;Vo verantwoordelijk voor vo-onderwijs, examinering, diploma&#xD;&#xA;Mbo verantwoordelijk voor mbo onderwijs, examinering, diploma,deelnameregistratie, financiering en verantwoordng.&#xD;&#xA;Er is geen sprake van een aparte onderwijsaanbieder voor dit onderwijs.&#xD;&#xA;&#xD;&#xA;">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="-504"
+        y="-84"
+        width="529"
+        height="169"/>
   </children>
 </archimate:ArchimateDiagramModel>

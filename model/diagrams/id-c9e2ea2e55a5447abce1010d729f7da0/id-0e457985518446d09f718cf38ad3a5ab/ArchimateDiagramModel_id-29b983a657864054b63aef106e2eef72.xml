@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="US3a Onderwijs volgen bij andere onderwijsaanbieder (persp: deelnemer)"
     id="id-29b983a657864054b63aef106e2eef72"
-    documentation="Een leerling doet een module Cambridge Engels&#xD;&#xA;">
+    documentation="&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-66d4cb74dc8a417abf7e745383e92854"
@@ -137,10 +137,6 @@
           id="id-c84bfa2b0e8a457e9c226ea066ffb63a"
           source="id-d94b389b44a745e79eeefbec71798220"
           target="id-4784b302ec9b460195b633e6794fce32">
-        <sourceConnections
-            id="id-791d0631c4d544568513e55fb4362e0e"
-            source="id-c84bfa2b0e8a457e9c226ea066ffb63a"
-            target="id-5e67a95ae13740d68a5dda48e01be1f1"/>
         <bendpoints
             startX="-168"
             startY="9"
@@ -478,7 +474,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d5f8a63f9ac84011b208a9f26eec04e4"
-        targetConnections="id-4859355e6e9445aab893c73640f4e9e3 id-4be8c856765b40ed963d311070db5be7 id-08455c9ed2d647f696e7dd398607f2b6"
+        targetConnections="id-4859355e6e9445aab893c73640f4e9e3 id-4be8c856765b40ed963d311070db5be7"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -496,7 +492,6 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ebbe333d014f459a94e4706ae38bc69e"
-          targetConnections="id-9187c2191a4c40af8747c25d18759384"
           source="id-d5f8a63f9ac84011b208a9f26eec04e4"
           target="id-d94b389b44a745e79eeefbec71798220">
         <archimateRelationship
@@ -528,11 +523,6 @@
           target="id-5bbbb90399ae419785e590c6cb639460">
         <bendpoints
             startX="210"
-            startY="2"
-            endX="1020"
-            endY="147"/>
-        <bendpoints
-            startX="210"
             startY="-226"
             endX="1020"
             endY="-81"/>
@@ -545,10 +535,10 @@
             href="TriggeringRelationship_id-4c5cb975647946d68280d2f173b509a3.xml#id-4c5cb975647946d68280d2f173b509a3"/>
       </sourceConnections>
       <bounds
-          x="924"
+          x="756"
           y="48"
-          width="133"
-          height="55"/>
+          width="456"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-feed2ce90a574f2eaa140f92dd52aa16.xml#id-feed2ce90a574f2eaa140f92dd52aa16"/>
@@ -750,21 +740,6 @@
         href="BusinessRole_id-41720df8c7ca455a9bc35039224b3754.xml#id-41720df8c7ca455a9bc35039224b3754"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-e3fd44bebc474171b85bdd3c608747a8"
-      textAlignment="1"
-      content="Uitgangspunt: alleen gecertificeerde resultaten in portfolio">
-    <sourceConnections
-        id="id-9187c2191a4c40af8747c25d18759384"
-        source="id-e3fd44bebc474171b85bdd3c608747a8"
-        target="id-ebbe333d014f459a94e4706ae38bc69e"/>
-    <bounds
-        x="1932"
-        y="144"
-        width="133"
-        height="73"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a598bd60d0ad44d4816e81a78ca22264"
       targetConnections="id-e8dab626259e4a53b4cd9545168c42ae"
@@ -860,21 +835,6 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-abc6d00fcea84b3eb530dc7f59fea15d.xml#id-abc6d00fcea84b3eb530dc7f59fea15d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3a111a8bef4b4a6e8fad8409205afee8"
-      textAlignment="1"
-      content="Vallen rapporten (overgang van jaar N naar N+1) onder 'certificaten'?">
-    <sourceConnections
-        id="id-08455c9ed2d647f696e7dd398607f2b6"
-        source="id-3a111a8bef4b4a6e8fad8409205afee8"
-        target="id-d5f8a63f9ac84011b208a9f26eec04e4"/>
-    <bounds
-        x="1932"
-        y="300"
-        width="133"
-        height="73"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -1415,18 +1375,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-5e67a95ae13740d68a5dda48e01be1f1"
-      targetConnections="id-791d0631c4d544568513e55fb4362e0e"
-      textAlignment="1"
-      content="Een van beide routes: direct uitwisselen van het resultaat of via het portfolio">
-    <bounds
-        x="1320"
-        y="-43"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-7e32ddd9749c4b14a60e30c4f65103f9"
       textAlignment="1"
       content="Dit is de monitoring voor het deel dat de leerling doet bij de andere onderwijsaanbieder">
@@ -1450,9 +1398,9 @@
         source="id-ddb1a7ee6da54a84920cd08ee3d35ae1"
         target="id-472bfe907ce84f219259a026505b4a7f"/>
     <bounds
-        x="984"
-        y="-43"
-        width="185"
+        x="792"
+        y="-108"
+        width="205"
         height="57"/>
   </children>
 </archimate:ArchimateDiagramModel>

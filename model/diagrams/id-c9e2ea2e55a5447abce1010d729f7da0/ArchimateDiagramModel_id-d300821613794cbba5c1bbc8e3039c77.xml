@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="US2b 10-14 onderwijs (persp: deelnemer)"
     id="id-d300821613794cbba5c1bbc8e3039c77"
-    documentation="Een leerling doet een module Cambridge Engels&#xD;&#xA;">
+    documentation="&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-fb32066e884d41959cc0666c36f4eac4"
@@ -939,12 +939,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-4f9855d2c85f4e90ab9b01d29b0e1d2b"
       textAlignment="1"
-      content="Doorlopende Leerlijn - Situatie 2&#xD;&#xA;- 10-14 onderwijs, waarbij een po- en een vo school samen het onderwijs verzorgen voor de leerlingen in de leeftijd van 10-14 jaar.&#xD;&#xA;&#xD;&#xA;Er is  sprake van een aparte Samenwerkingsschool, met een eigen naam / label">
+      content="10-14 onderwijs&#xD;&#xA;Een po- en een vo school verzorgen samen het onderwijs voor de leerlingen in de leeftijd van 10-14 jaar.&#xD;&#xA;Leerlingen stromen in op 10-j leeftijd&#xD;&#xA;Uitstromen naar regulier onderwijs op 14-j leeftijd (niveaukeuze bepaald door 10-14 aanbieder), maar sommige 10-14 scholen bieden ook eindexamen aan.&#xD;&#xA;Scholen regelen financiering onderling.&#xD;&#xA;Er is  sprake van een aparte Samenwerkingsschool, met een eigen naam / label. Dit kan nu ook in RIO worden opgegeven. &#xD;&#xA;10-14 scholen zijn &quot;niet zichtbaar&quot; voor DUO, OCW, IvhO, dus verantwoordelijkheden liggen bij achterliggende scholen.&#xD;&#xA;">
     <bounds
-        x="312"
-        y="-72"
-        width="457"
-        height="85"/>
+        x="108"
+        y="-168"
+        width="529"
+        height="193"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
