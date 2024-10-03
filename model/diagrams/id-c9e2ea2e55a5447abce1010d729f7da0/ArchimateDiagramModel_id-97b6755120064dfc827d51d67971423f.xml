@@ -1826,15 +1826,10 @@
           source="id-ca65943d57af4a558dbf3d2797700446"
           target="id-dcd5d0f5984e40faa394d26edcbbb7fb">
         <bendpoints
-            startX="43"
-            startY="-53"
-            endX="-672"
-            endY="213"/>
-        <bendpoints
             startX="199"
-            startY="-53"
+            startY="-5"
             endX="-516"
-            endY="213"/>
+            endY="261"/>
         <bendpoints
             startX="199"
             startY="-269"
@@ -1893,13 +1888,13 @@
         <bendpoints
             startX="228"
             startY="4"
-            endX="-468"
-            endY="346"/>
+            endX="-480"
+            endY="333"/>
         <bendpoints
             startX="228"
-            startY="-332"
-            endX="-468"
-            endY="10"/>
+            startY="-320"
+            endX="-480"
+            endY="9"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
@@ -1916,7 +1911,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c0ea65e722a94efeaeea746aa1307c7f"
-        targetConnections="id-9bad7236bdb14ec5b377be88b9c0c9bd id-fd00c86c8ce944f1aa5856b029892df6"
+        targetConnections="id-9bad7236bdb14ec5b377be88b9c0c9bd id-fd00c86c8ce944f1aa5856b029892df6 id-aeaa1804201d4982a7fdbc990cb9c6df"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1973,7 +1968,7 @@
             href="TriggeringRelationship_id-db9432d0e5a04ec786b17f1b60f70581.xml#id-db9432d0e5a04ec786b17f1b60f70581"/>
       </sourceConnections>
       <bounds
-          x="2052"
+          x="2040"
           y="24"
           width="144"
           height="55"/>
@@ -1984,7 +1979,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aa6d469bede346ff8b37806e250a71a0"
-        targetConnections="id-c1ca2bce42d04f51a8b4bee385f0baa1 id-e4945443293f4b189931c9a6fcd1f56f"
+        targetConnections="id-c1ca2bce42d04f51a8b4bee385f0baa1 id-e4945443293f4b189931c9a6fcd1f56f id-211e4ae0104545b98df9581025ac7d30"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -2014,8 +2009,8 @@
             href="TriggeringRelationship_id-69f35189a5ca485a85ec8faa1cf72148.xml#id-69f35189a5ca485a85ec8faa1cf72148"/>
       </sourceConnections>
       <bounds
-          x="2292"
-          y="19"
+          x="2304"
+          y="24"
           width="144"
           height="55"/>
       <archimateElement
@@ -2237,7 +2232,7 @@
             href="TriggeringRelationship_id-de3841e43aba42038465202c7d9e9d50.xml#id-de3841e43aba42038465202c7d9e9d50"/>
       </sourceConnections>
       <bounds
-          x="2190"
+          x="2183"
           y="24"
           width="120"
           height="55"/>
@@ -2321,6 +2316,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-654ae0d73e964b8f9b09882b5dd932fe"
+      targetConnections="id-1e77091d5f7b4553876df0b318ebc584"
       fillColor="#c8d2e0"
       textPosition="1">
     <features
@@ -2416,5 +2412,62 @@
         y="-84"
         width="529"
         height="169"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3bcbafa2a6914b0d9527795b0286b550"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Hoe is afstemming over het rooster van het gemeenschappelijke team geregeld?">
+    <sourceConnections
+        id="id-1e77091d5f7b4553876df0b318ebc584"
+        source="id-3bcbafa2a6914b0d9527795b0286b550"
+        target="id-654ae0d73e964b8f9b09882b5dd932fe"/>
+    <bounds
+        x="1440"
+        width="313"
+        height="67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-88ccf79a9c2a4c65ae94245fd77b7dc8"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Assumptie: mbo-OA ontvangt financiering voor leerlingen, beide scholen maken afspraken over overheveling budgetten. Werkt het ook zo in de praktijk?">
+    <sourceConnections
+        id="id-aeaa1804201d4982a7fdbc990cb9c6df"
+        source="id-88ccf79a9c2a4c65ae94245fd77b7dc8"
+        target="id-c0ea65e722a94efeaeea746aa1307c7f">
+      <bendpoints
+          startX="108"
+          startY="243"
+          endX="42"
+          endY="-215"/>
+    </sourceConnections>
+    <bounds
+        x="1092"
+        width="313"
+        height="67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0136a463a3ee4befbf9ea497436d1e18"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Hoe worden vo-resultaten verwerkt, waar vindt de sturing plaats? Leerling heeft beide ECK-Id's of is er een overgang?">
+    <sourceConnections
+        id="id-211e4ae0104545b98df9581025ac7d30"
+        source="id-0136a463a3ee4befbf9ea497436d1e18"
+        target="id-aa6d469bede346ff8b37806e250a71a0">
+      <bendpoints
+          startX="-24"
+          startY="231"
+          endX="12"
+          endY="-209"/>
+    </sourceConnections>
+    <bounds
+        x="1968"
+        width="313"
+        height="67"/>
   </children>
 </archimate:ArchimateDiagramModel>

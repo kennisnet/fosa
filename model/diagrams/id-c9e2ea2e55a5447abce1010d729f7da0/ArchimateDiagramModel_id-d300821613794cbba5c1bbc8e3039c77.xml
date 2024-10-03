@@ -452,6 +452,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-6fa85f6d9525440ab7592198f3092c40.xml#id-6fa85f6d9525440ab7592198f3092c40"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-27cd1caf1d22422c9db6059413a6b3ba"
+        source="id-ba84050a5bff4c4db17b02f1121ce8af"
+        target="id-e337c718f4f74e1c96d3644b6559f0f2">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-9204b4ce42f74d57b2e6c247bdf5bb6e.xml#id-9204b4ce42f74d57b2e6c247bdf5bb6e"/>
+    </sourceConnections>
     <bounds
         x="288"
         y="223"
@@ -549,6 +558,20 @@
       <features
           name="gradient"
           value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-19dfb011d1e449fcafeb194854759664"
+          source="id-67d0b44718c04d5cab535f59115981e3"
+          target="id-e337c718f4f74e1c96d3644b6559f0f2">
+        <bendpoints
+            startX="36"
+            startY="38"
+            endX="-120"
+            endY="2"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-82a0885d746f4c18a6904e022f0a0cd7.xml#id-82a0885d746f4c18a6904e022f0a0cd7"/>
+      </sourceConnections>
       <bounds
           x="420"
           y="36"
@@ -557,6 +580,33 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-bde775fdd9634fb09471965d85b07dd0.xml#id-bde775fdd9634fb09471965d85b07dd0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e337c718f4f74e1c96d3644b6559f0f2"
+        targetConnections="id-27cd1caf1d22422c9db6059413a6b3ba id-19dfb011d1e449fcafeb194854759664"
+        fillColor="#c8d2e0"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-14cd86f42ec941228b0faea35bad76ce"
+          source="id-e337c718f4f74e1c96d3644b6559f0f2"
+          target="id-20517d8c9f334ac0b738d0d42ec9db6e">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-e2d269a328db46978edf8b4309ddfbd4.xml#id-e2d269a328db46978edf8b4309ddfbd4"/>
+      </sourceConnections>
+      <bounds
+          x="576"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-4720e0b7ac2f43d2ac0584d66e72d059.xml#id-4720e0b7ac2f43d2ac0584d66e72d059"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -587,7 +637,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-20517d8c9f334ac0b738d0d42ec9db6e"
-        targetConnections="id-6f8f68f761ad4edd88af30d976f461dc"
+        targetConnections="id-6f8f68f761ad4edd88af30d976f461dc id-34a165d32341429fa1b8d3dd85563b85 id-14cd86f42ec941228b0faea35bad76ce"
         fillColor="#cbece2"
         textPosition="1">
       <features
@@ -939,12 +989,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-4f9855d2c85f4e90ab9b01d29b0e1d2b"
       textAlignment="1"
-      content="10-14 onderwijs&#xD;&#xA;Een po- en een vo school verzorgen samen het onderwijs voor de leerlingen in de leeftijd van 10-14 jaar.&#xD;&#xA;Leerlingen stromen in op 10-j leeftijd&#xD;&#xA;Uitstromen naar regulier onderwijs op 14-j leeftijd (niveaukeuze bepaald door 10-14 aanbieder), maar sommige 10-14 scholen bieden ook eindexamen aan.&#xD;&#xA;Scholen regelen financiering onderling.&#xD;&#xA;Er is  sprake van een aparte Samenwerkingsschool, met een eigen naam / label. Dit kan nu ook in RIO worden opgegeven. &#xD;&#xA;10-14 scholen zijn &quot;niet zichtbaar&quot; voor DUO, OCW, IvhO, dus verantwoordelijkheden liggen bij achterliggende scholen.&#xD;&#xA;">
+      content="10-14 onderwijs&#xD;&#xA;Eel leerling stroomt in op 10-jarige leeftijd in de 10-14 school.&#xD;&#xA;Leerling doet na 2 jaar doorstroomtoets.&#xD;&#xA;Op 14-jarige leeftijd stroomt de leerling door naar het passende vo-onderwijs (NB sommige 10-14 initiatieven bieden ook eindexamen aan).&#xD;&#xA;">
     <bounds
         x="108"
-        y="-168"
+        y="-144"
         width="529"
-        height="193"/>
+        height="121"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -962,6 +1012,15 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-fc9895312b484ed9ac2504d42138c128.xml#id-fc9895312b484ed9ac2504d42138c128"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c9cba607a7c04009bf3aa49a622f72b1"
+        source="id-d89f97ac419543c2b623697a3b67082f"
+        target="id-48a31643d19342e7a678de91863e4c3c">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-b953778f4b3a48e98bef67a1c44707aa.xml#id-b953778f4b3a48e98bef67a1c44707aa"/>
     </sourceConnections>
     <bounds
         x="288"
@@ -1045,6 +1104,20 @@
       <features
           name="gradient"
           value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-019b8c92fa454e358c6339e7212b903b"
+          source="id-b95e013b720a4593aef66f27bacf8eea"
+          target="id-48a31643d19342e7a678de91863e4c3c">
+        <bendpoints
+            startX="36"
+            startY="43"
+            endX="-132"
+            endY="7"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-82a0885d746f4c18a6904e022f0a0cd7.xml#id-82a0885d746f4c18a6904e022f0a0cd7"/>
+      </sourceConnections>
       <bounds
           x="420"
           y="48"
@@ -1053,6 +1126,33 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-bde775fdd9634fb09471965d85b07dd0.xml#id-bde775fdd9634fb09471965d85b07dd0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-48a31643d19342e7a678de91863e4c3c"
+        targetConnections="id-019b8c92fa454e358c6339e7212b903b id-c9cba607a7c04009bf3aa49a622f72b1"
+        fillColor="#c8d2e0"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-34a165d32341429fa1b8d3dd85563b85"
+          source="id-48a31643d19342e7a678de91863e4c3c"
+          target="id-20517d8c9f334ac0b738d0d42ec9db6e">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-e2d269a328db46978edf8b4309ddfbd4.xml#id-e2d269a328db46978edf8b4309ddfbd4"/>
+      </sourceConnections>
+      <bounds
+          x="588"
+          y="84"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-4720e0b7ac2f43d2ac0584d66e72d059.xml#id-4720e0b7ac2f43d2ac0584d66e72d059"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1292,7 +1392,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ac897e6720d14fc8a48d236bfc4aa37c"
-        targetConnections="id-6b9de042c55042aa94cba6a1b1caf8bc id-010daa58cdfc46acb9d12c2d81b1d463"
+        targetConnections="id-6b9de042c55042aa94cba6a1b1caf8bc id-010daa58cdfc46acb9d12c2d81b1d463 id-31af4e98f68f457cb49d1ff805101db5"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1328,5 +1428,21 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-239184163f0949d58b900bc3ccffc0f5.xml#id-239184163f0949d58b900bc3ccffc0f5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9891dfb4533e42b0b4beff84d5b6ef08"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Kan de 10-14 onderwijsaanbieder helemaal zonder leerlingadministratie? Of maakt deze gebruik van de leerlingadministratie van een van de deelnemende scholen?">
+    <sourceConnections
+        id="id-31af4e98f68f457cb49d1ff805101db5"
+        source="id-9891dfb4533e42b0b4beff84d5b6ef08"
+        target="id-ac897e6720d14fc8a48d236bfc4aa37c"/>
+    <bounds
+        x="900"
+        y="-72"
+        width="289"
+        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>

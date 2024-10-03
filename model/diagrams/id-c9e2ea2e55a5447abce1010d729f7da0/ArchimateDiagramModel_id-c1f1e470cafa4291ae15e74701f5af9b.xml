@@ -897,6 +897,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-ec0c80f5ed284d908ff6ad1b4bbbfcbe.xml#id-ec0c80f5ed284d908ff6ad1b4bbbfcbe"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-014de0ce85b74119b77523ad947bdbb7"
+        source="id-4652013438ae48d6941ae43390d2afbf"
+        target="id-7f1db977fc5342fab5df36a19ba08cc8">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-dfe6534fab9e417b956d0d4d592d5c62.xml#id-dfe6534fab9e417b956d0d4d592d5c62"/>
+    </sourceConnections>
     <bounds
         x="288"
         y="362"
@@ -1022,7 +1031,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dc5186a7132b40438be090b0524fb683"
-        targetConnections="id-508afbe448af4daab46e4b53bc3415e5 id-3f544058e10e4a669847c9cc3c825757 id-67f1242783f845e3a7ab32f7adf2e8db"
+        targetConnections="id-508afbe448af4daab46e4b53bc3415e5 id-3f544058e10e4a669847c9cc3c825757 id-67f1242783f845e3a7ab32f7adf2e8db id-5bfaf239df394d089a788330dc1e2ffc"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1052,10 +1061,10 @@
             href="TriggeringRelationship_id-4c5cb975647946d68280d2f173b509a3.xml#id-4c5cb975647946d68280d2f173b509a3"/>
       </sourceConnections>
       <bounds
-          x="900"
-          y="72"
-          width="157"
-          height="55"/>
+          x="768"
+          y="96"
+          width="432"
+          height="31"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-feed2ce90a574f2eaa140f92dd52aa16.xml#id-feed2ce90a574f2eaa140f92dd52aa16"/>
@@ -1115,10 +1124,6 @@
           id="id-508afbe448af4daab46e4b53bc3415e5"
           source="id-6c3c110c43404b3a8a3cb581310ffbf8"
           target="id-dc5186a7132b40438be090b0524fb683">
-        <bendpoints
-            startY="58"
-            endX="-138"
-            endY="-5"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-db9432d0e5a04ec786b17f1b60f70581.xml#id-db9432d0e5a04ec786b17f1b60f70581"/>
@@ -1287,6 +1292,33 @@
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-cff0c2fa609c413ba8c4fec599f99720.xml#id-cff0c2fa609c413ba8c4fec599f99720"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7f1db977fc5342fab5df36a19ba08cc8"
+        targetConnections="id-014de0ce85b74119b77523ad947bdbb7"
+        fillColor="#c8d2e0"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5bfaf239df394d089a788330dc1e2ffc"
+          source="id-7f1db977fc5342fab5df36a19ba08cc8"
+          target="id-dc5186a7132b40438be090b0524fb683">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-de3841e43aba42038465202c7d9e9d50.xml#id-de3841e43aba42038465202c7d9e9d50"/>
+      </sourceConnections>
+      <bounds
+          x="919"
+          y="9"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-20c3819331d246859a74a393c1893ed9.xml#id-20c3819331d246859a74a393c1893ed9"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-0f06ca3c9a544dd4a191a0c395f44a0e.xml#id-0f06ca3c9a544dd4a191a0c395f44a0e"/>
@@ -1295,14 +1327,14 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-af48f57b2b3446208798a75322e5d2bb"
       textAlignment="1"
-      content="Twee onderwijsinstellingen bieden doorlopende leerlijn vmbo-mbo aan, tbv doorlopende en geïntegreerde leerroutes vmbo - mbo en verlengd praktijkonderwijs tbv doorstroom vmbo - mbo entree opleidingen.&#xD;&#xA;Stellen gezamenlijk onderwijsteam samen met alle benodigde competenties&#xD;&#xA;Onderlinge afspraken over financiële verevening&#xD;&#xA;Leerling stapt na het tweede jaar vmbo over naar het mbo&#xD;&#xA;Vo verantwoordelijk voor vo-onderwijs, examinering, diploma&#xD;&#xA;Mbo verantwoordelijk voor mbo onderwijs, examinering, diploma,deelnameregistratie, financiering en verantwoordng.&#xD;&#xA;Er is geen sprake van een aparte onderwijsaanbieder voor dit onderwijs.&#xD;&#xA;&#xD;&#xA;">
+      content="Een leerling stapt in het tweede jaar vmbo over naar de doorlopende leerlijn van het roc. &#xD;&#xA;Leerling krijgt onderwijs van een team met vmbo- en mbo-docenten.&#xD;&#xA;Leerling krijgt vmbo-vakken en doet daar examen in en volgt tegelijk ook mbo-onderwijs.&#xD;&#xA;Na afloop van de doorlopende leerlijn stroomt de leerling naadloos door naar het roc&#xD;&#xA;">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
         x="108"
-        y="-156"
-        width="529"
-        height="169"/>
+        y="-108"
+        width="685"
+        height="109"/>
   </children>
 </archimate:ArchimateDiagramModel>

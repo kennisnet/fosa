@@ -458,7 +458,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4ca99d24c8ab44b4a7add1ccff5bde2d"
-      targetConnections="id-f58cb4a271964d72b130b617619428f7"
+      targetConnections="id-f58cb4a271964d72b130b617619428f7 id-05e0caceaed94ada959b78e855e446f7"
       textAlignment="1"
       fillColor="#f4eeea"
       alpha="200"
@@ -561,6 +561,15 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-e23a223c766c42f6b3d8d3b0a11008a8.xml#id-e23a223c766c42f6b3d8d3b0a11008a8"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1c094e88a7ab4630ba10c9e42c7c2d34"
+        source="id-4ca99d24c8ab44b4a7add1ccff5bde2d"
+        target="id-ca76806b671047ad8ec66000cb585c76">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-6cf89094d4e9440fb743694fe1c6a5f9.xml#id-6cf89094d4e9440fb743694fe1c6a5f9"/>
     </sourceConnections>
     <bounds
         x="288"
@@ -840,7 +849,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-172e6f77ecf74a208f4524e77c26edaa"
-        targetConnections="id-90a582dd887c4499a975b24a213bf7cf id-d1b6b772b62f4eb58e64da1d26691512 id-cb93cc85bf7545a69fd80b2c863f6fc2 id-306993a1e56f4503804cf6bfd11e9db8 id-173c36b1ee134f6ab607d6969411f73c"
+        targetConnections="id-90a582dd887c4499a975b24a213bf7cf id-d1b6b772b62f4eb58e64da1d26691512 id-cb93cc85bf7545a69fd80b2c863f6fc2 id-306993a1e56f4503804cf6bfd11e9db8 id-5abede8ea7084e91b715be0c83c80644"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -969,6 +978,33 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-cff0c2fa609c413ba8c4fec599f99720.xml#id-cff0c2fa609c413ba8c4fec599f99720"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ca76806b671047ad8ec66000cb585c76"
+        targetConnections="id-1c094e88a7ab4630ba10c9e42c7c2d34"
+        fillColor="#c8d2e0"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5abede8ea7084e91b715be0c83c80644"
+          source="id-ca76806b671047ad8ec66000cb585c76"
+          target="id-172e6f77ecf74a208f4524e77c26edaa">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-de3841e43aba42038465202c7d9e9d50.xml#id-de3841e43aba42038465202c7d9e9d50"/>
+      </sourceConnections>
+      <bounds
+          x="948"
+          y="30"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-20c3819331d246859a74a393c1893ed9.xml#id-20c3819331d246859a74a393c1893ed9"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -1267,20 +1303,20 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-be6ae9f9e4174791a462dc0dee46798f"
       textAlignment="1"
-      content="Een vwo-leerling wil een vak volgen en eindexamen doen in een vak dat niet door de eigen school wordt aangeboden, denk aan:&#xD;&#xA;- Spaans&#xD;&#xA;- Wiskunde C of D&#xD;&#xA;- Klassieke talen">
+      content="Een vwo-leerling wil een vak volgen en eindexamen doen in een vak dat niet door de eigen school wordt aangeboden, denk aan:&#xD;&#xA;- Spaans&#xD;&#xA;- Wiskunde C of D&#xD;&#xA;- Klassieke talen&#xD;&#xA;Assumptie: onderwijsaanbieders hebben onderlinge afspraken over deelname aan onderwijs (mogelijk wederzijds), incl afspraken over financiering, roostering, begeleiding en resultaat-uitwisseling. ">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
         x="108"
-        y="-96"
+        y="-110"
         width="406"
-        height="110"/>
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0c3bd6f70a3c44238b022d66204209cb"
-      targetConnections="id-05ea51d995424097a3f65bc79ab7dd2d"
+      targetConnections="id-05ea51d995424097a3f65bc79ab7dd2d id-5ef623d042d94d408e33e0b83ef571af"
       textAlignment="1"
       alpha="200"
       type="1">
@@ -1355,6 +1391,15 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-452262ced83444a381798ba88615f2ea.xml#id-452262ced83444a381798ba88615f2ea"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7cba91eccdec4a5d862d4724c46812b3"
+        source="id-0c3bd6f70a3c44238b022d66204209cb"
+        target="id-f7b4f1c7f8154d70b4029db25c9d65fe">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c746d076aa5f493ebd3d198fabeb3fb9.xml#id-c746d076aa5f493ebd3d198fabeb3fb9"/>
     </sourceConnections>
     <bounds
         x="288"
@@ -1519,7 +1564,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0c62f3f82b774fdba15329ca8fee9619"
-        targetConnections="id-e609f2bea944413bb166dfb95a7f1bd7 id-9859e6f5881b4ddca6248ae054da227e"
+        targetConnections="id-e609f2bea944413bb166dfb95a7f1bd7 id-9859e6f5881b4ddca6248ae054da227e id-fa020b501bf74f409bfa24d5a8944c08"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1560,7 +1605,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8a5629f4172c4d09901928f93c3de3eb"
-        targetConnections="id-3e3ea52cd3e84d20ae3b954dfedfbb74 id-ace1f4f7d96d405ab6c08683fba06874 id-197cd2ac655e4973a6d776063144c7ce id-6f2c3506cd52470e8081e2e44f57ceee"
+        targetConnections="id-3e3ea52cd3e84d20ae3b954dfedfbb74 id-ace1f4f7d96d405ab6c08683fba06874 id-197cd2ac655e4973a6d776063144c7ce id-edac7762aa104829ac4eb58ebd613499"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1569,6 +1614,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-306993a1e56f4503804cf6bfd11e9db8"
+          targetConnections="id-cf28cb0eef444819bd7f0b414370c817"
           source="id-8a5629f4172c4d09901928f93c3de3eb"
           target="id-172e6f77ecf74a208f4524e77c26edaa">
         <archimateRelationship
@@ -1628,7 +1674,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c57870fb18e54040bfd351ca2dd017c6"
-        targetConnections="id-3a5bb74dc47c4d688fb131c0631e6a92 id-30c3776e712a4aa4ae8dfd207127356e id-9fc0c90d7f4a45b3ae66736cab9f3305"
+        targetConnections="id-3a5bb74dc47c4d688fb131c0631e6a92 id-30c3776e712a4aa4ae8dfd207127356e id-9fc0c90d7f4a45b3ae66736cab9f3305 id-98ee0044c9574722bd9913f37c5a377a"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1709,6 +1755,33 @@
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-bde775fdd9634fb09471965d85b07dd0.xml#id-bde775fdd9634fb09471965d85b07dd0"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f7b4f1c7f8154d70b4029db25c9d65fe"
+        targetConnections="id-7cba91eccdec4a5d862d4724c46812b3"
+        fillColor="#c8d2e0"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-edac7762aa104829ac4eb58ebd613499"
+          source="id-f7b4f1c7f8154d70b4029db25c9d65fe"
+          target="id-8a5629f4172c4d09901928f93c3de3eb">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-de3841e43aba42038465202c7d9e9d50.xml#id-de3841e43aba42038465202c7d9e9d50"/>
+      </sourceConnections>
+      <bounds
+          x="923"
+          y="30"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-20c3819331d246859a74a393c1893ed9.xml#id-20c3819331d246859a74a393c1893ed9"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-17180a10842a48a184c9e1262194d401.xml#id-17180a10842a48a184c9e1262194d401"/>
@@ -1741,48 +1814,95 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-5d2f29a1f9cf4ea1877573f43fe97857"
-      textAlignment="1"
-      content="Dit is de monitoring voor het deel dat de leerling doet bij de andere onderwijsaanbieder">
-    <sourceConnections
-        id="id-6f2c3506cd52470e8081e2e44f57ceee"
-        source="id-5d2f29a1f9cf4ea1877573f43fe97857"
-        target="id-8a5629f4172c4d09901928f93c3de3eb"/>
-    <bounds
-        x="816"
-        y="-60"
-        width="185"
-        height="57"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-620c67c68e9d4e81b319a4445f9a16de"
-      textAlignment="1"
-      content="Dit is de monitoring op de gehele leerroute, bij de thuisinstelling">
-    <sourceConnections
-        id="id-173c36b1ee134f6ab607d6969411f73c"
-        source="id-620c67c68e9d4e81b319a4445f9a16de"
-        target="id-172e6f77ecf74a208f4524e77c26edaa"/>
-    <bounds
-        x="816"
-        y="-116"
-        width="185"
-        height="57"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-29055d8f4b5f42cfb3dd4fabe7046321"
       targetConnections="id-d99b0f096ed148339230aa7b90995563"
       textAlignment="1"
       fillColor="#ffff80"
       content="Vraag: Uitzoeken, hoe werkt dit bij aanpassen leerroute buiten de eigen instelling">
-    <features
-        name="gradient"
-        value="0"/>
     <bounds
         x="612"
         y="-83"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8a223463289142dcaf915bae8c4c91b6"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Komt het resultaat van de gast-onderwijsaanbieder netjes in het dossier bij de thuis-instelling terecht? Kan een portfolio hierbij helpen?">
+    <sourceConnections
+        id="id-fa020b501bf74f409bfa24d5a8944c08"
+        source="id-8a223463289142dcaf915bae8c4c91b6"
+        target="id-0c62f3f82b774fdba15329ca8fee9619">
+      <bendpoints
+          startX="12"
+          startY="236"
+          endX="36"
+          endY="-233"/>
+    </sourceConnections>
+    <bounds
+        x="1476"
+        y="-65"
+        width="313"
+        height="67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-81678d9a36a54ce7893c0a510e88c747"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Beide onderwijsaanbieders zijn 'compleet' en kunnen de hele leerling-reis ondersteunen. Belangrijk om de verantwoordelijkheden goed vast te leggen - wie zorgt waarvoor.">
+    <sourceConnections
+        id="id-05e0caceaed94ada959b78e855e446f7"
+        source="id-81678d9a36a54ce7893c0a510e88c747"
+        target="id-4ca99d24c8ab44b4a7add1ccff5bde2d"/>
+    <sourceConnections
+        id="id-5ef623d042d94d408e33e0b83ef571af"
+        source="id-81678d9a36a54ce7893c0a510e88c747"
+        target="id-0c3bd6f70a3c44238b022d66204209cb"/>
+    <bounds
+        x="1932"
+        y="319"
+        width="313"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dcac2b2de083467b97c1ef7ea0a18038"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Richtlijn voor financiering, hoe? Gesloten beurzen, forfait, anders?">
+    <sourceConnections
+        id="id-98ee0044c9574722bd9913f37c5a377a"
+        source="id-dcac2b2de083467b97c1ef7ea0a18038"
+        target="id-c57870fb18e54040bfd351ca2dd017c6"/>
+    <bounds
+        x="816"
+        y="-83"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a94926e2bab24092a8660e1f62d83f6a"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Afstemming begeleiding, welke mogelijkheden zijn er om de voortgang van het externe vak te monitoren bij de thuis-instelling?">
+    <sourceConnections
+        id="id-cf28cb0eef444819bd7f0b414370c817"
+        source="id-a94926e2bab24092a8660e1f62d83f6a"
+        target="id-306993a1e56f4503804cf6bfd11e9db8">
+      <bendpoints
+          startX="-36"
+          startY="416"
+          endX="-30"
+          endY="-25"/>
+    </sourceConnections>
+    <bounds
+        x="1140"
+        y="-65"
+        width="313"
+        height="67"/>
   </children>
 </archimate:ArchimateDiagramModel>
