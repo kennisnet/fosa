@@ -1403,4 +1403,15 @@
         width="205"
         height="57"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ade9a4311bd14aaebaaf07108dcc32d5"
+      textAlignment="1"
+      content="Test voor Peter">
+    <bounds
+        x="564"
+        y="-81"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
