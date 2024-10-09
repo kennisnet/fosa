@@ -1273,7 +1273,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1d57ce850bcb4b80950b65d73a9a7397"
-        targetConnections="id-b895e3d2f01749fb9bf2ccd6b9b52c5c id-5f2356ace61045f0b83d4bb5606f4d80 id-e79b7526d3b741e5b15361379a9d3d7a"
+        targetConnections="id-b895e3d2f01749fb9bf2ccd6b9b52c5c id-5f2356ace61045f0b83d4bb5606f4d80 id-e79b7526d3b741e5b15361379a9d3d7a id-da886343da4946e288af3d144d8cb8b3"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1444,5 +1444,21 @@
         y="-72"
         width="289"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-47078c8362444442a5ab5b9f3bcc1d5f"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Is er wel een gezamenljk leerlingvolgsysteem?">
+    <sourceConnections
+        id="id-da886343da4946e288af3d144d8cb8b3"
+        source="id-47078c8362444442a5ab5b9f3bcc1d5f"
+        target="id-1d57ce850bcb4b80950b65d73a9a7397"/>
+    <bounds
+        x="1224"
+        y="-69"
+        width="185"
+        height="70"/>
   </children>
 </archimate:ArchimateDiagramModel>

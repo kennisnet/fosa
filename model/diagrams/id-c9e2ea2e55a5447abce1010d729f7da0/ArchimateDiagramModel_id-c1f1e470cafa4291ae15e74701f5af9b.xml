@@ -441,7 +441,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4435b492d335443da2aac4afd7d901ab"
-        targetConnections="id-99ee5b87494e4c5b8e2c5b22d9c75d6e id-fda7efda246b4ef599910f359ccd966e id-1eed24a4e6b04af8b5a73bf96df75e90"
+        targetConnections="id-99ee5b87494e4c5b8e2c5b22d9c75d6e id-fda7efda246b4ef599910f359ccd966e id-1eed24a4e6b04af8b5a73bf96df75e90 id-07369af6fb964cf79248a3fc10004d51"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -482,7 +482,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0221e3277a9c4bc296aadfe50949c8d7"
-        targetConnections="id-ad71874964bd4f7bbf99daac5cf12b48 id-21f9acfad66746d4bfb6a6b5149c44ed"
+        targetConnections="id-ad71874964bd4f7bbf99daac5cf12b48 id-21f9acfad66746d4bfb6a6b5149c44ed id-eecff2af1d774fa79c6841a95ce0ad94"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -523,7 +523,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-727ff6199932415cbe176456dc202d24"
-        targetConnections="id-bb85c32394af474abcd60180badd7ea7"
+        targetConnections="id-bb85c32394af474abcd60180badd7ea7 id-6bcc7dbd6a5d4da4b8be7fbe746fb9f7"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -914,6 +914,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-66ca85ea71ce43adb61e41c71ba5a08c"
+        targetConnections="id-21eea8b3a4c94d49a83fa9d06fb46d63"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -986,7 +987,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e7ec75db0ff84533b90d42784c882527"
-        targetConnections="id-33b3c6acd1ef486894b18ccd9b0ee763"
+        targetConnections="id-33b3c6acd1ef486894b18ccd9b0ee763 id-479a25beafd843d5aa1bc32e556e88fa"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1004,7 +1005,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-20a868fdb0bd4c6c95b344fb2f38da98"
-        targetConnections="id-810168c7822a4a80ade96343678e2f11"
+        targetConnections="id-810168c7822a4a80ade96343678e2f11 id-502efc68c0184463a7f67ad42eaf397d"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1113,7 +1114,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6c3c110c43404b3a8a3cb581310ffbf8"
-        targetConnections="id-f66a41fdc8914a0c867f6f503ce16f95"
+        targetConnections="id-f66a41fdc8914a0c867f6f503ce16f95 id-73fb450a8fe148f8ae384be52230924e"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1180,7 +1181,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0db3c03300b24f29b3c39942fee1939b"
-        targetConnections="id-815374a4f4ff4a1ebd5217667bb58163"
+        targetConnections="id-815374a4f4ff4a1ebd5217667bb58163 id-9fa06e7f48bc44ea9f9b1ed00f576101"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1258,7 +1259,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-39b1ad6bbda542a0aff94b9d5c85cc27"
-        targetConnections="id-66635f008cb94060a1dd1545d1b356f4 id-34962479b41147f29170910a42533566"
+        targetConnections="id-66635f008cb94060a1dd1545d1b356f4 id-34962479b41147f29170910a42533566 id-3d0abd2fa5cb45b28449d488f6dfdae6"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1284,8 +1285,8 @@
             href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
       </sourceConnections>
       <bounds
-          x="421"
-          y="87"
+          x="409"
+          y="84"
           width="144"
           height="55"/>
       <archimateElement
@@ -1333,8 +1334,134 @@
         value="false"/>
     <bounds
         x="108"
-        y="-108"
-        width="685"
-        height="109"/>
+        y="-120"
+        width="313"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-52484f346573429c9c767c5394b287b1"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Wie maakt additioneel aanbod bekend / zichtbaar. Maw waar vindt de leerling dit aanbod?">
+    <sourceConnections
+        id="id-6bcc7dbd6a5d4da4b8be7fbe746fb9f7"
+        source="id-52484f346573429c9c767c5394b287b1"
+        target="id-727ff6199932415cbe176456dc202d24"/>
+    <sourceConnections
+        id="id-21eea8b3a4c94d49a83fa9d06fb46d63"
+        source="id-52484f346573429c9c767c5394b287b1"
+        target="id-66ca85ea71ce43adb61e41c71ba5a08c"/>
+    <bounds
+        x="108"
+        y="36"
+        width="169"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8044b08d2c5d465f8d9f6568bb95aba0"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Klopt het, dat de persoonlijke leerroute incl. volgen voortgang wordt overgeheveld naar de vervolgopleiding.&#xD;&#xA;Zo ja hoe? Overdracht?">
+    <sourceConnections
+        id="id-3d0abd2fa5cb45b28449d488f6dfdae6"
+        source="id-8044b08d2c5d465f8d9f6568bb95aba0"
+        target="id-39b1ad6bbda542a0aff94b9d5c85cc27"/>
+    <bounds
+        x="432"
+        y="-60"
+        width="241"
+        height="79"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-286b56d16a054704b2688489ef915093"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Hoe zit het met overdracht financiering en bekostiging van thuis naar vervolginstelling?">
+    <sourceConnections
+        id="id-479a25beafd843d5aa1bc32e556e88fa"
+        source="id-286b56d16a054704b2688489ef915093"
+        target="id-e7ec75db0ff84533b90d42784c882527"/>
+    <sourceConnections
+        id="id-502efc68c0184463a7f67ad42eaf397d"
+        source="id-286b56d16a054704b2688489ef915093"
+        target="id-20a868fdb0bd4c6c95b344fb2f38da98"/>
+    <bounds
+        x="708"
+        y="-60"
+        width="217"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bf7e20568e384ef6b13e6123fe324257"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Aanname: leerling volgt al het onderwijs bij de vervolgopleiding (na de overstap), ook het vo-deel als leerling al op mbo zit">
+    <sourceConnections
+        id="id-73fb450a8fe148f8ae384be52230924e"
+        source="id-bf7e20568e384ef6b13e6123fe324257"
+        target="id-6c3c110c43404b3a8a3cb581310ffbf8"/>
+    <bounds
+        x="961"
+        y="-60"
+        width="264"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8f698a2fca48440c9dafa2e44eee5cc1"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Aanname:&#xD;&#xA;- Schoolexamens worden ook afgenomen bij vervolgopleiding (roc)&#xD;&#xA;- Resultaat wordt uitgewisseld thuis (vo) instelling&#xD;&#xA;- Thuis(vo)instelling diplomeert">
+    <sourceConnections
+        id="id-07369af6fb964cf79248a3fc10004d51"
+        source="id-8f698a2fca48440c9dafa2e44eee5cc1"
+        target="id-4435b492d335443da2aac4afd7d901ab">
+      <bendpoints
+          startX="60"
+          startY="164"
+          endX="-32"
+          endY="-154"/>
+    </sourceConnections>
+    <bounds
+        x="1308"
+        y="-60"
+        width="409"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1835af0375ac4bc89381fdd6dc4499ff"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Dit is het vo/vmbo-diploma">
+    <sourceConnections
+        id="id-eecff2af1d774fa79c6841a95ce0ad94"
+        source="id-1835af0375ac4bc89381fdd6dc4499ff"
+        target="id-0221e3277a9c4bc296aadfe50949c8d7"/>
+    <bounds
+        x="1908"
+        y="275"
+        width="109"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d69c4491312346d585229b6e34623a07"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Dit is het mbo-diploma">
+    <sourceConnections
+        id="id-9fa06e7f48bc44ea9f9b1ed00f576101"
+        source="id-d69c4491312346d585229b6e34623a07"
+        target="id-0db3c03300b24f29b3c39942fee1939b"/>
+    <bounds
+        x="1908"
+        y="396"
+        width="109"
+        height="50"/>
   </children>
 </archimate:ArchimateDiagramModel>
