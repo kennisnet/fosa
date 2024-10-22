@@ -425,7 +425,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0f62ad8d4a8d466f9600fea8b0ea9915"
       targetConnections="id-0ca1e0b906ec46be97763cd9056c4c0d"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -442,7 +443,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ba81b17d426f4c6d9bf257b3eec18523"
       targetConnections="id-e32466e9d59e4f748d32213ef986dd4e"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -459,7 +461,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ddbaf79d461b4da7a345fa8a13ac9488"
       targetConnections="id-8d69690bede74a3a925bb3158ceb315b id-f1272827fa9e42c4ac6eff539bfe428a id-72700141333243fd9b77a3cc5d4a1506"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>
@@ -476,7 +479,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0231fc14305e4b56b6b05663878cdef0"
       targetConnections="id-125def5964dc48b6a090d519b3dd649f"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>

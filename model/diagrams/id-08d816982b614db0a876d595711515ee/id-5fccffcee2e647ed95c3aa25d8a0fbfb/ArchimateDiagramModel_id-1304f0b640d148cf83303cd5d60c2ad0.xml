@@ -441,7 +441,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b7b3665bf41048078a24728ca8785c91"
       targetConnections="id-6d942404e8a2457ca725122009cb6e7c id-a18bf61f518b4a528b18615b3e492223"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="gradient"
         value="0"/>

@@ -8,8 +8,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f5c0a4d0e4a04f4a80152b09bad0da68"
       targetConnections="id-b5461ceb77eb406980a1f2cd6629d6a9 id-7afc91c997cc4d0ab45b070e28d921f4 id-c6369d2222b54626a2c1b3606ec2aabf"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -29,8 +28,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cbf49c94b04f489eb9bdb8c805808232"
       targetConnections="id-34e6469f786349fb9bd0380aa6b9963a id-0bcf6d6579a145e695525df57edd713f"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -1455,8 +1453,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c28b8a8c71404a73bd92c30b040fdbfa"
       targetConnections="id-2e5608287acc468c8c90591637caa94b"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="gradient"
         value="0"/>
@@ -1504,8 +1501,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9378636d94c34f35af18445c51b453e2"
       targetConnections="id-781e62b338ff4acd9e830dde762914bb id-ed0a95028cfa4b52b011796a3d486487 id-cf2b32274c764dad964ccb5d03843896"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="gradient"
         value="0"/>
