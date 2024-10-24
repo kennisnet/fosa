@@ -1509,24 +1509,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-dbb6b2e486b643979da0ef56dfe6465c"
-        source="id-e34d07a34a2047b8980250eda23441bc"
-        target="id-4aac58ed26a3480fb61c3e4f892faeb1">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-511ccd375e324db3a2015630b3798352.xml#id-511ccd375e324db3a2015630b3798352"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c166d8d8e31240e9be6051e2a95df231"
-        source="id-e34d07a34a2047b8980250eda23441bc"
-        target="id-54707080c4084eb88b851763fc02fb58">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-76df09d116b247c0a271e50638b12594.xml#id-76df09d116b247c0a271e50638b12594"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8648fe0499c54a968ba8b52195a40b2a"
         source="id-e34d07a34a2047b8980250eda23441bc"
         target="id-51c337c2d4e54d08923d82fae75d209d">
@@ -1744,7 +1726,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4aac58ed26a3480fb61c3e4f892faeb1"
-        targetConnections="id-e8608ad8b406494dbc851cf7ad9ef65d id-2705efa9b9b84481b3b568f3b3378aaf id-dbb6b2e486b643979da0ef56dfe6465c id-03e328d47bf644cca8ff27fab29d6a65"
+        targetConnections="id-e8608ad8b406494dbc851cf7ad9ef65d id-2705efa9b9b84481b3b568f3b3378aaf id-03e328d47bf644cca8ff27fab29d6a65"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1818,7 +1800,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-54707080c4084eb88b851763fc02fb58"
-        targetConnections="id-1402b5c09d12462bacd271eac8f2ce30 id-c166d8d8e31240e9be6051e2a95df231"
+        targetConnections="id-1402b5c09d12462bacd271eac8f2ce30"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
