@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="US3 Onderwijs volgen bij andere onderwijsaanbieder (persp: deelnemer)"
-    id="id-573accaf3c81481a99db9671ed20b24a">
+    id="id-573accaf3c81481a99db9671ed20b24a"
+    documentation="Een vwo-onderwijsdeelnemer wil een vak volgen en eindexamen doen in een vak dat niet door de eigen school wordt aangeboden, denk aan Spaans, Wiskunde C of D, Klassieke talen. De aanname is dat onderwijsaanbieders onderlinge afspraken hebben of maken over deelname aan onderwijs (mogelijk wederzijds), incl afspraken over financiering, roostering, begeleiding en resultaat-uitwisseling. ">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-29ddb7508cba4d049d694e222315bc20"
