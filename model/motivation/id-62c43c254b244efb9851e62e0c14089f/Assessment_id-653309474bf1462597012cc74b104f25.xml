@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="16. Toegang tot eigen leermaterialen vanuit locatie gast-onderwijsaanbieder"
     id="id-653309474bf1462597012cc74b104f25"
-    documentation="Onderwijsvolgers die op een gast-instelling een deel van het onderwijs volgen, moeten daar kunnen inloggen en daarbij als dat nodig is ook nog steeds toegang tot de ICT-middelen van de eigen school moet kunnen krijgen, en wel op een veilige (zie de bijbehorende principes) manier."/>
+    documentation="Onderwijsvolgers die op een gast-instelling een deel van het onderwijs volgen, moeten daar kunnen inloggen en daarbij als dat nodig is ook nog steeds toegang tot de ICT-middelen van de eigen school moet kunnen krijgen, en wel op een veilige (zie de bijbehorende principes) manier. In een LAS kan maar één ECK-ID verwerkt worden, en dus ook maar één ECK-ID aan een identiteit gekoppeld. Dus met een los vo-account en een los mbo-account kun je twee ECK-id’s hebben, maar dat is in de praktijk lastig."/>

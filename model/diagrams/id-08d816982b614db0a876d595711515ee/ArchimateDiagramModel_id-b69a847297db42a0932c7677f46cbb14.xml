@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="03 Oriënteren en aanmelden"
     id="id-b69a847297db42a0932c7677f46cbb14"
-    documentation="Deze procesketen beschrijft hoe een leerling geinformeerd wordt over het beschikbare onderwijsaanbod, ook buiten de eigen opleiding en buiten de eigen onderwijsaanbieder. De veronderstelling hierbij is dat onderwijsaanbieders samen afspraken maken over het combineren van onderwijsaanbod of het ontwikkelen van gecombineerd onderwijsaanbod voor elkaars leerlingen. &#xD;&#xA;&#xD;&#xA;De leerling (of diens vertegenwoordigers) initieert het aanmelden en levert de benodigde gegevens aan de onderwijsaanbieder. De gegevens worden alleen gebruikt voor de aanmelding (en evt de daaropvolgende inschrijving). &#xD;&#xA;&#xD;&#xA;Het is wenselijk dat als een leerling een eigen persoonlijk portfolio heeft, dit portfolio kan worden gebruikt door de onderwijsaanbieder om het aanbod af te stemmen op de leerling (niveau, vermijden van dubbelingen). &#xD;&#xA;&#xD;&#xA;Te valideren bij QA team en andere achterban: bij een soort aanmelding zoals deze zal de onderwijsaanbieder toch een soort van voorstel maken over het onderwijsaanbod voor de leerling. Dit kan een op maat gemaakt traject zijn maar natuurlijk ook de standaard brochure van de school. ">
+    documentation="Deze procesketen beschrijft hoe een onderwijsdeelnemer geïnformeerd wordt over het beschikbare onderwijsaanbod, ook buiten de eigen opleiding en buiten de eigen onderwijsaanbieder. De veronderstelling hierbij is dat onderwijsaanbieders samen afspraken maken over het combineren van onderwijsaanbod of het ontwikkelen van gecombineerd onderwijsaanbod voor elkaars onderwijsdeelnemers. &#xD;&#xA;&#xD;&#xA;De onderwijsdeelnemer (of diens vertegenwoordigers) initieert het aanmelden en levert de benodigde gegevens aan de onderwijsaanbieder. De gegevens worden alleen gebruikt voor de aanmelding (en evt de daaropvolgende inschrijving). &#xD;&#xA;&#xD;&#xA;Het is wenselijk dat als een onderwijsdeelnemer een eigen persoonlijk portfolio heeft, dit portfolio kan worden gebruikt door de onderwijsaanbieder om het aanbod af te stemmen op de onderwijsdeelnemer (niveau, vermijden van dubbelingen). &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99514fbdab0e4c27a48dc211cf2dcee9"
@@ -860,7 +860,7 @@
           target="id-ffe35335654e4d829c96d85cfd235179">
         <bendpoints
             startX="-31"
-            startY="117"
+            startY="165"
             endX="111"
             endY="-3"/>
         <archimateRelationship
@@ -902,9 +902,9 @@
           target="id-35635985e5ba43bbba00ae09d097e4fd">
         <bendpoints
             startX="-31"
-            startY="165"
+            startY="225"
             endX="111"
-            endY="-9"/>
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-3530d6f604ec45c99ed746903b166362.xml#id-3530d6f604ec45c99ed746903b166362"/>
