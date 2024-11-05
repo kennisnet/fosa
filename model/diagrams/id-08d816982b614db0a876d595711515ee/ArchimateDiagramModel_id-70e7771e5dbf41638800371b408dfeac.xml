@@ -157,20 +157,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-590b3d5cfa6142d787bac76b9cf26de5"
-          source="id-e4f33e57cc364bb987fadb6b4d0b3135"
-          target="id-e7fb97641d0f4c068c301a48cbb81aa7">
-        <bendpoints
-            startX="12"
-            startY="301"
-            endX="-249"
-            endY="-87"/>
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-9be319504c9842de8f63ef94d660dbef.xml#id-9be319504c9842de8f63ef94d660dbef"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-57a39765ba16430ba31dfa3ad2e8da5a"
           source="id-e4f33e57cc364bb987fadb6b4d0b3135"
           target="id-d7f7c0514935455ea77bb8a793bdfb9b">
@@ -415,25 +401,6 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-98a7f49c63494e1988319b305a6d119f.xml#id-98a7f49c63494e1988319b305a6d119f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e7fb97641d0f4c068c301a48cbb81aa7"
-      targetConnections="id-590b3d5cfa6142d787bac76b9cf26de5"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      lineWidth="3"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="672"
-        y="636"
-        width="210"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-ea5ef78e8a12414c84e3ef89705a1402.xml#id-ea5ef78e8a12414c84e3ef89705a1402"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
