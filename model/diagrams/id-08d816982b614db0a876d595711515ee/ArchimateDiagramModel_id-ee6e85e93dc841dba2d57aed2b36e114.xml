@@ -129,9 +129,9 @@
           target="id-48fd48ba96ae43489dc9adf473b3d8eb">
         <bendpoints
             startX="-48"
-            startY="387"
+            startY="339"
             endX="145"
-            endY="-51"/>
+            endY="-45"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-0727edab37f9402094dda5cfef56bd91.xml#id-0727edab37f9402094dda5cfef56bd91"/>
@@ -184,9 +184,9 @@
           target="id-c8d2ef112ccc453e83eeda84fabc7c98">
         <bendpoints
             startX="24"
-            startY="381"
+            startY="321"
             endX="-155"
-            endY="-57"/>
+            endY="-63"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-e30bf1dedc53450c8fa5dc8531bfa871.xml#id-e30bf1dedc53450c8fa5dc8531bfa871"/>
@@ -198,9 +198,9 @@
           target="id-2f525f77ff914fb3b63a77f953c1d280">
         <bendpoints
             startX="24"
-            startY="429"
+            startY="381"
             endX="-155"
-            endY="-63"/>
+            endY="-57"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-53c0f77d32c941019860cca5a941ecb3.xml#id-53c0f77d32c941019860cca5a941ecb3"/>
@@ -212,9 +212,9 @@
           target="id-d3fa2ce378c64b4382c3ac6ff2e68b61">
         <bendpoints
             startX="24"
-            startY="477"
+            startY="429"
             endX="-155"
-            endY="-69"/>
+            endY="-63"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-0221a7cb407b408e84e67dda47702352.xml#id-0221a7cb407b408e84e67dda47702352"/>
@@ -300,9 +300,9 @@
           target="id-10cf9254c7c54c9d93e143f03d703c1f">
         <bendpoints
             startX="-12"
-            startY="-441"
-            endX="108"
-            endY="-3"/>
+            startY="-285"
+            endX="-108"
+            endY="-9"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-18b8bc3ae7944024979ae271af57d5e3.xml#id-18b8bc3ae7944024979ae271af57d5e3"/>
@@ -314,9 +314,9 @@
           target="id-96968fd2203d4e28a1d97f6a95ce89dc">
         <bendpoints
             startX="-12"
-            startY="-489"
-            endX="108"
-            endY="3"/>
+            startY="-333"
+            endX="-108"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-e2b5debf6ef64e3da05020a894a5bf1b.xml#id-e2b5debf6ef64e3da05020a894a5bf1b"/>
@@ -633,9 +633,9 @@
           target="id-48fd48ba96ae43489dc9adf473b3d8eb">
         <bendpoints
             startX="12"
-            startY="441"
+            startY="405"
             endX="-155"
-            endY="-63"/>
+            endY="-45"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-4d0ca37b28294516af09fce2c8dfca01.xml#id-4d0ca37b28294516af09fce2c8dfca01"/>
@@ -659,8 +659,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1212"
-        y="216"
+        x="1428"
+        y="378"
         width="169"
         height="55"/>
     <archimateElement
@@ -693,8 +693,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1212"
-        y="162"
+        x="1428"
+        y="324"
         width="169"
         height="55"/>
     <archimateElement
@@ -1252,7 +1252,7 @@
         value="0"/>
     <bounds
         x="648"
-        y="1092"
+        y="1038"
         width="214"
         height="55"/>
     <archimateElement
@@ -1271,7 +1271,7 @@
         value="0"/>
     <bounds
         x="1800"
-        y="1026"
+        y="972"
         width="214"
         height="55"/>
     <archimateElement
@@ -1291,7 +1291,7 @@
         value="0"/>
     <bounds
         x="1800"
-        y="1080"
+        y="1026"
         width="214"
         height="55"/>
     <archimateElement
@@ -1310,7 +1310,7 @@
         value="0"/>
     <bounds
         x="1800"
-        y="1134"
+        y="1080"
         width="214"
         height="55"/>
     <archimateElement

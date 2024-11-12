@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticerende Identityprovider"
-    id="id-64d61ee327c843dfb0d28d64f9ea0aaf"/>
+    id="id-64d61ee327c843dfb0d28d64f9ea0aaf"
+    documentation="Een Identity Provider die de identificatie en authenticatie van eindgebruikers uitvoert. De Authenticerende Identity Provider beschikt hierover over authenticatiemiddelenvoorziening.&#xD;&#xA;&#xD;&#xA;De Authenticerende Identity Provider geeft een identiteitsverklaring af aan een Delegerende Identity Provider, Federatieve Hub of een Dienst met SSO waarmee deze een vertrouwensrelatie heeft."/>
