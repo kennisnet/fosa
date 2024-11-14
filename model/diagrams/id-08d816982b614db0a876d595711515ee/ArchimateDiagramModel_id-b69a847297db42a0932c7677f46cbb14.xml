@@ -401,23 +401,6 @@
         href="Requirement_id-6d8dc39b3d1e4d7d82ff28c694480392.xml#id-6d8dc39b3d1e4d7d82ff28c694480392"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2a6c573e5d5e4ca88c0582cd3aa8ba32"
-      targetConnections="id-47740b15b597437fbd2941cc5c399bc4"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="608"
-        y="-84"
-        width="169"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_id-947ef41ec0b647f58a0ba892ff0207f3.xml#id-947ef41ec0b647f58a0ba892ff0207f3"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-00b359eb6c244892878e5c75239eb722"
       name="Procesketen"
@@ -894,20 +877,6 @@
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-c79b675a8e124b0bb59403f31cbc1b4b.xml#id-c79b675a8e124b0bb59403f31cbc1b4b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-47740b15b597437fbd2941cc5c399bc4"
-          source="id-f7a8890f36634c4693be1245fd37796b"
-          target="id-2a6c573e5d5e4ca88c0582cd3aa8ba32">
-        <bendpoints
-            startX="-7"
-            startY="-327"
-            endX="136"
-            endY="9"/>
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-a2b7a161deab44eeb946c247d1b074bf.xml#id-a2b7a161deab44eeb946c247d1b074bf"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
