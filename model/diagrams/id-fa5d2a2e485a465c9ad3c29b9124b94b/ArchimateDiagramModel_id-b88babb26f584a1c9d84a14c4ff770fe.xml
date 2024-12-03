@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overzicht ketenprocessen 02 Ontwikkelen"
+    name="Overzicht procesdomein 02 Ontwikkelen"
     id="id-b88babb26f584a1c9d84a14c4ff770fe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -78,6 +78,34 @@
       <features
           name="gradient"
           value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-99742f98e2664f0ba9015173810fba0c"
+          source="id-cbccc82186394650971418850ed1a00b"
+          target="id-7baa936119b94c80b19701a4fcef0f6f">
+        <bendpoints
+            startX="30"
+            startY="198"
+            endX="-126"
+            endY="-57"/>
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-5fb45207378e4eca94c0710d2b29ef0e.xml#id-5fb45207378e4eca94c0710d2b29ef0e"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e6fce75b9d0547d58b6ddbb592e5c097"
+          source="id-cbccc82186394650971418850ed1a00b"
+          target="id-398719357d82440ca7fb51d038c88393">
+        <bendpoints
+            startX="30"
+            startY="258"
+            endX="-126"
+            endY="-51"/>
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-6919b850b49240888566875f2da3b4f2.xml#id-6919b850b49240888566875f2da3b4f2"/>
+      </sourceConnections>
       <bounds
           x="192"
           y="24"
@@ -223,5 +251,43 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-7536f4e9d2b24c96993eecf22b8b6923.xml#id-7536f4e9d2b24c96993eecf22b8b6923"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7baa936119b94c80b19701a4fcef0f6f"
+      targetConnections="id-99742f98e2664f0ba9015173810fba0c"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineWidth="3"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="684"
+        y="390"
+        width="205"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-3c3a721af87e4bd68633fa7d140da23b.xml#id-3c3a721af87e4bd68633fa7d140da23b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-398719357d82440ca7fb51d038c88393"
+      targetConnections="id-e6fce75b9d0547d58b6ddbb592e5c097"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineWidth="3"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="684"
+        y="444"
+        width="205"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-653309474bf1462597012cc74b104f25.xml#id-653309474bf1462597012cc74b104f25"/>
   </children>
 </archimate:ArchimateDiagramModel>
