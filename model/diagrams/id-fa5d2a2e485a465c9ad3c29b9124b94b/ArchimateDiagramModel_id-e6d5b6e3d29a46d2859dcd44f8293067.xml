@@ -76,13 +76,21 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-21015c75130941b1a29f01a6523fa661"
-      targetConnections="id-3df613a0b5fa4fb2b9873bebe6ee900e"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-36357dcf74744d2c83b5ae69d5e47609"
+        source="id-21015c75130941b1a29f01a6523fa661"
+        target="id-02ca4cc0e4d74e9395d0343d56806542">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-c38ec59be35b4062a6eaf87bac91d68f.xml#id-c38ec59be35b4062a6eaf87bac91d68f"/>
+    </sourceConnections>
     <bounds
         x="360"
         y="588"
@@ -95,16 +103,24 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-78c6d4aacf774b808bf73902f3dfa2a9"
-      targetConnections="id-e91da3a58670496d8b9a4bcc5d3a90d6"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e6c11bcd21134a0fb9c3f3385a6ecb3a"
+        source="id-78c6d4aacf774b808bf73902f3dfa2a9"
+        target="id-e654c5aba3444769b80331bb85142207">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-b365ff56167a41919102a2b06fc85d3b.xml#id-b365ff56167a41919102a2b06fc85d3b"/>
+    </sourceConnections>
     <bounds
         x="360"
-        y="642"
+        y="655"
         width="229"
         height="55"/>
     <archimateElement
@@ -114,13 +130,21 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-33e633a39fd44e3984434abb082f0964"
-      targetConnections="id-a5298f599eb44967b3bec9d444ee3771"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d05474b33d3540b48b595b9d99e627a0"
+        source="id-33e633a39fd44e3984434abb082f0964"
+        target="id-ba48f8dd53494e4488ae79a208294789">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-6efb3917afe54572a1feeda482d6d154.xml#id-6efb3917afe54572a1feeda482d6d154"/>
+    </sourceConnections>
     <bounds
         x="360"
         y="720"
@@ -133,7 +157,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-958bd3e9f2884bb89a5ca7cbba9c80a9"
-      targetConnections="id-aa056020e5db48cca42d9cd238132dd1"
+      targetConnections="id-30d42bec41ec4b8fa1eb0aa2aadce798"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
@@ -142,7 +166,7 @@
         value="0"/>
     <bounds
         x="624"
-        y="642"
+        y="655"
         width="265"
         height="55"/>
     <archimateElement
@@ -152,7 +176,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1582c661111a4ff09d57211e311428fb"
-      targetConnections="id-432bcf2cb95946f9a37a6ddd790aab8c"
+      targetConnections="id-d153116290464c05bb2ff17af9ae4bc6"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
@@ -169,92 +193,88 @@
         href="Assessment_id-653309474bf1462597012cc74b104f25.xml#id-653309474bf1462597012cc74b104f25"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-b9d8a83d702d41a19102a8fc0f9de81b"
-      textAlignment="1"
-      content="Afapraken maken over de verdeling van onderwijstaken">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-37d84e1328104a65a6df69dfc44b87ce"
+      textPosition="1">
     <features
         name="gradient"
         value="0"/>
     <sourceConnections
-        id="id-3df613a0b5fa4fb2b9873bebe6ee900e"
-        source="id-b9d8a83d702d41a19102a8fc0f9de81b"
-        target="id-21015c75130941b1a29f01a6523fa661"/>
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-30d42bec41ec4b8fa1eb0aa2aadce798"
+        source="id-37d84e1328104a65a6df69dfc44b87ce"
+        target="id-958bd3e9f2884bb89a5ca7cbba9c80a9">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-f6a02df040e44a20abaae6a4d504a966.xml#id-f6a02df040e44a20abaae6a4d504a966"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d153116290464c05bb2ff17af9ae4bc6"
+        source="id-37d84e1328104a65a6df69dfc44b87ce"
+        target="id-1582c661111a4ff09d57211e311428fb">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-bc2301b006c148f9a503a9dff1fcc7ef.xml#id-bc2301b006c148f9a503a9dff1fcc7ef"/>
+    </sourceConnections>
     <bounds
-        x="120"
-        y="576"
-        width="185"
-        height="80"/>
+        x="936"
+        y="672"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-261db32fe0204a83a484c8f7fc16721e.xml#id-261db32fe0204a83a484c8f7fc16721e"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-fa508e892f724e43a37112747d92352d"
-      textAlignment="1"
-      content="Faciliteren met afspraken, gebaseerd op template">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ba48f8dd53494e4488ae79a208294789"
+      targetConnections="id-d05474b33d3540b48b595b9d99e627a0"
+      textPosition="1">
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        id="id-e91da3a58670496d8b9a4bcc5d3a90d6"
-        source="id-fa508e892f724e43a37112747d92352d"
-        target="id-78c6d4aacf774b808bf73902f3dfa2a9"/>
     <bounds
-        x="120"
-        y="660"
-        width="185"
-        height="80"/>
+        x="24"
+        y="720"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-012a888b41dc458ca8264fbf3657900e.xml#id-012a888b41dc458ca8264fbf3657900e"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-4d1a31d229674c0b9148121646e9e2b9"
-      textAlignment="1"
-      content="Afspraken maken over de verdeling van verantwoordelijkheden. Aandacht voor alle aspecten: financiering, teamsamenstelling, AAR, klachtafhandeling etc">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e654c5aba3444769b80331bb85142207"
+      targetConnections="id-e6c11bcd21134a0fb9c3f3385a6ecb3a"
+      textPosition="1">
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        id="id-a5298f599eb44967b3bec9d444ee3771"
-        source="id-4d1a31d229674c0b9148121646e9e2b9"
-        target="id-33e633a39fd44e3984434abb082f0964"/>
     <bounds
-        x="120"
-        y="750"
-        width="185"
-        height="115"/>
+        x="24"
+        y="655"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-f4c788cee27f4bc6a96cb42db38b44d8.xml#id-f4c788cee27f4bc6a96cb42db38b44d8"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-307fb9462cc54f95bc3ad0c117dd8253"
-      textAlignment="1"
-      content="Rekening houden bij de selectie van leermaterialen met eisen over toegankelijkheid vanuit andere onderwijsaanbieder. Faciliteren met standaard formulier/ template tbv aanbesteding">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-02ca4cc0e4d74e9395d0343d56806542"
+      targetConnections="id-36357dcf74744d2c83b5ae69d5e47609"
+      textPosition="1">
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        id="id-aa056020e5db48cca42d9cd238132dd1"
-        source="id-307fb9462cc54f95bc3ad0c117dd8253"
-        target="id-958bd3e9f2884bb89a5ca7cbba9c80a9"/>
     <bounds
-        x="960"
-        y="627"
-        width="235"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6170bb07d1a4447da0786b280500fffa"
-      textAlignment="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        id="id-432bcf2cb95946f9a37a6ddd790aab8c"
-        source="id-6170bb07d1a4447da0786b280500fffa"
-        target="id-1582c661111a4ff09d57211e311428fb"/>
-    <bounds
-        x="963"
-        y="737"
-        width="185"
-        height="80"/>
+        x="24"
+        y="588"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-b75b1608ab5d4a7280805d242a1c30ec.xml#id-b75b1608ab5d4a7280805d242a1c30ec"/>
   </children>
 </archimate:ArchimateDiagramModel>

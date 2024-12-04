@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkel een persoonlijk dossier"
+    id="id-1204ee492b304db9ba792e8ca8a8a64b"
+    documentation="* bepalen welke typen gegevens erin worden bewaard&#xD;&#xA;* welke voorwaarden gelden over bewaring (termijn, archivering/vernietiging na deze tijd)&#xD;&#xA;* ontwikkel API voor toegang bij resultateninvoer en voor inzien van gegevens&#xD;&#xA;* ontwikkel autorisatiemodel voor niveaus van toegang per rol"/>
