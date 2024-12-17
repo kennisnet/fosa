@@ -3,9 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-b365ff56167a41919102a2b06fc85d3b">
   <source
-      xsi:type="archimate:Assessment"
-      href="Assessment_id-98a7f49c63494e1988319b305a6d119f.xml#id-98a7f49c63494e1988319b305a6d119f"/>
-  <target
       xsi:type="archimate:Goal"
       href="Goal_id-f4c788cee27f4bc6a96cb42db38b44d8.xml#id-f4c788cee27f4bc6a96cb42db38b44d8"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-98a7f49c63494e1988319b305a6d119f.xml#id-98a7f49c63494e1988319b305a6d119f"/>
 </archimate:AssociationRelationship>
