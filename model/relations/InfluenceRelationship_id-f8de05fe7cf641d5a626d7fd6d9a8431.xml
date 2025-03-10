@@ -1,12 +1,12 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="helpt realisatie van"
+    name="Is vertaling van"
     id="id-f8de05fe7cf641d5a626d7fd6d9a8431">
   <source
-      xsi:type="archimate:Requirement"
-      href="Requirement_id-9d32a4237a6a400898a9400e010e9ffb.xml#id-9d32a4237a6a400898a9400e010e9ffb"/>
+      xsi:type="archimate:Goal"
+      href="Goal_id-e478ddbe733c490bb3a36ed689386992.xml#id-e478ddbe733c490bb3a36ed689386992"/>
   <target
-      xsi:type="archimate:Driver"
-      href="Driver_id-2e99bd4a2c9143379b396d83a7a4376a.xml#id-2e99bd4a2c9143379b396d83a7a4376a"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-2b916880cbed4512bbf064d78b31f73d.xml#id-2b916880cbed4512bbf064d78b31f73d"/>
 </archimate:InfluenceRelationship>

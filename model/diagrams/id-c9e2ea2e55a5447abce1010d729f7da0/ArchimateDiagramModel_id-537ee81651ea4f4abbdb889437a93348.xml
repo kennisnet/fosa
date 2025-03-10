@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US0 Reguliere leerroute binnen eigen instelling (persp: deelnemer)"
+    name="S00. Reguliere leerroutes (persp: deelnemer)"
     id="id-537ee81651ea4f4abbdb889437a93348"
-    documentation="Een onderwijsdeelnemer volgt regulier klassikaal po- of vo-onderwijs. Er is geen sprake van persoonlijk leertraject of eigen keuzes van de onderwijsdeelnemer.">
+    documentation="Een onderwijsaanbieder biedt regulier po- of vo-onderwijs aan. Er zijn beperkt opties om de leerroute voor leerlingen aan te passen (doubleren, differentiëren in de klas). ">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-a9bdf564ad914db9b582cfaaa77abab1"
@@ -310,16 +310,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-1664763c2c9340cba76fe4a7c7ef0655.xml#id-1664763c2c9340cba76fe4a7c7ef0655"/>
-      </sourceConnections>
-      <sourceConnections
-          id="id-30478b86e92c44ec8f9b33486b531995"
-          source="id-f9fc807270e844c182888ac34929cd63"
-          target="id-a4bc069ae4f1422a85892ddb2eac995f">
-        <bendpoints
-            startX="-12"
-            startY="-159"
-            endX="-108"
-            endY="264"/>
       </sourceConnections>
       <bounds
           x="528"
@@ -669,7 +659,6 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8068134fccda4ff7a3b1f377b0c59997"
-          targetConnections="id-6c989846c36643f7b32f81a728ce2af9"
           source="id-e78d6c693bf449f3946f31fe55a02700"
           target="id-ec0f2c5a91864b5492035bdcc76f12d9">
         <archimateRelationship
@@ -1042,22 +1031,6 @@
         href="BusinessRole_id-41720df8c7ca455a9bc35039224b3754.xml#id-41720df8c7ca455a9bc35039224b3754"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-78831f03bd3c4856aa0a3571e7846215"
-      textAlignment="1"
-      fillColor="#ffff80"
-      content="Het persoonlijk dossier van de leerling kan meerdere onderdelen bevatten, waarvan een onderdeel dient om de vastgestelde onderwijsresultaten vast te leggen en uit te wisselen.">
-    <sourceConnections
-        id="id-6c989846c36643f7b32f81a728ce2af9"
-        source="id-78831f03bd3c4856aa0a3571e7846215"
-        target="id-8068134fccda4ff7a3b1f377b0c59997"/>
-    <bounds
-        x="1932"
-        y="96"
-        width="169"
-        height="145"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f19394bc19b45b0bd75872abd6f6efa"
       targetConnections="id-d2294a55709f44f1b063ae6031e32247"
@@ -1166,28 +1139,15 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-d8e3bf4dd71b45a187a1bfd9bfb1f955"
       textAlignment="1"
-      content="Een leerling volgt regulier klassikaal po- of vo-onderwijs. Er is geen sprake van persoonlijk leertraject of eigen keuzes van de leerling.">
+      content="Een onderwijsaanbieder biedt regulier po- of vo-onderwijs aan. Er zijn beperkt opties om de leerroute voor leerlingen aan te passen (doubleren, differentiëren in de klas). ">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
         x="108"
         y="-120"
-        width="382"
-        height="110"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-a4bc069ae4f1422a85892ddb2eac995f"
-      targetConnections="id-30478b86e92c44ec8f9b33486b531995"
-      textAlignment="1"
-      fillColor="#ffff80"
-      content="De EDU-V principes worden integraal overgenomen. Waar van toepassing kunnen we wellicht laten zien dat ze tekort schieten voor flexibel onderwijs; hierover gaan we met EDU-V in geprek&#xD;&#xA;&#xD;&#xA;">
-    <bounds
-        x="828"
-        y="-131"
-        width="241"
-        height="97"/>
+        width="553"
+        height="145"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

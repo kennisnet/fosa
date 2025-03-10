@@ -1,17 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US3 Onderwijs volgen bij andere onderwijsaanbieder (persp: deelnemer)"
+    name="S03. Onderwijs volgen bij een andere onderwijsaanbieder (persp: deelnemer)"
     id="id-573accaf3c81481a99db9671ed20b24a"
-    documentation="Een vwo-onderwijsdeelnemer wil een vak volgen en eindexamen doen in een vak dat niet door de eigen school wordt aangeboden, denk aan Spaans, Wiskunde C of D, Klassieke talen. De aanname is dat onderwijsaanbieders onderlinge afspraken hebben of maken over deelname aan onderwijs (mogelijk wederzijds), incl afspraken over financiering, roostering, begeleiding en resultaat-uitwisseling. ">
+    documentation="Een leerling kan onderwijsaanbod van een andere onderwijsaanbieder combineren met (de persoonlijke leerroute bij) de opleiding die hij/zij volgt bij de eigen onderwijsaanbieder.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-29ddb7508cba4d049d694e222315bc20"
       name="Validering"
       textAlignment="1">
     <bounds
-        x="1524"
-        y="36"
+        x="1464"
+        y="170"
         width="337"
         height="973"/>
   </children>
@@ -21,8 +21,8 @@
       name="Onderwijsuitvoering"
       textAlignment="1">
     <bounds
-        x="1032"
-        y="36"
+        x="972"
+        y="170"
         width="481"
         height="973"/>
   </children>
@@ -32,8 +32,8 @@
       name="Inschrijven"
       textAlignment="1">
     <bounds
-        x="684"
-        y="36"
+        x="624"
+        y="170"
         width="337"
         height="973"/>
   </children>
@@ -43,8 +43,8 @@
       name="Oriënteren en aanmelden"
       textAlignment="1">
     <bounds
-        x="312"
-        y="36"
+        x="252"
+        y="170"
         width="361"
         height="973"/>
   </children>
@@ -127,8 +127,8 @@
           href="AggregationRelationship_id-de93e3d8c05048c8bc84950e0442bed6.xml#id-de93e3d8c05048c8bc84950e0442bed6"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="84"
+        x="228"
+        y="218"
         width="1609"
         height="140"/>
     <children
@@ -605,8 +605,8 @@
           href="AggregationRelationship_id-6cf89094d4e9440fb743694fe1c6a5f9.xml#id-6cf89094d4e9440fb743694fe1c6a5f9"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="223"
+        x="228"
+        y="357"
         width="1609"
         height="174"/>
     <children
@@ -1064,8 +1064,8 @@
           href="AggregationRelationship_id-ccb34bb27e5f4343a83b39251e58ab6b.xml#id-ccb34bb27e5f4343a83b39251e58ab6b"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="574"
+        x="228"
+        y="708"
         width="1609"
         height="140"/>
     <children
@@ -1107,8 +1107,8 @@
           href="AggregationRelationship_id-ec6d536539c94fb78071fec193ecb695.xml#id-ec6d536539c94fb78071fec193ecb695"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="852"
+        x="228"
+        y="986"
         width="1609"
         height="140"/>
     <children
@@ -1151,8 +1151,8 @@
           href="AssignmentRelationship_id-32f11d3af0e44b8388905be9da8ab741.xml#id-32f11d3af0e44b8388905be9da8ab741"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="126"
+        x="48"
+        y="260"
         width="144"
         height="55"/>
     <archimateElement
@@ -1177,8 +1177,8 @@
           href="AssignmentRelationship_id-27463df4200e4230a9cdfb5e78f938b5.xml#id-27463df4200e4230a9cdfb5e78f938b5"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="265"
+        x="48"
+        y="399"
         width="144"
         height="55"/>
     <archimateElement
@@ -1203,8 +1203,8 @@
           href="AssignmentRelationship_id-54f387099fba4cb68f7067615422352b.xml#id-54f387099fba4cb68f7067615422352b"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="625"
+        x="48"
+        y="759"
         width="144"
         height="55"/>
     <archimateElement
@@ -1229,8 +1229,8 @@
           href="AssignmentRelationship_id-541d89b37683487d822d51e92c0d16f4.xml#id-541d89b37683487d822d51e92c0d16f4"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="894"
+        x="48"
+        y="1028"
         width="144"
         height="55"/>
     <archimateElement
@@ -1272,8 +1272,8 @@
           href="AggregationRelationship_id-2cfc6f50ba6e4524adecf61a830b3454.xml#id-2cfc6f50ba6e4524adecf61a830b3454"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="713"
+        x="228"
+        y="847"
         width="1609"
         height="140"/>
     <children
@@ -1375,8 +1375,8 @@
           href="AssignmentRelationship_id-f155c418c26d4726a60c103924e2b083.xml#id-f155c418c26d4726a60c103924e2b083"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="755"
+        x="48"
+        y="889"
         width="144"
         height="55"/>
     <archimateElement
@@ -1387,13 +1387,13 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-be6ae9f9e4174791a462dc0dee46798f"
       textAlignment="1"
-      content="Een vwo-leerling wil een vak volgen en eindexamen doen in een vak dat niet door de eigen school wordt aangeboden, denk aan:&#xD;&#xA;- Spaans&#xD;&#xA;- Wiskunde C of D&#xD;&#xA;- Klassieke talen&#xD;&#xA;Assumptie: onderwijsaanbieders hebben onderlinge afspraken over deelname aan onderwijs (mogelijk wederzijds), incl afspraken over financiering, roostering, begeleiding en resultaat-uitwisseling. ">
+      content="Een leerling kan onderwijsaanbod van een andere onderwijsaanbieder combineren met (de persoonlijke leerroute bij) de opleiding die hij/zij volgt bij de eigen onderwijsaanbieder.">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="108"
-        y="-110"
+        x="48"
+        y="24"
         width="406"
         height="133"/>
   </children>
@@ -1485,8 +1485,8 @@
           href="AggregationRelationship_id-c746d076aa5f493ebd3d198fabeb3fb9.xml#id-c746d076aa5f493ebd3d198fabeb3fb9"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="396"
+        x="228"
+        y="530"
         width="1609"
         height="179"/>
     <children
@@ -1882,8 +1882,8 @@
           href="AssignmentRelationship_id-3b790a8a289e4f2ea927f7720a0cf973.xml#id-3b790a8a289e4f2ea927f7720a0cf973"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="442"
+        x="48"
+        y="576"
         width="144"
         height="55"/>
     <archimateElement
@@ -1907,8 +1907,8 @@
           endY="60"/>
     </sourceConnections>
     <bounds
-        x="1968"
-        y="468"
+        x="1908"
+        y="602"
         width="313"
         height="67"/>
   </children>

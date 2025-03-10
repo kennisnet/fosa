@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US2b 10-14 onderwijs (persp: aanbieder)"
+    name="S02b. Doorlopende leerroute over sectoren heen (persp: aanbieder)"
     id="id-e1f7b3de0de047acacda087bc6150f9f"
-    documentation="Een po- en een vo-onderwijsaanbieder verzorgen samen het onderwijs voor de leerlingen in de leeftijd van 10-14 jaar. Onderwijsdeelnemers stromen in op 10-jarige leeftijd. Meestal stromen de onderwijsdeelnemers uit naar regulier onderwijs op 14-jarige leeftijd. Het niveau van de onderwijsdeelnemer is bepaald door 10-14-onderwijsaanbieder. Sommige 10-14 scholen bieden ook eindexamen aan. Scholen regelen financiering onderling.&#xD;&#xA;Er is  sprake van een aparte Samenwerkingsschool, met een eigen naam / label. Dit kan nu ook in RIO worden opgegeven. 10-14 scholen zijn &quot;niet zichtbaar&quot; voor DUO, OCW, IvhO, dus verantwoordelijkheden liggen bij achterliggende scholen.&#xD;&#xA;">
+    documentation="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-621a591b216d4601a573fece40089394"
@@ -11,8 +11,8 @@
       fillColor="#d2d7d7"
       type="1">
     <bounds
-        x="-264"
-        y="96"
+        x="288"
+        y="180"
         width="301"
         height="1141"/>
     <archimateElement
@@ -25,8 +25,8 @@
       name="Plannen en roosteren"
       textAlignment="1">
     <bounds
-        x="1392"
-        y="96"
+        x="1944"
+        y="180"
         width="349"
         height="1141"/>
   </children>
@@ -36,8 +36,8 @@
       name="Ontwikkelen team"
       textAlignment="1">
     <bounds
-        x="360"
-        y="96"
+        x="912"
+        y="180"
         width="301"
         height="1141"/>
   </children>
@@ -47,8 +47,8 @@
       name="Ontwikkelen onderwijs"
       textAlignment="1">
     <bounds
-        x="48"
-        y="96"
+        x="600"
+        y="180"
         width="301"
         height="1141"/>
   </children>
@@ -58,8 +58,8 @@
       name="Validering"
       textAlignment="1">
     <bounds
-        x="2184"
-        y="96"
+        x="2736"
+        y="180"
         width="313"
         height="1141"/>
   </children>
@@ -69,8 +69,8 @@
       name="Onderwijsuitvoering"
       textAlignment="1">
     <bounds
-        x="1752"
-        y="96"
+        x="2304"
+        y="180"
         width="421"
         height="1141"/>
   </children>
@@ -80,8 +80,8 @@
       name="Inschrjven"
       textAlignment="1">
     <bounds
-        x="1044"
-        y="96"
+        x="1596"
+        y="180"
         width="337"
         height="1141"/>
   </children>
@@ -91,8 +91,8 @@
       name="Oriënteren en aanmelden"
       textAlignment="1">
     <bounds
-        x="672"
-        y="96"
+        x="1224"
+        y="180"
         width="361"
         height="1141"/>
   </children>
@@ -175,8 +175,8 @@
           href="AggregationRelationship_id-de93e3d8c05048c8bc84950e0442bed6.xml#id-de93e3d8c05048c8bc84950e0442bed6"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="144"
+        x="264"
+        y="228"
         width="2797"
         height="140"/>
     <children
@@ -551,8 +551,8 @@
           href="AggregationRelationship_id-cf73fa726d904657815ac25261869d9c.xml#id-cf73fa726d904657815ac25261869d9c"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="283"
+        x="264"
+        y="367"
         width="2797"
         height="140"/>
     <children
@@ -772,8 +772,8 @@
           href="AggregationRelationship_id-ccb34bb27e5f4343a83b39251e58ab6b.xml#id-ccb34bb27e5f4343a83b39251e58ab6b"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="802"
+        x="264"
+        y="886"
         width="2797"
         height="140"/>
     <children
@@ -851,8 +851,8 @@
           href="AggregationRelationship_id-cc0e66ea97f641bb897252beb557d886.xml#id-cc0e66ea97f641bb897252beb557d886"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="1080"
+        x="264"
+        y="1164"
         width="2797"
         height="140"/>
     <children
@@ -981,8 +981,8 @@
           href="AssignmentRelationship_id-32f11d3af0e44b8388905be9da8ab741.xml#id-32f11d3af0e44b8388905be9da8ab741"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="204"
+        x="36"
+        y="288"
         width="144"
         height="55"/>
     <archimateElement
@@ -1007,8 +1007,8 @@
           href="AssignmentRelationship_id-54f387099fba4cb68f7067615422352b.xml#id-54f387099fba4cb68f7067615422352b"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="865"
+        x="36"
+        y="949"
         width="144"
         height="55"/>
     <archimateElement
@@ -1033,8 +1033,8 @@
           href="AssignmentRelationship_id-541d89b37683487d822d51e92c0d16f4.xml#id-541d89b37683487d822d51e92c0d16f4"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="1129"
+        x="36"
+        y="1213"
         width="144"
         height="55"/>
     <archimateElement
@@ -1094,8 +1094,8 @@
           href="AggregationRelationship_id-2cfc6f50ba6e4524adecf61a830b3454.xml#id-2cfc6f50ba6e4524adecf61a830b3454"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="941"
+        x="264"
+        y="1025"
         width="2797"
         height="140"/>
     <children
@@ -1247,8 +1247,8 @@
           href="AssignmentRelationship_id-f155c418c26d4726a60c103924e2b083.xml#id-f155c418c26d4726a60c103924e2b083"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="997"
+        x="36"
+        y="1081"
         width="144"
         height="55"/>
     <archimateElement
@@ -1287,8 +1287,8 @@
           href="AssignmentRelationship_id-7a85ed446fae4508b78b8810eafcf323.xml#id-7a85ed446fae4508b78b8810eafcf323"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="464"
+        x="36"
+        y="548"
         width="144"
         height="55"/>
     <archimateElement
@@ -1327,8 +1327,8 @@
           href="AssignmentRelationship_id-7a85ed446fae4508b78b8810eafcf323.xml#id-7a85ed446fae4508b78b8810eafcf323"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="325"
+        x="36"
+        y="409"
         width="144"
         height="55"/>
     <archimateElement
@@ -1388,8 +1388,8 @@
           href="AggregationRelationship_id-01005806ea174f57809c5491022f8efb.xml#id-01005806ea174f57809c5491022f8efb"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="422"
+        x="264"
+        y="506"
         width="2797"
         height="140"/>
     <children
@@ -1737,8 +1737,8 @@
           href="AggregationRelationship_id-520a1e0799e84af9b14b8699f93cf1cc.xml#id-520a1e0799e84af9b14b8699f93cf1cc"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="561"
+        x="264"
+        y="645"
         width="2796"
         height="242"/>
     <children
@@ -2406,10 +2406,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a2629296b3e6437b91126120a56e3dab"
       textAlignment="1"
-      content="10-14 onderwijs&#xD;&#xA;Een po- en een vo school verzorgen samen het onderwijs voor de leerlingen in de leeftijd van 10-14 jaar.&#xD;&#xA;Leerlingen stromen in op 10-j leeftijd&#xD;&#xA;Uitstromen naar regulier onderwijs op 14-j leeftijd (niveaukeuze bepaald door 10-14 aanbieder), maar sommige 10-14 scholen bieden ook eindexamen aan.&#xD;&#xA;Scholen regelen financiering onderling.&#xD;&#xA;Er is  sprake van een aparte Samenwerkingsschool, met een eigen naam / label. Dit kan nu ook in RIO worden opgegeven. &#xD;&#xA;10-14 scholen zijn &quot;niet zichtbaar&quot; voor DUO, OCW, IvhO, dus verantwoordelijkheden liggen bij achterliggende scholen.&#xD;&#xA;">
+      content="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;&#xD;&#xA;Hier wordt de aansluiting van po op vo in de vorm van 10-14 onderwijs uitgewerkt.">
     <bounds
-        x="-516"
-        y="-60"
+        x="36"
+        y="24"
         width="673"
         height="133"/>
   </children>
@@ -2424,8 +2424,8 @@
         source="id-b5c04ce4a0e54c9486e59064a90c49c8"
         target="id-55c8909e16e3410ea74c6d6df9a7d45c"/>
     <bounds
-        x="2544"
-        y="991"
+        x="3096"
+        y="1075"
         width="185"
         height="67"/>
   </children>
@@ -2468,8 +2468,8 @@
           endY="-78"/>
     </sourceConnections>
     <bounds
-        x="924"
-        y="-3"
+        x="1476"
+        y="81"
         width="185"
         height="80"/>
   </children>
@@ -2486,8 +2486,8 @@
         source="id-408b79072d374ae790af4745a734272e"
         target="id-85bd716a57e14a7d8776cf40c9e9c62c"/>
     <bounds
-        x="2544"
-        y="684"
+        x="3096"
+        y="768"
         width="185"
         height="80"/>
   </children>

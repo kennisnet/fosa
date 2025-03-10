@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realisatie wordt (deels) onderbouwd door"
+    id="id-692774250f0645e299b771e0018f3765">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-e478ddbe733c490bb3a36ed689386992.xml#id-e478ddbe733c490bb3a36ed689386992"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-898569860f18411f882e77ec49276098.xml#id-898569860f18411f882e77ec49276098"/>
+</archimate:InfluenceRelationship>

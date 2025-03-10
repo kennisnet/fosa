@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overzicht procesdomein 01 Definieren"
+    name="PD01 Definieren onderwijs"
     id="id-1f81ecf7130941309970f1cff48480b6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,8 +31,8 @@
           href="AggregationRelationship_id-ee88d5deab154aa9a7f12111b0419360.xml#id-ee88d5deab154aa9a7f12111b0419360"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="264"
+        x="36"
+        y="36"
         width="541"
         height="97"/>
     <children
@@ -126,8 +126,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="348"
-        y="408"
+        x="48"
+        y="180"
         width="205"
         height="55"/>
     <archimateElement
@@ -145,8 +145,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="348"
-        y="468"
+        x="48"
+        y="240"
         width="205"
         height="55"/>
     <archimateElement
@@ -164,8 +164,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="348"
-        y="528"
+        x="48"
+        y="300"
         width="205"
         height="55"/>
     <archimateElement

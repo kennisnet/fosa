@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US0 Reguliere leerroute binnen eigen instelling (persp: aanbieder)"
+    name="S00. Reguliere leerroutes (persp: aanbieder)"
     id="id-8cf6117398204abab0684836d416bc9d"
-    documentation="Een onderwijsaanbieder biedt regulier po- of vo-onderwijs aan. Er zijn heel beperkt opties om de leerroute voor onderwijsdeelnemers aan te passen (doubleren, differentiëren in de klas). &#xD;&#xA;">
+    documentation="Een onderwijsaanbieder biedt regulier po- of vo-onderwijs aan. Er zijn beperkt opties om de leerroute voor leerlingen aan te passen (doubleren, differentiëren in de klas). ">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-bd85de2077184d409e2ef1628eea72fc"
@@ -1900,12 +1900,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-fcb41750161b4faf952d87960f82328c"
       textAlignment="1"
-      content="Een onderwijsaanbieder biedt regulier po- of vo-onderwijs aan. Er zijn heel beperkt opties om de leerroute voor leerlingen aan te passen (doubleren, differentiëren in de klas). ">
+      content="Een onderwijsaanbieder biedt regulier po- of vo-onderwijs aan. Er zijn beperkt opties om de leerroute voor leerlingen aan te passen (doubleren, differentiëren in de klas). ">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="-168"
+        x="36"
         y="-36"
         width="406"
         height="110"/>

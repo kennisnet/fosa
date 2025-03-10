@@ -4,9 +4,9 @@
     name="vult (deels) in"
     id="id-f093d50f4ba8419994cf8a88ad7249b2">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-341da56e2abf4df3b8c799ae1b973bd6.xml#id-341da56e2abf4df3b8c799ae1b973bd6"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-f9390567ba4242029a5d9f76ec4f5c85.xml#id-f9390567ba4242029a5d9f76ec4f5c85"/>
   <target
-      xsi:type="archimate:Requirement"
-      href="Requirement_id-9d32a4237a6a400898a9400e010e9ffb.xml#id-9d32a4237a6a400898a9400e010e9ffb"/>
+      xsi:type="archimate:Goal"
+      href="Goal_id-e478ddbe733c490bb3a36ed689386992.xml#id-e478ddbe733c490bb3a36ed689386992"/>
 </archimate:InfluenceRelationship>

@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US1 Persoonlijke leerroute binnen eigen instelling (persp: aanbieder)"
+    name="S01. Flexibiliteit in leerroutes (persp: aanbieder)"
     id="id-99ec16e7e1db4e4fb5705d6c1c34f639"
-    documentation="Een onderwijsdeelnemer heeft een persoonlijk leertraject en kan binnen het aanbod van de onderwijsaanbieder keuzes maken. Enkele voorbeelden:&#xD;&#xA;* Een onderwijsdeelnemer doet een Cambridge Engels module. ​&#xD;&#xA;* Een onderwijsdeelnemer doet tweetalig onderwijs (TTO).​&#xD;&#xA;* Een havo-onderwijsdeelnemer volgt wiskunde op vwo-niveau.​&#xD;&#xA;* Een vwo-onderwijsdeelnemer doet 5 jaar over de hele opleiding.​&#xD;&#xA;* Een onderwijsdeelnemer volgt onderwijs conform het Agora-concept.​&#xD;&#xA;* Ongedifferentieerd onderwijsaanbod (“uitgestelde schoolkeuze”)&#xD;&#xA;">
+    documentation="Het onderwijs wordt binnen één onderwijsaanbieder flexibeler georganiseerd zodat een leerling een meer persoonlijke leerroute kan samenstellen, bijvoorbeeld: &#xD;&#xA;    Volgen van extra onderwijsaanbod (extra vakken, modules) of volgen van het onderwijsaanbod in een andere vorm (tweetalig, focus op techniek) &#xD;&#xA;    Combineren van onderwijs op verschillende niveaus &#xD;&#xA;    Versnellen of vertragen &#xD;&#xA;    Loslaten van onderwijs volgen in vaste klassen, groepen, leerjaren, niveaus etc.) &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-13be3b5293dc49af879adc028a7680bb"
@@ -2028,14 +2028,14 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-e4f429a870bb438f9e3d8af6f2ee5203"
       textAlignment="1"
-      content="Een leerling heeft een persoonlijk leertraject en kan binnen het aanbod van de onderwijsaanbieder keuzes maken.&#xD;&#xA;Een leerling doet een Cambridge Engels module. ​&#xD;&#xA;Een leerling doet tweetalig onderwijs (TTO).​&#xD;&#xA;Een havo-leerling volgt wiskunde op vwo-niveau.​&#xD;&#xA;Een vwo-leerling doet 5 jaar over de hele opleiding.​&#xD;&#xA;Een leerling volgt onderwijs conform het Agora-concept.​&#xD;&#xA;Ongedifferentieerd onderwijsaanbod (“uitgestelde schoolkeuze”)">
+      content="Het onderwijs wordt binnen één onderwijsaanbieder flexibeler georganiseerd zodat een leerling een meer persoonlijke leerroute kan samenstellen, bijvoorbeeld: &#xD;&#xA;    Volgen van extra onderwijsaanbod (extra vakken, modules) of volgen van het onderwijsaanbod in een andere vorm (tweetalig, focus op techniek) &#xD;&#xA;    Combineren van onderwijs op verschillende niveaus &#xD;&#xA;    Versnellen of vertragen &#xD;&#xA;    Loslaten van onderwijs volgen in vaste klassen, groepen, leerjaren, niveaus etc.) ">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
         x="-168"
         y="-36"
-        width="406"
-        height="110"/>
+        width="637"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>

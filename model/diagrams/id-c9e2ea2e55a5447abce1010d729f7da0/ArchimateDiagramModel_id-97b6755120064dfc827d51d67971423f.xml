@@ -1,17 +1,17 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="US2a Doorlopende en geïntegreerde leerlijn (persp: aanbieder)"
+    name="S02a. Doorlopende leerroute over sectoren heen (persp: aanbieder)"
     id="id-97b6755120064dfc827d51d67971423f"
-    documentation="Twee onderwijsinstellingen bieden doorlopende leerlijn vmbo-mbo aan, tbv doorlopende en geïntegreerde leerroutes vmbo - mbo en verlengd praktijkonderwijs tbv doorstroom vmbo - mbo entree opleidingen. De onderwijsaanbieders stellen een onderwijs- en ondersteuningsteam samen met alle benodigde competenties om het gezamenlijke aanbod te kunnen leveren. De onderwijsaanbieders maken onderlinge afspraken over financiële verevening en andere verantwoordelijkheden. &#xD;&#xA;De leerling stapt na het tweede jaar vmbo over naar het mbo en schrijft zich daar in. Dit wordt de bekostigde inschrijving; de inschrijving op het vo blijft en is onbekostigd. De vo-onderwijsaanbieder is verantwoordelijk voor vo-onderwijs, examinering, diploma. De mbo-onderwijsaanbieder is verantwoordelijk voor mbo onderwijs, examinering, diploma,deelnameregistratie, financiering en verantwoording. Er is geen sprake van een aparte onderwijsaanbieder voor deze doorlopende leerlijn.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-59d9f5fcb4f94c6cab31927e7f4c21b7"
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="-264"
-        y="96"
+        x="300"
+        y="204"
         width="301"
         height="1045"/>
     <archimateElement
@@ -24,8 +24,8 @@
       name="Plannen en roosteren"
       textAlignment="1">
     <bounds
-        x="1392"
-        y="96"
+        x="1956"
+        y="204"
         width="349"
         height="1045"/>
   </children>
@@ -35,8 +35,8 @@
       name="Ontwikkelen team"
       textAlignment="1">
     <bounds
-        x="360"
-        y="96"
+        x="924"
+        y="204"
         width="301"
         height="1045"/>
   </children>
@@ -46,8 +46,8 @@
       name="Ontwikkelen onderwijs"
       textAlignment="1">
     <bounds
-        x="48"
-        y="96"
+        x="612"
+        y="204"
         width="301"
         height="1045"/>
   </children>
@@ -57,8 +57,8 @@
       name="Validering"
       textAlignment="1">
     <bounds
-        x="2184"
-        y="96"
+        x="2748"
+        y="204"
         width="313"
         height="1045"/>
   </children>
@@ -68,8 +68,8 @@
       name="Onderwijsuitvoering"
       textAlignment="1">
     <bounds
-        x="1752"
-        y="96"
+        x="2316"
+        y="204"
         width="421"
         height="1045"/>
   </children>
@@ -79,8 +79,8 @@
       name="Inschrjven"
       textAlignment="1">
     <bounds
-        x="1044"
-        y="96"
+        x="1608"
+        y="204"
         width="337"
         height="1045"/>
   </children>
@@ -90,8 +90,8 @@
       name="Oriënteren en aanmelden"
       textAlignment="1">
     <bounds
-        x="672"
-        y="96"
+        x="1236"
+        y="204"
         width="361"
         height="1045"/>
   </children>
@@ -175,8 +175,8 @@
           href="AggregationRelationship_id-de93e3d8c05048c8bc84950e0442bed6.xml#id-de93e3d8c05048c8bc84950e0442bed6"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="144"
+        x="276"
+        y="252"
         width="2797"
         height="140"/>
     <children
@@ -573,8 +573,8 @@
           href="AggregationRelationship_id-02dccb3bd0ab4b90b749dee0b54a4ade.xml#id-02dccb3bd0ab4b90b749dee0b54a4ade"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="283"
+        x="276"
+        y="391"
         width="2797"
         height="140"/>
     <children
@@ -945,8 +945,8 @@
           href="AggregationRelationship_id-ccb34bb27e5f4343a83b39251e58ab6b.xml#id-ccb34bb27e5f4343a83b39251e58ab6b"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="708"
+        x="276"
+        y="816"
         width="2797"
         height="140"/>
     <children
@@ -1025,8 +1025,8 @@
           href="AggregationRelationship_id-cc0e66ea97f641bb897252beb557d886.xml#id-cc0e66ea97f641bb897252beb557d886"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="986"
+        x="276"
+        y="1094"
         width="2797"
         height="140"/>
     <children
@@ -1155,8 +1155,8 @@
           href="AssignmentRelationship_id-32f11d3af0e44b8388905be9da8ab741.xml#id-32f11d3af0e44b8388905be9da8ab741"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="204"
+        x="48"
+        y="312"
         width="144"
         height="55"/>
     <archimateElement
@@ -1181,8 +1181,8 @@
           href="AssignmentRelationship_id-54f387099fba4cb68f7067615422352b.xml#id-54f387099fba4cb68f7067615422352b"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="771"
+        x="48"
+        y="879"
         width="144"
         height="55"/>
     <archimateElement
@@ -1207,8 +1207,8 @@
           href="AssignmentRelationship_id-541d89b37683487d822d51e92c0d16f4.xml#id-541d89b37683487d822d51e92c0d16f4"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="1035"
+        x="48"
+        y="1143"
         width="144"
         height="55"/>
     <archimateElement
@@ -1269,8 +1269,8 @@
           href="AggregationRelationship_id-2cfc6f50ba6e4524adecf61a830b3454.xml#id-2cfc6f50ba6e4524adecf61a830b3454"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="847"
+        x="276"
+        y="955"
         width="2797"
         height="140"/>
     <children
@@ -1431,8 +1431,8 @@
           href="AssignmentRelationship_id-f155c418c26d4726a60c103924e2b083.xml#id-f155c418c26d4726a60c103924e2b083"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="903"
+        x="48"
+        y="1011"
         width="144"
         height="55"/>
     <archimateElement
@@ -1457,8 +1457,8 @@
           href="AssignmentRelationship_id-e106a6ece3444b5080caec5927c6514f.xml#id-e106a6ece3444b5080caec5927c6514f"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="464"
+        x="48"
+        y="572"
         width="144"
         height="55"/>
     <archimateElement
@@ -1483,8 +1483,8 @@
           href="AssignmentRelationship_id-27463df4200e4230a9cdfb5e78f938b5.xml#id-27463df4200e4230a9cdfb5e78f938b5"/>
     </sourceConnections>
     <bounds
-        x="-516"
-        y="325"
+        x="48"
+        y="433"
         width="144"
         height="55"/>
     <archimateElement
@@ -1680,8 +1680,8 @@
           href="AggregationRelationship_id-64b2b3d8393846e09542136e50919cd0.xml#id-64b2b3d8393846e09542136e50919cd0"/>
     </sourceConnections>
     <bounds
-        x="-288"
-        y="422"
+        x="276"
+        y="530"
         width="2797"
         height="287"/>
     <children
@@ -2574,15 +2574,15 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-2763f4f1f99f4219a9a1af50e57da2f9"
       textAlignment="1"
-      content="Twee onderwijsinstellingen bieden doorlopende leerlijn vmbo-mbo aan, tbv doorlopende en geïntegreerde leerroutes vmbo - mbo en verlengd praktijkonderwijs tbv doorstroom vmbo - mbo entree opleidingen.&#xD;&#xA;Stellen gezamenlijk onderwijsteam samen met alle benodigde competenties&#xD;&#xA;Onderlinge afspraken over financiële verevening&#xD;&#xA;Leerling stapt na het tweede jaar vmbo over naar het mbo&#xD;&#xA;Vo verantwoordelijk voor vo-onderwijs, examinering, diploma&#xD;&#xA;Mbo verantwoordelijk voor mbo onderwijs, examinering, diploma,deelnameregistratie, financiering en verantwoordng.&#xD;&#xA;Er is geen sprake van een aparte onderwijsaanbieder voor dit onderwijs.&#xD;&#xA;&#xD;&#xA;">
+      content="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;&#xD;&#xA;Hier wordt de aansluiting van vmbo naar mbo uitgewerkt.&#xD;&#xA;&#xD;&#xA;">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="-504"
-        y="-84"
+        x="72"
+        y="92"
         width="529"
-        height="169"/>
+        height="85"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -2613,8 +2613,8 @@
           endY="-89"/>
     </sourceConnections>
     <bounds
-        x="924"
-        y="-13"
+        x="1488"
+        y="95"
         width="185"
         height="80"/>
   </children>
