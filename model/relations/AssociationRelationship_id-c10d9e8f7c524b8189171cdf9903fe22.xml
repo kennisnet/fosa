@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lost knelpunt op"
+    id="id-c10d9e8f7c524b8189171cdf9903fe22"
+    directed="true">
+  <source
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-ab00cdda90fa48dfaf1aff8bfacbd0bb.xml#id-ab00cdda90fa48dfaf1aff8bfacbd0bb"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-898569860f18411f882e77ec49276098.xml#id-898569860f18411f882e77ec49276098"/>
+</archimate:AssociationRelationship>

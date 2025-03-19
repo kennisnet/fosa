@@ -10,8 +10,8 @@
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="300"
-        y="204"
+        x="288"
+        y="148"
         width="301"
         height="1045"/>
     <archimateElement
@@ -24,8 +24,8 @@
       name="Plannen en roosteren"
       textAlignment="1">
     <bounds
-        x="1956"
-        y="204"
+        x="1944"
+        y="148"
         width="349"
         height="1045"/>
   </children>
@@ -35,8 +35,8 @@
       name="Ontwikkelen team"
       textAlignment="1">
     <bounds
-        x="924"
-        y="204"
+        x="912"
+        y="148"
         width="301"
         height="1045"/>
   </children>
@@ -46,8 +46,8 @@
       name="Ontwikkelen onderwijs"
       textAlignment="1">
     <bounds
-        x="612"
-        y="204"
+        x="600"
+        y="148"
         width="301"
         height="1045"/>
   </children>
@@ -57,8 +57,8 @@
       name="Validering"
       textAlignment="1">
     <bounds
-        x="2748"
-        y="204"
+        x="2736"
+        y="148"
         width="313"
         height="1045"/>
   </children>
@@ -68,8 +68,8 @@
       name="Onderwijsuitvoering"
       textAlignment="1">
     <bounds
-        x="2316"
-        y="204"
+        x="2304"
+        y="148"
         width="421"
         height="1045"/>
   </children>
@@ -79,8 +79,8 @@
       name="Inschrjven"
       textAlignment="1">
     <bounds
-        x="1608"
-        y="204"
+        x="1596"
+        y="148"
         width="337"
         height="1045"/>
   </children>
@@ -90,8 +90,8 @@
       name="Oriënteren en aanmelden"
       textAlignment="1">
     <bounds
-        x="1236"
-        y="204"
+        x="1224"
+        y="148"
         width="361"
         height="1045"/>
   </children>
@@ -175,8 +175,8 @@
           href="AggregationRelationship_id-de93e3d8c05048c8bc84950e0442bed6.xml#id-de93e3d8c05048c8bc84950e0442bed6"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="252"
+        x="264"
+        y="196"
         width="2797"
         height="140"/>
     <children
@@ -573,8 +573,8 @@
           href="AggregationRelationship_id-02dccb3bd0ab4b90b749dee0b54a4ade.xml#id-02dccb3bd0ab4b90b749dee0b54a4ade"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="391"
+        x="264"
+        y="335"
         width="2797"
         height="140"/>
     <children
@@ -945,8 +945,8 @@
           href="AggregationRelationship_id-ccb34bb27e5f4343a83b39251e58ab6b.xml#id-ccb34bb27e5f4343a83b39251e58ab6b"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="816"
+        x="264"
+        y="760"
         width="2797"
         height="140"/>
     <children
@@ -1025,8 +1025,8 @@
           href="AggregationRelationship_id-cc0e66ea97f641bb897252beb557d886.xml#id-cc0e66ea97f641bb897252beb557d886"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="1094"
+        x="264"
+        y="1038"
         width="2797"
         height="140"/>
     <children
@@ -1155,8 +1155,8 @@
           href="AssignmentRelationship_id-32f11d3af0e44b8388905be9da8ab741.xml#id-32f11d3af0e44b8388905be9da8ab741"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="312"
+        x="36"
+        y="256"
         width="144"
         height="55"/>
     <archimateElement
@@ -1181,8 +1181,8 @@
           href="AssignmentRelationship_id-54f387099fba4cb68f7067615422352b.xml#id-54f387099fba4cb68f7067615422352b"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="879"
+        x="36"
+        y="823"
         width="144"
         height="55"/>
     <archimateElement
@@ -1207,8 +1207,8 @@
           href="AssignmentRelationship_id-541d89b37683487d822d51e92c0d16f4.xml#id-541d89b37683487d822d51e92c0d16f4"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="1143"
+        x="36"
+        y="1087"
         width="144"
         height="55"/>
     <archimateElement
@@ -1269,8 +1269,8 @@
           href="AggregationRelationship_id-2cfc6f50ba6e4524adecf61a830b3454.xml#id-2cfc6f50ba6e4524adecf61a830b3454"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="955"
+        x="264"
+        y="899"
         width="2797"
         height="140"/>
     <children
@@ -1431,8 +1431,8 @@
           href="AssignmentRelationship_id-f155c418c26d4726a60c103924e2b083.xml#id-f155c418c26d4726a60c103924e2b083"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="1011"
+        x="36"
+        y="955"
         width="144"
         height="55"/>
     <archimateElement
@@ -1457,8 +1457,8 @@
           href="AssignmentRelationship_id-e106a6ece3444b5080caec5927c6514f.xml#id-e106a6ece3444b5080caec5927c6514f"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="572"
+        x="36"
+        y="516"
         width="144"
         height="55"/>
     <archimateElement
@@ -1483,8 +1483,8 @@
           href="AssignmentRelationship_id-27463df4200e4230a9cdfb5e78f938b5.xml#id-27463df4200e4230a9cdfb5e78f938b5"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="433"
+        x="36"
+        y="377"
         width="144"
         height="55"/>
     <archimateElement
@@ -1680,8 +1680,8 @@
           href="AggregationRelationship_id-64b2b3d8393846e09542136e50919cd0.xml#id-64b2b3d8393846e09542136e50919cd0"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="530"
+        x="264"
+        y="474"
         width="2797"
         height="287"/>
     <children
@@ -2579,8 +2579,8 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="72"
-        y="92"
+        x="60"
+        y="36"
         width="529"
         height="85"/>
   </children>
@@ -2613,8 +2613,8 @@
           endY="-89"/>
     </sourceConnections>
     <bounds
-        x="1488"
-        y="95"
+        x="1476"
+        y="39"
         width="185"
         height="80"/>
   </children>
