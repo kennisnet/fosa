@@ -25,7 +25,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-67f8e2454c0046caaddcdf5a2880e8df"
-      targetConnections="id-c3880c83552942499815cd9fdba2ff65"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
@@ -82,7 +81,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f992687143d743a6bf1a582528fa976b"
-      targetConnections="id-a36c2c7210cd443090ca40e228f006a3"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineWidth="3"
       textPosition="1">
@@ -219,15 +217,6 @@
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c3880c83552942499815cd9fdba2ff65"
-        source="id-4d974486e78e45f8bb5c7011aa5fbace"
-        target="id-67f8e2454c0046caaddcdf5a2880e8df">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-c38ec59be35b4062a6eaf87bac91d68f.xml#id-c38ec59be35b4062a6eaf87bac91d68f"/>
-    </sourceConnections>
     <bounds
         x="48"
         y="192"
@@ -244,15 +233,6 @@
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a36c2c7210cd443090ca40e228f006a3"
-        source="id-553bbc347f2f4e25ae55ff7388fcfaa9"
-        target="id-f992687143d743a6bf1a582528fa976b">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-6efb3917afe54572a1feeda482d6d154.xml#id-6efb3917afe54572a1feeda482d6d154"/>
-    </sourceConnections>
     <bounds
         x="48"
         y="384"
