@@ -337,11 +337,35 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-44870aa870d94606ab495404508b6ce6"
-      targetConnections="id-fb4efbe683144569b90d3fce94b6d654 id-74fe4406cc674cdda4a20641417f8fff id-0bf5f02a6294497b9cf0521941022601"
+      targetConnections="id-fb4efbe683144569b90d3fce94b6d654 id-74fe4406cc674cdda4a20641417f8fff id-0bf5f02a6294497b9cf0521941022601 id-bab589724fe842aeae17d329bd4707ad"
       textPosition="1">
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bab589724fe842aeae17d329bd4707ad"
+        source="id-44870aa870d94606ab495404508b6ce6"
+        target="id-44870aa870d94606ab495404508b6ce6">
+      <bendpoints
+          startX="12"
+          startY="-51"
+          endX="12"
+          endY="-51"/>
+      <bendpoints
+          startX="96"
+          startY="-51"
+          endX="96"
+          endY="-51"/>
+      <bendpoints
+          startX="96"
+          startY="-15"
+          endX="96"
+          endY="-15"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-4d72841baf0445e0b4ab9e3719b335aa.xml#id-4d72841baf0445e0b4ab9e3719b335aa"/>
+    </sourceConnections>
     <bounds
         x="912"
         y="624"
@@ -511,6 +535,11 @@
         id="id-0bf5f02a6294497b9cf0521941022601"
         source="id-fdd5c16593be4303bc274e9ac6340580"
         target="id-44870aa870d94606ab495404508b6ce6">
+      <bendpoints
+          startX="-156"
+          startY="21"
+          endX="156"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-c10d9e8f7c524b8189171cdf9903fe22.xml#id-c10d9e8f7c524b8189171cdf9903fe22"/>
