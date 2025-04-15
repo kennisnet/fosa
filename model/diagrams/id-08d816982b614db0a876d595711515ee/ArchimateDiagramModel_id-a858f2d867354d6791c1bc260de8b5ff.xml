@@ -90,6 +90,20 @@
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-ebf16d25b4a14d8a9ac246a80758ad9e.xml#id-ebf16d25b4a14d8a9ac246a80758ad9e"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-f036900f4c5548f38e56a24433089cff"
+          source="id-829147475f5f4b3d87cff2b2469c5a7e"
+          target="id-3fb7fb3bf1434e7fa080f1f424405ebf">
+        <bendpoints
+            startX="-6"
+            startY="-138"
+            endX="-174"
+            endY="-2"/>
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-5ac1b2ffef2a472598b6145f72de8ff5.xml#id-5ac1b2ffef2a472598b6145f72de8ff5"/>
+      </sourceConnections>
       <bounds
           x="672"
           y="60"
@@ -768,7 +782,7 @@
         value="0"/>
     <bounds
         x="1020"
-        y="278"
+        y="240"
         width="277"
         height="49"/>
     <archimateElement
@@ -785,7 +799,7 @@
         value="0"/>
     <bounds
         x="1020"
-        y="230"
+        y="192"
         width="277"
         height="50"/>
     <archimateElement
@@ -802,7 +816,7 @@
         value="0"/>
     <bounds
         x="1020"
-        y="324"
+        y="286"
         width="277"
         height="91"/>
     <archimateElement
@@ -825,5 +839,22 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-3e588e625b404bcea4134ad1ba8e7bcc.xml#id-3e588e625b404bcea4134ad1ba8e7bcc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3fb7fb3bf1434e7fa080f1f424405ebf"
+      targetConnections="id-f036900f4c5548f38e56a24433089cff"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="1020"
+        y="376"
+        width="277"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-a948d52df5a74d5d8e76f294d4e51bfb.xml#id-a948d52df5a74d5d8e76f294d4e51bfb"/>
   </children>
 </archimate:ArchimateDiagramModel>

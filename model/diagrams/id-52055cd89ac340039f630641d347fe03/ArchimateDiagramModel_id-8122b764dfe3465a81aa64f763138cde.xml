@@ -78,6 +78,15 @@
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5a18fa082bc546808f5678e1945b7725"
+        source="id-5a5b3310fba0489e8c73d808866cb549"
+        target="id-95e6454752e94eb2a0df5a74f6f1191e">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-29a4b47554bf4487a20563ffcc3cb500.xml#id-29a4b47554bf4487a20563ffcc3cb500"/>
+    </sourceConnections>
     <bounds
         x="1120"
         y="192"
@@ -720,5 +729,22 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-ce16e19ab07e48b18535eba34f2deb67.xml#id-ce16e19ab07e48b18535eba34f2deb67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-95e6454752e94eb2a0df5a74f6f1191e"
+      targetConnections="id-5a18fa082bc546808f5678e1945b7725"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="706"
+        y="198"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-a948d52df5a74d5d8e76f294d4e51bfb.xml#id-a948d52df5a74d5d8e76f294d4e51bfb"/>
   </children>
 </archimate:ArchimateDiagramModel>

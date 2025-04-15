@@ -384,6 +384,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-af33c0a150f6436c831e1c43937e2e94"
+      targetConnections="id-1ae1fcebb9864806bdc5e05d37eb65eb"
       textPosition="1">
     <features
         name="gradient"
@@ -584,9 +585,27 @@
     <features
         name="gradient"
         value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d4377cde1e16405690c46259e378c7c0"
+        source="id-f04bde6a022843e7b4dadfe03d2758e3"
+        target="id-7e1de1da3bc848439be8e01819a4c63e">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-29a4b47554bf4487a20563ffcc3cb500.xml#id-29a4b47554bf4487a20563ffcc3cb500"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1ae1fcebb9864806bdc5e05d37eb65eb"
+        source="id-f04bde6a022843e7b4dadfe03d2758e3"
+        target="id-af33c0a150f6436c831e1c43937e2e94">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-076b15bf8ed84dbf9a32bdf7f27e58d3.xml#id-076b15bf8ed84dbf9a32bdf7f27e58d3"/>
+    </sourceConnections>
     <bounds
         x="708"
-        y="1118"
+        y="1140"
         width="277"
         height="55"/>
     <archimateElement
@@ -778,5 +797,22 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-ce16e19ab07e48b18535eba34f2deb67.xml#id-ce16e19ab07e48b18535eba34f2deb67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7e1de1da3bc848439be8e01819a4c63e"
+      targetConnections="id-d4377cde1e16405690c46259e378c7c0"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="204"
+        y="1118"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-a948d52df5a74d5d8e76f294d4e51bfb.xml#id-a948d52df5a74d5d8e76f294d4e51bfb"/>
   </children>
 </archimate:ArchimateDiagramModel>
