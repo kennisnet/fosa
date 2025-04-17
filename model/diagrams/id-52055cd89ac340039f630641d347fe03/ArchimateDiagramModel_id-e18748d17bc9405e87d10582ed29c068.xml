@@ -494,7 +494,7 @@
         x="62"
         y="84"
         width="151"
-        height="736"/>
+        height="784"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-4b9b59572d35433c9cfdf4c4bf27f090.xml#id-4b9b59572d35433c9cfdf4c4bf27f090"/>
@@ -1131,6 +1131,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-082bffd5046b4508aac2482ad43ec75c"
         targetConnections="id-2db17b6731e241ba801a4eba5f3096b6"
+        font="1|Segoe UI|9.0|3|WINDOWS|1|-12|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
+        lineWidth="3"
         textPosition="1">
       <features
           name="gradient"
@@ -1390,15 +1392,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ce4baf18fb384bbfb71a205acb3494a7"
-        source="id-9e2a79e7d85f45c9a190eb67bf13284c"
-        target="id-2536252f5b01447cba850828d21c3803">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-31dcd24a9fe54404814c0f1070ba1089.xml#id-31dcd24a9fe54404814c0f1070ba1089"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d272f81418174b4fb3e358fb40fefcfc"
         source="id-9e2a79e7d85f45c9a190eb67bf13284c"
         target="id-8c0e07f0d9fc4833a787eae0dac97f64">
@@ -1535,24 +1528,6 @@
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-1654aa5757154c11b55eb85616542ede.xml#id-1654aa5757154c11b55eb85616542ede"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2536252f5b01447cba850828d21c3803"
-        targetConnections="id-ce4baf18fb384bbfb71a205acb3494a7"
-        font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
-        textPosition="1">
-      <features
-          name="gradient"
-          value="0"/>
-      <bounds
-          x="396"
-          y="72"
-          width="181"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_id-081aeeb92f6c42698cc11327a54a0896.xml#id-081aeeb92f6c42698cc11327a54a0896"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
