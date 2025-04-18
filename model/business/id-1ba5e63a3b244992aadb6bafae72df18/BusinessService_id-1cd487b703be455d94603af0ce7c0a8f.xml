@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mijn mededelingen- en communicatiediensten"
     id="id-1cd487b703be455d94603af0ce7c0a8f"
-    documentation="Voorziening voor mededelingen vanuit de onderwijsaanbieder en een-op-een en groepsgewijze communicatie met onderwijsmedewerkers, klasgenoten en begeleiders."/>
+    documentation="Voorziening voor mededelingen vanuit de onderwijsaanbieder en een-op-een en groepsgewijze communicatie met onderwijsmedewerkers, klasgenoten en begeleiders.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessService>

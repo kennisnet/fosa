@@ -4,6 +4,20 @@
     name="Lost knelpunt op"
     id="id-c10d9e8f7c524b8189171cdf9903fe22"
     directed="true">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
   <source
       xsi:type="archimate:Outcome"
       href="Outcome_id-ab00cdda90fa48dfaf1aff8bfacbd0bb.xml#id-ab00cdda90fa48dfaf1aff8bfacbd0bb"/>

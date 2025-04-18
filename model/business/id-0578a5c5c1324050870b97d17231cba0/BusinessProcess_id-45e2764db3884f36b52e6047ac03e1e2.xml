@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opnemen certificering in landelijk register"
     id="id-45e2764db3884f36b52e6047ac03e1e2"
-    documentation="Registreren van de verkregen certificering in het landelijk diplomaregister.&#xD;&#xA;"/>
+    documentation="Registreren van de verkregen certificering in het landelijk diplomaregister.&#xD;&#xA;">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

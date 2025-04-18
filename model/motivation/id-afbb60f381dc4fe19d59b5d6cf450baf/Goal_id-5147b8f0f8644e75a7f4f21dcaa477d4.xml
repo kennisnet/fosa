@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="01. Aansluitend onderwijs"
     id="id-5147b8f0f8644e75a7f4f21dcaa477d4"
-    documentation="Het leveren van **individueel lesaanbod** (niet globaal op de groep, maar echt maatwerk waar ook andere scholen middelen voor hebben). Het onderwijs sluit aan bij de behoeften en belangstelling van de onderwijsdeelnemers. "/>
+    documentation="Het leveren van **individueel lesaanbod** (niet globaal op de groep, maar echt maatwerk waar ook andere scholen middelen voor hebben). Het onderwijs sluit aan bij de behoeften en belangstelling van de onderwijsdeelnemers. ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

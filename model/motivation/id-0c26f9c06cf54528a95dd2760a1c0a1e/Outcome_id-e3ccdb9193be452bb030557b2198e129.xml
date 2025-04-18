@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="15 Ontwikkel identity providers die in staat zijn om identiteiten van onderwijsmedewerkers en -deelnemers ongewijzigd doorgeven"
     id="id-e3ccdb9193be452bb030557b2198e129"
-    documentation="Ontwikkel of specificeer delegerende en authenticerende identity providers die onderling op elkaar zijn afgestemd en waarmee een landschap van voorzieningen gemaakt kan worden waarin identiteiten ongewijzigd worden uitgewisseld en onder controle staan van hun eigenaren."/>
+    documentation="Ontwikkel of specificeer delegerende en authenticerende identity providers die onderling op elkaar zijn afgestemd en waarmee een landschap van voorzieningen gemaakt kan worden waarin identiteiten ongewijzigd worden uitgewisseld en onder controle staan van hun eigenaren.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Outcome>

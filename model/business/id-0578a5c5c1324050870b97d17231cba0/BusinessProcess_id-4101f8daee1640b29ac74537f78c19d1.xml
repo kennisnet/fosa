@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanschaf leermiddelen"
     id="id-4101f8daee1640b29ac74537f78c19d1"
-    documentation="Het verwerven van leermiddelen door onderwijsorganisatie (selectie en eventueel aanschaf) of particulier (aanschaf). Als de onderwijsdeelnemer een nieuw vak of opleidingsonderdeel kiest, moet hij of zij dat zelf aangeven bij de distributeur of leverancier. "/>
+    documentation="Het verwerven van leermiddelen door onderwijsorganisatie (selectie en eventueel aanschaf) of particulier (aanschaf). Als de onderwijsdeelnemer een nieuw vak of opleidingsonderdeel kiest, moet hij of zij dat zelf aangeven bij de distributeur of leverancier. ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

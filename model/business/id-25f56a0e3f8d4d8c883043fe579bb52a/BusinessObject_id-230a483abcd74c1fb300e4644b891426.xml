@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Groepindeling"
     id="id-230a483abcd74c1fb300e4644b891426"
-    documentation="(Lijst van) groepen die worden gehanteerd bij het geven van onderwijs, en de koppeling van de groepen naar individuele onderwijsdeelnemers."/>
+    documentation="(Lijst van) groepen die worden gehanteerd bij het geven van onderwijs, en de koppeling van de groepen naar individuele onderwijsdeelnemers.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessObject>

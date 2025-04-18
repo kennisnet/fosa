@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visualisatiediensten"
     id="id-b98ad4d75d2f40f0839122322b5a66fc"
-    documentation="Voorzieningen die gegevenssets of de uitkomsten van data-analyse visualiseren."/>
+    documentation="Voorzieningen die gegevenssets of de uitkomsten van data-analyse visualiseren.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessService>

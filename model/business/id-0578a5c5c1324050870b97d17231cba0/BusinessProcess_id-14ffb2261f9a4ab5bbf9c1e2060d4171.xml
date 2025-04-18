@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Maken samenwerkingsafspraken"
     id="id-14ffb2261f9a4ab5bbf9c1e2060d4171"
-    documentation="Onderwijsaanbieders maken afspraken over het aanbieden van gemeenschappelijk onderwijs voor de doorlopende leerroue. Er worden afspraken gemaakt op het gebied van onderwijsaanbod en -verzorging, teamsamenstelling, financiering en verdeling van verantwoordelijkheden (bijv aanwezigheidsregistratie en -opvolging, schorsingen, klachten). "/>
+    documentation="Onderwijsaanbieders maken afspraken over het aanbieden van gemeenschappelijk onderwijs voor de doorlopende leerroue. Er worden afspraken gemaakt op het gebied van onderwijsaanbod en -verzorging, teamsamenstelling, financiering en verdeling van verantwoordelijkheden (bijv aanwezigheidsregistratie en -opvolging, schorsingen, klachten). ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="09. Sectorvoorzieningen zijn transparant"
     id="id-87cf01d104ba4a3f9b3acdffbee8015e"
-    documentation="De sectorvoorzieningen zijn transparant in hun werking, wat betekent dat de werking voor partijen en gebruikers inzichtelijk en begrijpelijk is."/>
+    documentation="De sectorvoorzieningen zijn transparant in hun werking, wat betekent dat de werking voor partijen en gebruikers inzichtelijk en begrijpelijk is.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Principle>

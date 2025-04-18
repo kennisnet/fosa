@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenstellen (gezamenlijk) team"
     id="id-e02b7a01a5c04aae909c98cf8fda7e3a"
-    documentation="De onderwijsaanbieder zorgt dat er een team van docenten, studentenadministratie, verzuimcoordinatie enz beschikbaar is om de leerroutes aan te bieden aan de onderwijsdeelnemers. Dit kan op diverse manieren, bijvoorbeeld door het samenstellen van een gemeenschappelijk team samen met de andere onderwijsaanbieder, door het detacheren van eigen docenten naar andere onderwijsinstelling of door samenwerking op andere manieren in te richten.  "/>
+    documentation="De onderwijsaanbieder zorgt dat er een team van docenten, studentenadministratie, verzuimcoordinatie enz beschikbaar is om de leerroutes aan te bieden aan de onderwijsdeelnemers. Dit kan op diverse manieren, bijvoorbeeld door het samenstellen van een gemeenschappelijk team samen met de andere onderwijsaanbieder, door het detacheren van eigen docenten naar andere onderwijsinstelling of door samenwerking op andere manieren in te richten.  ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

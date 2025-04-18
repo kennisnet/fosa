@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheer planning onderwijsteam"
     id="id-f3ca799994e64d1b8efce2c54c0cbdb5"
-    documentation="Inplannen van het onderwijsteam en beheer van de planning. Als teams (deels) bestaan uit leden van twee onderwijsaanbieders, moet er voor de teamplanning onderling worden afgestemd. Dit verloopt meestal ad-hoc, er zijn geen protocollen voor.&#xD;&#xA;"/>
+    documentation="Inplannen van het onderwijsteam en beheer van de planning. Als teams (deels) bestaan uit leden van twee onderwijsaanbieders, moet er voor de teamplanning onderling worden afgestemd. Dit verloopt meestal ad-hoc, er zijn geen protocollen voor.&#xD;&#xA;">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="08. Sectorvoorzieningen zijn beveiligd"
     id="id-4d677b5380b048d78cf113b6b4722846"
-    documentation="Vertrouwelijkheid en integriteit van gegevens is geborgd"/>
+    documentation="Vertrouwelijkheid en integriteit van gegevens is geborgd">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Principle>

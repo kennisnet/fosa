@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overstapdossier"
     id="id-519206678c5f46619d7e8ee2921482cb"
-    documentation="Een gestandaardiseerde verzameling gegevens die relevant geacht worden bij de overstap van een onderwijsdeelnemer van de ene onderwijsinstelling naar een andere."/>
+    documentation="Een gestandaardiseerde verzameling gegevens die relevant geacht worden bij de overstap van een onderwijsdeelnemer van de ene onderwijsinstelling naar een andere.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessObject>

@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="05. Sectorvoorzieningen zijn toegankelijk voor iedereen"
     id="id-5ae7883595134089b2a67cd2aac7da69"
-    documentation="De sectorvoorzieningen zijn toegankelijk voor iedereen door een toegankelijke userinterface die aansluit op de fysieke leer- en werkomgeving en toegankelijk is met beperkte middelen en voor mensen met een functiebeperking. &#xD;&#xA;"/>
+    documentation="De sectorvoorzieningen zijn toegankelijk voor iedereen door een toegankelijke userinterface die aansluit op de fysieke leer- en werkomgeving en toegankelijk is met beperkte middelen en voor mensen met een functiebeperking. &#xD;&#xA;">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Principle>

@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-076b15bf8ed84dbf9a32bdf7f27e58d3"
     directed="true">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
   <source
       xsi:type="archimate:Outcome"
       href="Outcome_id-3e6d25a37207478cad04ed63973e8691.xml#id-3e6d25a37207478cad04ed63973e8691"/>

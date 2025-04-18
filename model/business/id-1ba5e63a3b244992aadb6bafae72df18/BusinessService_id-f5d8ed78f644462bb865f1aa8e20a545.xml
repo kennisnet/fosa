@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Persoonlijk dossierdienst"
     id="id-f5d8ed78f644462bb865f1aa8e20a545"
-    documentation="Begeleidingsdossier met informatie over ondersteuningsbehoefte van de leerling. &#xD;&#xA;&#xD;&#xA;Heeft op de rol toegesneden autorisaties voor de onderwijsdeelnemer zelf, de begeleider en docenten van de eigen onderwijsaanbieder, begeleiders en docenten van andere onderwijsaanbieders waar de onderwijsdeelnemer onderwijs volgt, en andere begeleiders die een rol spelen in het onderwijs.&#xD;&#xA;"/>
+    documentation="Begeleidingsdossier met informatie over ondersteuningsbehoefte van de leerling. &#xD;&#xA;&#xD;&#xA;Heeft op de rol toegesneden autorisaties voor de onderwijsdeelnemer zelf, de begeleider en docenten van de eigen onderwijsaanbieder, begeleiders en docenten van andere onderwijsaanbieders waar de onderwijsdeelnemer onderwijs volgt, en andere begeleiders die een rol spelen in het onderwijs.&#xD;&#xA;">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessService>

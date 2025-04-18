@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Juridische verantwoording onderwijsaanbod"
     id="id-1e2197184457460a8213acc1bd983591"
-    documentation="Proces waarbij de toezichthouder nagaat of het aangeboden onderwijs in overeenstemming is met de licentie van de onderwijsaanbieder"/>
+    documentation="Proces waarbij de toezichthouder nagaat of het aangeboden onderwijs in overeenstemming is met de licentie van de onderwijsaanbieder">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

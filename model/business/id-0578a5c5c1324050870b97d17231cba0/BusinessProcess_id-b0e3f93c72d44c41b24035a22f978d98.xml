@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behalen leerresultaten"
     id="id-b0e3f93c72d44c41b24035a22f978d98"
-    documentation="Proces waarbij de onderwijsdeelnemer leerresultaten behaalt"/>
+    documentation="Proces waarbij de onderwijsdeelnemer leerresultaten behaalt">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>
