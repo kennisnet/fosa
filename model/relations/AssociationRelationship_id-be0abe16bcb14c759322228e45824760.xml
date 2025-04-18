@@ -2,6 +2,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-be0abe16bcb14c759322228e45824760">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
   <source
       xsi:type="archimate:Assessment"
       href="Assessment_id-97d30794bd5f4da5b7a7a29c22a8cc06.xml#id-97d30794bd5f4da5b7a7a29c22a8cc06"/>

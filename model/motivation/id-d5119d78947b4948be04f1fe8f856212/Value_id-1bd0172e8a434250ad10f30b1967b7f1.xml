@@ -1,4 +1,19 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doelmatigheid"
-    id="id-1bd0172e8a434250ad10f30b1967b7f1"/>
+    id="id-1bd0172e8a434250ad10f30b1967b7f1">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Value>

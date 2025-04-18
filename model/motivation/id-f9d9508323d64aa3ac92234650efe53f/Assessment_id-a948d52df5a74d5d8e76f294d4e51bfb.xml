@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="021 Verschil in niveaus inschrijving en uitschrijving"
     id="id-a948d52df5a74d5d8e76f294d4e51bfb"
-    documentation="Inschrijving gebeurt altijd op basis van erkende opleidingen, die verbonden zijn aan erkende opleidingscodes (in het vo voorheen de elementcodes/ILT-codes geheten). Bij meer flexibele leerroutes, bij sommige doorlopende leerroutes en bij ongedifferentieerd onderwijsaanbod (&quot;uitgestelde schoolkeuze&quot;) worden onderwijsdeelnemers op een zo breed mogelijk opleidingsprogramma ingeschreven, maar het uitstroomniveau kan desondanks toch afwijken. Dit vertroebelt de doorstroomcijfers voor de onderwijsaanbieder. "/>
+    documentation="Inschrijving gebeurt altijd op basis van erkende opleidingen, die verbonden zijn aan erkende opleidingscodes (in het vo voorheen de elementcodes/ILT-codes geheten). Bij meer flexibele leerroutes, bij sommige doorlopende leerroutes en bij ongedifferentieerd onderwijsaanbod (&quot;uitgestelde schoolkeuze&quot;) worden onderwijsdeelnemers op een zo breed mogelijk opleidingsprogramma ingeschreven, maar het uitstroomniveau kan desondanks toch afwijken. Dit vertroebelt de doorstroomcijfers voor de onderwijsaanbieder. ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Assessment>

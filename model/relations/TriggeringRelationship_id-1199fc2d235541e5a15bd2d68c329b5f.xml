@@ -2,6 +2,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-1199fc2d235541e5a15bd2d68c329b5f">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-b0e3f93c72d44c41b24035a22f978d98.xml#id-b0e3f93c72d44c41b24035a22f978d98"/>

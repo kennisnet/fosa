@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bijscholen team"
-    id="id-8e29b8b6b86c4c31a987626c659164db"/>
+    id="id-8e29b8b6b86c4c31a987626c659164db">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

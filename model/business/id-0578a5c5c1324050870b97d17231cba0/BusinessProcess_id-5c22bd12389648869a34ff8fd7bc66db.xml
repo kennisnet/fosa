@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Accorderen voorstel inschrijving"
     id="id-5c22bd12389648869a34ff8fd7bc66db"
-    documentation="Proces waarbij de aankomend onderwijsdeelnemer akkoord gaat met het voorstel van de onderwijsaanbieder en zich committeert aan deelname aan het aanbod voor een (deel) opleiding van de onderwijsaanbieder. Dit proces kan worden gebruikt voor de inschrijving op een complete opleiding of inschrijving op een onderdeel. "/>
+    documentation="Proces waarbij de aankomend onderwijsdeelnemer akkoord gaat met het voorstel van de onderwijsaanbieder en zich committeert aan deelname aan het aanbod voor een (deel) opleiding van de onderwijsaanbieder. Dit proces kan worden gebruikt voor de inschrijving op een complete opleiding of inschrijving op een onderdeel. ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

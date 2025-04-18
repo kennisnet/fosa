@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registratie onderwijsdeelname"
     id="id-20c3819331d246859a74a393c1893ed9"
-    documentation="Vastleggen van deelname aan het onderwijs van een onderwijsdeelnemer, gebaseerd op zijn of haar persoonlijke rooster."/>
+    documentation="Vastleggen van deelname aan het onderwijs van een onderwijsdeelnemer, gebaseerd op zijn of haar persoonlijke rooster.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

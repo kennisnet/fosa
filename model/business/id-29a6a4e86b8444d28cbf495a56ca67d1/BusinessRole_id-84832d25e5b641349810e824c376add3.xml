@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijsaanbieder"
     id="id-84832d25e5b641349810e824c376add3"
-    documentation="Een organisatie die onderwijs aanbiedt en verzorgt en regelt dat aan de gestelde randvoorwaarden wordt voldaan."/>
+    documentation="Een organisatie die onderwijs aanbiedt en verzorgt en regelt dat aan de gestelde randvoorwaarden wordt voldaan.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessRole>

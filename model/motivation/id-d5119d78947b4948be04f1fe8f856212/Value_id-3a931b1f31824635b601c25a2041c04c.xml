@@ -1,4 +1,19 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertrouwen"
-    id="id-3a931b1f31824635b601c25a2041c04c"/>
+    id="id-3a931b1f31824635b601c25a2041c04c">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Value>

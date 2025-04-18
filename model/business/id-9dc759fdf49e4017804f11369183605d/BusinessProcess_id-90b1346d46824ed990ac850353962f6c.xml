@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsproces"
     id="id-90b1346d46824ed990ac850353962f6c"
-    documentation="Onderdeel van een ketenproces, die wordt uitgevoerd door één rol."/>
+    documentation="Onderdeel van een ketenproces, die wordt uitgevoerd door één rol.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

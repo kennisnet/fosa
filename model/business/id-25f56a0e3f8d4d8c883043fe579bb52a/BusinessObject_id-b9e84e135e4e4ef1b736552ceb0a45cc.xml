@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Persoonsgegevens"
     id="id-b9e84e135e4e4ef1b736552ceb0a45cc"
-    documentation="Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon."/>
+    documentation="Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessObject>

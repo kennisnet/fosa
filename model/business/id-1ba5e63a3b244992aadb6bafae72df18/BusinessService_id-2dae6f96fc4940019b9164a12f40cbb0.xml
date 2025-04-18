@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Delegerende Identityprovider"
     id="id-2dae6f96fc4940019b9164a12f40cbb0"
-    documentation="Een Identity Provider die de identificatie en authenticatie van eindgebruikers delegeert aan een Authenticerende Identity Provider.&#xD;&#xA;&#xD;&#xA;De Delegerende Identity Provider fungeert als authenticatieproxy, past identity mapping toe en geeft een identiteitsverklaring af aan een Federatieve Hub of een Dienst met SSO waarmee deze een vertrouwensrelatie heeft."/>
+    documentation="Een Identity Provider die de identificatie en authenticatie van eindgebruikers delegeert aan een Authenticerende Identity Provider.&#xD;&#xA;&#xD;&#xA;De Delegerende Identity Provider fungeert als authenticatieproxy, past identity mapping toe en geeft een identiteitsverklaring af aan een Federatieve Hub of een Dienst met SSO waarmee deze een vertrouwensrelatie heeft.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessService>

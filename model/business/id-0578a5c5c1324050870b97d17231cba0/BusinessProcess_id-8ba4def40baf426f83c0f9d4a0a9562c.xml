@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden"
     id="id-8ba4def40baf426f83c0f9d4a0a9562c"
-    documentation="Het formuleren van de leervraag en optioneel het leveren van identificerende gegevens door een (aankomend) onderwijsdeelnemer. Dit proces kan worden gebruikt voor de aanmelding op een complete opleiding of voor een onderdeel. De onderwijsdeelnemer kan het persoonlijk portfolio gebruiken voor de ondersteuning van de aanmelding."/>
+    documentation="Het formuleren van de leervraag en optioneel het leveren van identificerende gegevens door een (aankomend) onderwijsdeelnemer. Dit proces kan worden gebruikt voor de aanmelding op een complete opleiding of voor een onderdeel. De onderwijsdeelnemer kan het persoonlijk portfolio gebruiken voor de ondersteuning van de aanmelding.">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

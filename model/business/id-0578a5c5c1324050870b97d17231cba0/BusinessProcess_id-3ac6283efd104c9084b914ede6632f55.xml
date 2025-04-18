@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen indicatie financierbaarheid"
     id="id-3ac6283efd104c9084b914ede6632f55"
-    documentation="Het proces waarbij wordt nagegaan of en op welke wijze deelname aan de opleiding of opleidingsonderdeel gefinancierd zou kunnen worden. "/>
+    documentation="Het proces waarbij wordt nagegaan of en op welke wijze deelname aan de opleiding of opleidingsonderdeel gefinancierd zou kunnen worden. ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessProcess>

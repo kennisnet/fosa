@@ -1,5 +1,20 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zoek- en matchingdiensten"
+    name="Catalogusdiensten voor ondersteuningsfuncties en -voorzieningen"
     id="id-27e490fb564b4526a7e3303411ccb65b"
-    documentation="Voorzieningen om onderwijsaanbieder en onderwijsdeelnemers te ondersteunen bij de keuze uit onderwijsprogramma's, opleidingsonderdelen, begeleiding die past bij de onderwijs- en zorgvraag, niveau en wensen van de onderwijsdeelnemer. De matchingdiensten bieden ondersteuning en het samenstellen van een persoonlijke leerroute."/>
+    documentation="Verzameling diensten die catalogi bieden met beschikbare dienstverleners, voorzieningen en procesdures die een onderwijsinstelling hanteert voor ondersteuning aan leerlingen met ondersteuningsbehoefte op allerlei gebied. Inclusief zoek- en matchingfuncties. ">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessService>

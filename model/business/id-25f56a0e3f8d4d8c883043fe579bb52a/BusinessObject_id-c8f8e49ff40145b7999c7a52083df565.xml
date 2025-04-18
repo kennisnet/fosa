@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Normenkader onderwijs"
     id="id-c8f8e49ff40145b7999c7a52083df565"
-    documentation="Samenhangend geheel van kerndoelen, eindtermen of andere normatieve beschrijving van het resultaat van onderwijs"/>
+    documentation="Samenhangend geheel van kerndoelen, eindtermen of andere normatieve beschrijving van het resultaat van onderwijs">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessObject>

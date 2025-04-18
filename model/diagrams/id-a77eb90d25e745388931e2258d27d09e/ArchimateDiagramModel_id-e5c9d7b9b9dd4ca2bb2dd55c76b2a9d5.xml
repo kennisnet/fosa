@@ -2505,4 +2505,34 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-925d7d1fd67f410c9b0cf49809df2793.xml#id-925d7d1fd67f410c9b0cf49809df2793"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6bf15c7e10894ef0a68847a83d62793c"
+      textAlignment="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Auteur: $view{property:Auteur}&#xA;Status: $view{property:Status}&#xA;Datum: $view{property:Datum}&#xA;"/>
+    <bounds
+        x="84"
+        y="-60"
+        width="267"
+        height="70"/>
+  </children>
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+  <properties
+      key="Type"/>
 </archimate:ArchimateDiagramModel>

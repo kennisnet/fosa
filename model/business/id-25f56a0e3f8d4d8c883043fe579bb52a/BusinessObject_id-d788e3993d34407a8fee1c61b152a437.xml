@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inzetbaarheidsgegevens docent"
     id="id-d788e3993d34407a8fee1c61b152a437"
-    documentation="Informatie over de inzetbaarheid van een docent"/>
+    documentation="Informatie over de inzetbaarheid van een docent">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers; FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:BusinessObject>

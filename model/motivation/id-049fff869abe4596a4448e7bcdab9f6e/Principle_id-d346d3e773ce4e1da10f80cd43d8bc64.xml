@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="07. Sectorvoorzieningen zijn robuust"
     id="id-d346d3e773ce4e1da10f80cd43d8bc64"
-    documentation="De sectorvoorzieningen zijn zodanig robuust dat de continuïteit van onderwijs en bedrijfsvoering is geborgd"/>
+    documentation="De sectorvoorzieningen zijn zodanig robuust dat de continuïteit van onderwijs en bedrijfsvoering is geborgd">
+  <properties
+      key="Auteur"
+      value="Marc Fleischeuers, FOSA project"/>
+  <properties
+      key="Auteur email"
+      value="M.Fleischeuers@kennisnet.nl"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Principle>
