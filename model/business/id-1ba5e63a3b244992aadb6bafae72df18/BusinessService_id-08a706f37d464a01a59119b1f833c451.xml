@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mijn resultatendiensten"
+    name="Resultatendiensten"
     id="id-08a706f37d464a01a59119b1f833c451"
-    documentation="Persoonlijk overzicht van alle behaalde resultaten, bijvoorbeeld in de vorm van microcredentials.">
+    documentation="Persoonlijk overzicht van alle behaalde resultaten van een onderwijsdeelnemer, bijvoorbeeld in de vorm van microcredentials.">
   <properties
       key="Auteur"
       value="Marc Fleischeuers; FOSA project"/>

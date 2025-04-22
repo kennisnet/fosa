@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mijn portfoliodienst"
+    name="Portfoliodienst"
     id="id-8392ca33d2494ba387e92be82248f397"
-    documentation="Portfolio met alle gevolgde onderwijs en behaalde resultaten van een onderwijsdeelnemer, geordend in verschillende secties en voorzien van raadpleeg- en toegangsfaciliteiten met autorisaties voor verschillende rollen.">
+    documentation="Portfolio met alle gevolgde onderwijs en behaalde onderwijsresultaten van een onderwijsdeelnemer, geordend in verschillende secties en voorzien van raadpleeg- en toegangsfaciliteiten met autorisaties voor verschillende rollen.">
   <properties
       key="Auteur"
       value="Marc Fleischeuers; FOSA project"/>

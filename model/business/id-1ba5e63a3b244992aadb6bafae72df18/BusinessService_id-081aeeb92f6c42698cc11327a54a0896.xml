@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mijn inschrijvingdiensten"
+    name="Inschrijvingdiensten"
     id="id-081aeeb92f6c42698cc11327a54a0896"
-    documentation="Voorzieningen voor het inschrijven op onderwijsprogramma’s, opleidingsonderdelen of leeractiviteiten.&#xD;&#xA;">
+    documentation="Voorzieningen voor het inschrijven van onderwijsdeelnemers op onderwijsprogramma’s, opleidingsonderdelen of leeractiviteiten bij een specifieke onderwijsaanbieder.&#xD;&#xA;">
   <properties
       key="Auteur"
       value="Marc Fleischeuers; FOSA project"/>

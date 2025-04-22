@@ -1,0 +1,18 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TLV-dienst"
+    id="id-a7590e377c724c4d91af21eb66cb89a7"
+    documentation="Verzameling voorzieningen waarmee door onderwijsorganisaties Toelaatbaarheidsverklaringen (TLV) kunnen worden aangevraagd bij Samenwerkingsverbanden Passend Onderwijs en bij so/vso-instellingen in cluster 1 en 2 en waarmee de status kan worden gemonitord.">
+  <properties
+      key="Type"
+      value="Dienst"/>
+  <properties
+      key="Scenario"
+      value="4 - Onderwijsbegeleiding"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="22-04-2025"/>
+</archimate:BusinessService>
