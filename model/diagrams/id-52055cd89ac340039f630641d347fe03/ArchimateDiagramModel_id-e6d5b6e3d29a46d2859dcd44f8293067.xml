@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PL02 Onderwijs ontwikkelen"
-    id="id-e6d5b6e3d29a46d2859dcd44f8293067">
+    name="PL02 Ontwikkelen"
+    id="id-e6d5b6e3d29a46d2859dcd44f8293067"
+    documentation="Bevat diensten die de processen ondersteunen rondom het daadwerkelijk ontwikkelen van het onderwijs en het onderwijsteam en de selectie van leermiddelen.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e654c5aba3444769b80331bb85142207"

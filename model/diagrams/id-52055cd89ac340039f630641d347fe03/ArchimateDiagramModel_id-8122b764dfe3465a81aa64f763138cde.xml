@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PL04 Plaatsen"
-    id="id-8122b764dfe3465a81aa64f763138cde">
+    id="id-8122b764dfe3465a81aa64f763138cde"
+    documentation="Diensten die processen ondersteunen waarbij de onderwijsdeelnemer en –aanbieder zich committeren aan het overeengekomen aanbod, inclusief de daarbij behorende verplichtingen, en het plaatsen van de onderwijsdeelnemer in een leerroute, een groep etc.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2d6e704546cf439b92fcc9a461df276f"

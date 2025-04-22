@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PL03 Oriënteren"
-    id="id-b1c65e79df5b4f78b1728d319d5452f1">
+    id="id-b1c65e79df5b4f78b1728d319d5452f1"
+    documentation="Bevat diensten die processen ondersteunen rondom het beschikbaar stellen van aangeboden onderwijs en benodigde begeleiding door de onderwijsaanbieder, zodat aankomende onderwijsdeelnemers zich op dat aanbod kunnen oriënteren en het aanbod kunnen vergelijken met als doel zich hiervoor te gaan aanmelden. Onderwijsaanbieders kunnen hierbij het aanbod personaliseren voor de behoeften van de (aankomend) deelnemer.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4e9c47419cc44d4292c1b0277acfce1a"

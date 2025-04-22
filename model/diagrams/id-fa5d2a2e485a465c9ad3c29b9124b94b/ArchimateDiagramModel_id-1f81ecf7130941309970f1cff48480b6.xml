@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PD01 Definieren onderwijs"
-    id="id-1f81ecf7130941309970f1cff48480b6">
+    name="PD01 Definiëren"
+    id="id-1f81ecf7130941309970f1cff48480b6"
+    documentation="In dit domein zijn de processen ondergebracht die leiden tot het onderwijsaanbod van onderwijsaanbieders. Ook processen voor het tot stand komen van samenwerkingen tussen onderwijsaanbieders zijn in dit domein ingedeeld.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-97779b68bd83437f90e7177aa1c17ab4"
