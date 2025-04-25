@@ -1,0 +1,18 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPP-diensten"
+    id="id-f4e4f6372f6b48f5b58382ad07376b6b"
+    documentation="Verzameling voorzieningen waarmee onderwijsorganisaties al dan niet in samenwerking met zorgaanbieders OPP's voor hun leerlingen op gestandaardiseerde wijze kunnen opstellen en verwerken. ">
+  <properties
+      key="Type"
+      value="Dienst"/>
+  <properties
+      key="Scenario"
+      value="4 - Onderwijsbegeleiding"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="22-04-2025"/>
+</archimate:BusinessService>

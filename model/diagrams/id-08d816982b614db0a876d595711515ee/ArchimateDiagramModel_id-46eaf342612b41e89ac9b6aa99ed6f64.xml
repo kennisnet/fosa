@@ -331,7 +331,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-effa66d8d19e402bb813d81d87da4733"
-        targetConnections="id-9ac99588bb044ce38d49b876d58a530e id-1a5d460d51fd45a5b75107c9a7d88b88 id-38b27337fb8141a9b406f30758b9c449 id-0d8ea07bb2ce409981b6f5f6cf5eb24f"
+        targetConnections="id-9ac99588bb044ce38d49b876d58a530e id-1a5d460d51fd45a5b75107c9a7d88b88 id-38b27337fb8141a9b406f30758b9c449 id-0d8ea07bb2ce409981b6f5f6cf5eb24f id-500c53a30143432f99cea26472fb8662"
         textPosition="1">
       <features
           name="gradient"
@@ -605,6 +605,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-1c9d96a1cda648f38a11edc0976b040f.xml#id-1c9d96a1cda648f38a11edc0976b040f"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b15a46d37d374e6185baaa914fca49bf"
+        source="id-5e64c182a6a349c9ab70aabb545f3a1f"
+        target="id-419ceddc92d540f6886163d293c3f6ab">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-6bf9372fc3c046e8b3146992e1718029.xml#id-6bf9372fc3c046e8b3146992e1718029"/>
+    </sourceConnections>
     <bounds
         x="180"
         y="891"
@@ -669,7 +678,7 @@
       <bounds
           x="228"
           y="36"
-          width="157"
+          width="193"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -702,7 +711,7 @@
       <bounds
           x="228"
           y="216"
-          width="157"
+          width="193"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -735,7 +744,7 @@
       <bounds
           x="228"
           y="156"
-          width="157"
+          width="193"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -768,7 +777,7 @@
       <bounds
           x="228"
           y="96"
-          width="157"
+          width="193"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -866,7 +875,7 @@
       <bounds
           x="228"
           y="276"
-          width="157"
+          width="193"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -963,6 +972,37 @@
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-101f1fa444b04a64a77a236ba44470c4.xml#id-101f1fa444b04a64a77a236ba44470c4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-419ceddc92d540f6886163d293c3f6ab"
+        targetConnections="id-b15a46d37d374e6185baaa914fca49bf"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-500c53a30143432f99cea26472fb8662"
+          source="id-419ceddc92d540f6886163d293c3f6ab"
+          target="id-effa66d8d19e402bb813d81d87da4733">
+        <bendpoints
+            startX="138"
+            startY="-6"
+            endX="6"
+            endY="543"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-c7a86d37f6374aafbd9fd105cd8e5a78.xml#id-c7a86d37f6374aafbd9fd105cd8e5a78"/>
+      </sourceConnections>
+      <bounds
+          x="912"
+          y="228"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-44178bea76b148b3abc6d35b7317c493.xml#id-44178bea76b148b3abc6d35b7317c493"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
