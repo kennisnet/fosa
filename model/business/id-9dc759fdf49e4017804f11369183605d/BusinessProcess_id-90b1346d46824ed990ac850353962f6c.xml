@@ -4,13 +4,8 @@
     id="id-90b1346d46824ed990ac850353962f6c"
     documentation="Onderdeel van een ketenproces, die wordt uitgevoerd door één rol.">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers, FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="proces"/>
   <properties
       key="Status"
       value="Concept"/>

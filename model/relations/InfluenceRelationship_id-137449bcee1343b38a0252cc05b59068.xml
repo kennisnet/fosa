@@ -2,6 +2,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-137449bcee1343b38a0252cc05b59068">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
   <source
       xsi:type="archimate:Goal"
       href="Goal_id-08b7f7b06bd049dd9f1333708795e567.xml#id-08b7f7b06bd049dd9f1333708795e567"/>

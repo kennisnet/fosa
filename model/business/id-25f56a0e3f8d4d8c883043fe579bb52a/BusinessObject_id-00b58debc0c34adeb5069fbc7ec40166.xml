@@ -4,17 +4,12 @@
     id="id-00b58debc0c34adeb5069fbc7ec40166"
     documentation="In de Leermiddelenbeschrijving is alle informatie opgenomen om leermiddelen kunnen tonen voor oriënteren, selecteren en/of bestellen. Om dit te ondersteunen kan een leverancier van leermiddelen onder meer metadata over de toepassing in het onderwijs (levelSubjects), media (foto’s, video’s en documenten) en businessmodellen (models) toevoegen.">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="informatie"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-18"/>
 </archimate:BusinessObject>

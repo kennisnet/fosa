@@ -2,6 +2,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-48899c7637bc4d96873012848f01d431">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-18"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_id-ebfe50832103458a91dff4c930557005.xml#id-ebfe50832103458a91dff4c930557005"/>

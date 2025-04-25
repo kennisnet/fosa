@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenwerken op het gebied van ambulante begeleiding"
     id="id-f786ae1489a3454a840b24165b69188d"
-    documentation="Er is een duidelijke verschuiving in het speciaal onderwijs, van verzorgen van specialistische zorg bij eigen onderwijsaanbieders naar het verzorgen van verschillende vormen van ambulante begeleiding aan leerlingen die bij andere onderwijsaanbieders onderwijs volgen, al of niet in combinatie met afstandsonderwijs. Samenwerking met die andere onderwijsaanbieders is daarbij essentieel."/>
+    documentation="Er is een duidelijke verschuiving in het speciaal onderwijs, van verzorgen van specialistische zorg bij eigen onderwijsaanbieders naar het verzorgen van verschillende vormen van ambulante begeleiding aan leerlingen die bij andere onderwijsaanbieders onderwijs volgen, al of niet in combinatie met afstandsonderwijs. Samenwerking met die andere onderwijsaanbieders is daarbij essentieel.">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

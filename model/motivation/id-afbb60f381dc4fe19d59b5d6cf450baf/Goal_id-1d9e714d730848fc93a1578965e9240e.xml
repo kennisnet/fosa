@@ -1,4 +1,14 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Loslaten van het uitgangspunt van één niveau"
-    id="id-1d9e714d730848fc93a1578965e9240e"/>
+    id="id-1d9e714d730848fc93a1578965e9240e">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

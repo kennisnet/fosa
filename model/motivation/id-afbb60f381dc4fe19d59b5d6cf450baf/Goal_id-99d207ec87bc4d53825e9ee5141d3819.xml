@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meer regie op de eigen leerroute"
     id="id-99d207ec87bc4d53825e9ee5141d3819"
-    documentation="Leerlingen kunnen meedenken en (deels) beslissen over de leerroute waarin het leren wordt vormgegeven."/>
+    documentation="Leerlingen kunnen meedenken en (deels) beslissen over de leerroute waarin het leren wordt vormgegeven.">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

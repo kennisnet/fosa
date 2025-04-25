@@ -4,17 +4,12 @@
     id="id-48e8bf02fc774c71875172acc93706cb"
     documentation="Bevat informatie over over leermiddelactivatie en leermiddelgebruik. Informatie over leermiddelactivatie en leermiddelgebruik kan benut worden om onderwijsmedewerkers een totaaloverzicht te geven over het gebruik van verworven leermiddelen.&#xD;&#xA;">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers, FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="informatie"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-18"/>
 </archimate:BusinessObject>

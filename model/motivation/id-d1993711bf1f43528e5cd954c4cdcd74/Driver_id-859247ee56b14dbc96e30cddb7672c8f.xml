@@ -5,8 +5,14 @@
     documentation="De overheid streeft ernaar dat in 2035 de meeste scholen de overgang naar inclusief onderwijs hebben gemaakt. De overheid heeft beschreven wat inclusief onderwijs is en hoe een inclusieve leeromgeving er uit ziet.">
   <properties
       key="Type"
-      value="Driver"/>
+      value="drijfveer"/>
   <properties
       key="Externe link"
       value="https://www.rijksoverheid.nl/onderwerpen/inclusief-onderwijs/inclusief-onderwijs-in-2035"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
 </archimate:Driver>

@@ -4,17 +4,12 @@
     id="id-0bf79a67bef145ae95305a31ae730366"
     documentation="Proces waarbij de onderwijsdeelnemer deelneemt aan het aangeboden onderwijs. ">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="proces"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-24"/>
 </archimate:BusinessProcess>

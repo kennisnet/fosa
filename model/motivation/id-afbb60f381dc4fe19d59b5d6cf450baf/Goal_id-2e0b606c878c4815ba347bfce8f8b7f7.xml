@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meer aandacht voor de ontwikkeling van de leerling"
     id="id-2e0b606c878c4815ba347bfce8f8b7f7"
-    documentation="Er is meer aandacht om de motivatie van leerlingen dusdanig te stimuleren dat zij zich in die onderwerpen gaan verdiepen waar zij belang aan hechten, om op die manier naar een bepaald niveau van kennis en kunde toe werken."/>
+    documentation="Er is meer aandacht om de motivatie van leerlingen dusdanig te stimuleren dat zij zich in die onderwerpen gaan verdiepen waar zij belang aan hechten, om op die manier naar een bepaald niveau van kennis en kunde toe werken.">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

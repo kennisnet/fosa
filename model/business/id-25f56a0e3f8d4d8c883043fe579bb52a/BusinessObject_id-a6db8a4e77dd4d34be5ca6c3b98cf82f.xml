@@ -4,13 +4,8 @@
     id="id-a6db8a4e77dd4d34be5ca6c3b98cf82f"
     documentation="Bevat informatie over de inschrijfstatus van de onderwijsdeelnemer en een indicatie over of een inschrijving voor deze onderwijsaanbieder financierbaar is of niet.">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers, FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="informatie"/>
   <properties
       key="Status"
       value="Concept"/>

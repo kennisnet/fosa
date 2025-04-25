@@ -4,17 +4,12 @@
     id="id-bde775fdd9634fb09471965d85b07dd0"
     documentation="Identificeren van de (toekomend) onderwijsdeelnemer, bepalen van passend onderwijsaanbod op de leervraag en beoordelen van de toelaatbaarheid van de onderwijsdeelnemer. Vastleggen van gegevens van de onderwijsdeelnemer, diens bekostigingsstatus, het beoogde onderwijstraject en eventueel het begeleidingstraject in de administratie van de onderwijsaanbieder. Indeling van onderwijsniveau (vmbo - vwo, leerjaar) is in sommige onderwijsconcepten niet bepaald, maar moet vaak wel in het LAS worden ingevoerd. ">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="proces"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-24"/>
 </archimate:BusinessProcess>

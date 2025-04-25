@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meer keuzemogelijkheden en regie bij leerling"
     id="id-18242075de174b359aa55a99712f79d4"
-    documentation="Het beschikbaar stellen van manieren die bedoeld zijn om de leerling meer keuzemogelijkheden te geven bij het volgen van onderwijs, keuzes die aansluiten bij de eigen interesses als ook bij de eigen (on)mogelijkheden."/>
+    documentation="Het beschikbaar stellen van manieren die bedoeld zijn om de leerling meer keuzemogelijkheden te geven bij het volgen van onderwijs, keuzes die aansluiten bij de eigen interesses als ook bij de eigen (on)mogelijkheden.">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

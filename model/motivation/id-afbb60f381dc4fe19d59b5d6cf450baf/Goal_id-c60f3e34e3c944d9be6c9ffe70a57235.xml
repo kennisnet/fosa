@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Andere rol docent / leerkracht"
     id="id-c60f3e34e3c944d9be6c9ffe70a57235"
-    documentation="Om het leraarschap aantrekkelijk te maken en ook voldoende uren te kunnen garanderen wordt de rol van de leraar bijvoorbeeld meer coachend ingericht.&#xD;&#xA;"/>
+    documentation="Om het leraarschap aantrekkelijk te maken en ook voldoende uren te kunnen garanderen wordt de rol van de leraar bijvoorbeeld meer coachend ingericht.&#xD;&#xA;">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

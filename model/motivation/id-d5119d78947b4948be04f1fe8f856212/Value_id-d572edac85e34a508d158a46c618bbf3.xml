@@ -5,13 +5,7 @@
     documentation="De mate waarin de juistheid, volledigheid en tijdigheid van informatie. Informatie&#xD;&#xA;waarvoor de integriteit op orde is, is dus informatie die 'klopt'. Merk op dat een aantasting van vertrouwelijkheid (waardoor onbevoegden bijvoorbeeld mutaties kunnen doorvoeren) kan leiden tot een aantasting van integriteit.&#xD;&#xA;">
   <properties
       key="Type"
-      value="Doel"/>
-  <properties
-      key="Auteur"
-      value="Marc Fleischeuers, FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
+      value="kernwaarde"/>
   <properties
       key="Status"
       value="Concept"/>

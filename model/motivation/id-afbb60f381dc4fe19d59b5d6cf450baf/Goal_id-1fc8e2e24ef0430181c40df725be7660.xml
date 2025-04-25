@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sectorbrede IBP voorzieningen en maatregelen"
     id="id-1fc8e2e24ef0430181c40df725be7660"
-    documentation="Het invoeren van een breder palet aan IBP-maatregelen vergt kennis en menskracht die lang niet elke onderwijsorganisatie zelf in huis heeft en ook niet zomaar even in huis kan halen. De verwachting is dat er op sector-niveau veel kan worden gewonnen op het gebied van passende voorzieningen."/>
+    documentation="Het invoeren van een breder palet aan IBP-maatregelen vergt kennis en menskracht die lang niet elke onderwijsorganisatie zelf in huis heeft en ook niet zomaar even in huis kan halen. De verwachting is dat er op sector-niveau veel kan worden gewonnen op het gebied van passende voorzieningen.">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

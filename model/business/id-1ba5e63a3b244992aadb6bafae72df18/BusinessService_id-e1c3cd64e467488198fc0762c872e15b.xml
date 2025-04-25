@@ -4,17 +4,12 @@
     id="id-e1c3cd64e467488198fc0762c872e15b"
     documentation="Diensten die identiteitsgegevens anonimiseren of pseudonimiseren voor uitwisseling met externe partijen, of identiteitsgegevens tussen verschillende stelsels vertalen.">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers, FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="dienst"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-18"/>
 </archimate:BusinessService>

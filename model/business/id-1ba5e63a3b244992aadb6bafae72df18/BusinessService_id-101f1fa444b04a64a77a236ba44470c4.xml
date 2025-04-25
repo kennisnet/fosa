@@ -4,17 +4,12 @@
     id="id-101f1fa444b04a64a77a236ba44470c4"
     documentation="Verzameling van voorzieningen die de onderwijsdeelname van leerlingen registreren, waarmee de onderwijsorganisatie deelname kan analyseren en waarmee afwezigheid kan worden gesignaleerd. Bestaande voorzieningen op dit gebied worden aangepast om mogelijkheden voor eigen leertrajecten, ook buiten de eigen onderwijsorganisatie, te ondersteunen. ">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="dienst"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-18"/>
 </archimate:BusinessService>

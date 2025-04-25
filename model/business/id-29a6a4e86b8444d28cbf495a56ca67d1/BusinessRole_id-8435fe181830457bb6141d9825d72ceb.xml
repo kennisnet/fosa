@@ -3,17 +3,12 @@
     name="Dienstenaanbieder"
     id="id-8435fe181830457bb6141d9825d72ceb">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="rol"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-24"/>
 </archimate:BusinessRole>

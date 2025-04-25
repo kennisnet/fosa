@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meer mogelijkheden voor het gezamenlijk aanbieden van onderwijs"
     id="id-a6f45eac386f46b78acbf747e9833d1e"
-    documentation="Leerlingen volgen onderwijs over de traditionele sectorgrenzen heen. In sommige gevallen is er sprake van erkende dan wel als experiment aangeduide doorlopende leerroutes (de leerroutes vmbo-mbo, vso-leerlingen arbeidsmarkt die een entree-opleiding op het vso volgen, de 10-14 scholen tussen bo en vo) maar daarnaast zijn er ook tal van andere voorbeelden waarin sprake is van leerlingen die reeds voor een deel onderwijs volgen in een andere sector."/>
+    documentation="Leerlingen volgen onderwijs over de traditionele sectorgrenzen heen. In sommige gevallen is er sprake van erkende dan wel als experiment aangeduide doorlopende leerroutes (de leerroutes vmbo-mbo, vso-leerlingen arbeidsmarkt die een entree-opleiding op het vso volgen, de 10-14 scholen tussen bo en vo) maar daarnaast zijn er ook tal van andere voorbeelden waarin sprake is van leerlingen die reeds voor een deel onderwijs volgen in een andere sector.">
+  <properties
+      key="Type"
+      value="doel"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2020-01-01"/>
+</archimate:Goal>

@@ -3,13 +3,8 @@
     name="Aanbeveling"
     id="id-ab00cdda90fa48dfaf1aff8bfacbd0bb">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers, FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="aanbeveling"/>
   <properties
       key="Status"
       value="Concept"/>

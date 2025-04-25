@@ -4,17 +4,12 @@
     id="id-08a706f37d464a01a59119b1f833c451"
     documentation="Persoonlijk overzicht van alle behaalde resultaten van een onderwijsdeelnemer, bijvoorbeeld in de vorm van microcredentials.">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="dienst"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-18"/>
 </archimate:BusinessService>

@@ -4,17 +4,12 @@
     id="id-27e490fb564b4526a7e3303411ccb65b"
     documentation="Verzameling diensten die catalogi bieden met beschikbare dienstverleners, (fysieke) faciliteiten, voorzieningen en procedures die een onderwijsinstelling hanteert ter ondersteuning van leerlingen met ondersteuningsbehoefte op allerlei gebied. Inclusief zoek- en matchingfuncties. &#xD;&#xA;&#xD;&#xA;">
   <properties
-      key="Auteur"
-      value="Marc Fleischeuers; FOSA project"/>
-  <properties
-      key="Auteur email"
-      value="M.Fleischeuers@kennisnet.nl"/>
-  <properties
-      key="Type"/>
+      key="Type"
+      value="dienst"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-04-18"/>
 </archimate:BusinessService>
