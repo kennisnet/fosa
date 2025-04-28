@@ -224,7 +224,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0eb06795148b45a495ef6074b89de45b"
-        targetConnections="id-f251e32f369744a29ee6d4e967963757 id-e6d3b8bdfde94cf4a972c6061b7ac372 id-a820f68e90a2405f8317e35a02c624df id-5b5f119dd431447d8d73796dcaff7a53"
+        targetConnections="id-f251e32f369744a29ee6d4e967963757 id-e6d3b8bdfde94cf4a972c6061b7ac372 id-a820f68e90a2405f8317e35a02c624df"
         textPosition="1">
       <features
           name="gradient"
@@ -283,15 +283,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-c9a670f4139743c587560c3fbd646834.xml#id-c9a670f4139743c587560c3fbd646834"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-5b5f119dd431447d8d73796dcaff7a53"
-          source="id-0eb06795148b45a495ef6074b89de45b"
-          target="id-0eb06795148b45a495ef6074b89de45b">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-0df7660580374cd58520dd70084078cc.xml#id-0df7660580374cd58520dd70084078cc"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
