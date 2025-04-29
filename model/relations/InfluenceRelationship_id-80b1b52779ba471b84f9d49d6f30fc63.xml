@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subdoel"
+    id="id-80b1b52779ba471b84f9d49d6f30fc63">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-e478ddbe733c490bb3a36ed689386992.xml#id-e478ddbe733c490bb3a36ed689386992"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-e478ddbe733c490bb3a36ed689386992.xml#id-e478ddbe733c490bb3a36ed689386992"/>
+</archimate:InfluenceRelationship>

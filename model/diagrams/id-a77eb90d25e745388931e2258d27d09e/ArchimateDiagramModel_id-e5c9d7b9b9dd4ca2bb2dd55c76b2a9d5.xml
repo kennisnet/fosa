@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivatie"
-    id="id-e5c9d7b9b9dd4ca2bb2dd55c76b2a9d5"
-    documentation="Toegang tot informatie over voortgang en resultaten van de onderwijsdeelnemer is afhankelijk van de door de onderwijsaanbieder aangereikte oplossing van de betreffende leverancier. Er wordt niet uitgegaan van de behoeften van de betreffende onderwijsdeelnemer, die van de wettelijk vertegenwoordiger of andere relevante partijen buiten die school die in het proces zijn of moeten worden betrokken.&#xD;&#xA;&#xD;&#xA;Toelichting: &#xD;&#xA;* Ouders hebben behoefte aan inzicht in de ontwikkeling van hun kinderen. Leveranciers spelen hier op in met views in het leerlingadministratie- of volgsysteem. Dit is een aanbodgedreven oplossing waarbij niet is nagedacht over hoe dit past in het gehele onderwijsproces en bovendien is er niet voldoende nagedacht welke resultaten in welke context hiervoor nodig zijn.  &#xD;&#xA;* De wijze van ontsluiting van deze aanbodgebonden oplossingen verschilt per leverancier. &#xD;&#xA;* Extra complicatie treedt op zodra een leerroute niet (meer) is gebaseerd op toetsen en het behalen van onderwijsresultaten (&quot;cijfers&quot;). Hoe kan een buitenstaander (ouders maar ook andere partijen) inzicht krijgen op de vorderingen van de leerling en is de aansluiting naar een ander type onderwijs (denk bijv. aan het volgen van een 10-14 leerroute en de aansluiting daarna op een vervolgopleiding). ">
+    id="id-e5c9d7b9b9dd4ca2bb2dd55c76b2a9d5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fa915d65ad0a484883a8149f0beb6868"
@@ -1396,15 +1395,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-67ae1f98a89343febfa646d6ec7d7a53"
-        source="id-3e52181ded934501a2cbbb945f19a8ad"
-        target="id-c994c676b1914db79f83f7ccf354584f">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-456d8f4f91584229a85a3c04fa0cbea9.xml#id-456d8f4f91584229a85a3c04fa0cbea9"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-480360addd854aa3a105620e20dc2bbd"
         source="id-3e52181ded934501a2cbbb945f19a8ad"
         target="id-2c77676295af42c1a6413f43e9c5d5bd">
@@ -1646,6 +1636,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-d176c47801ba42d987e982b1d5b98de8.xml#id-d176c47801ba42d987e982b1d5b98de8"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a80cb6a50fa34b839682fca174804131"
+        source="id-3e52181ded934501a2cbbb945f19a8ad"
+        target="id-c994c676b1914db79f83f7ccf354584f">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-487fda6d123a42ba805dd7c87033d4c5.xml#id-487fda6d123a42ba805dd7c87033d4c5"/>
+    </sourceConnections>
     <bounds
         x="84"
         y="804"
@@ -1825,42 +1824,6 @@
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-0e4fe10af2974be3b208e86b5bedd69d.xml#id-0e4fe10af2974be3b208e86b5bedd69d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c994c676b1914db79f83f7ccf354584f"
-        targetConnections="id-67ae1f98a89343febfa646d6ec7d7a53 id-ab0bd26741ae4746ada9b73709c622a5 id-a3c4cba649f94ad58cbcbf607d8d8ef2 id-bd0e78169acd4761a1500cf2d4a1b5a1"
-        fillColor="#f4c6aa"
-        textPosition="1">
-      <features
-          name="gradient"
-          value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-6a7c0ad3b7934d41ae941e05801ed639"
-          source="id-c994c676b1914db79f83f7ccf354584f"
-          target="id-859a2a6759d44bb3a164f63713561fa6">
-        <bendpoints
-            startX="12"
-            startY="-51"
-            endX="672"
-            endY="45"/>
-        <bendpoints
-            startX="-660"
-            startY="-51"
-            endY="45"/>
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-df8a3dacde7b460698786e3a2ad43bdb.xml#id-df8a3dacde7b460698786e3a2ad43bdb"/>
-      </sourceConnections>
-      <bounds
-          x="1272"
-          y="102"
-          width="169"
-          height="67"/>
-      <archimateElement
-          xsi:type="archimate:Goal"
-          href="Goal_id-bbedba066d884f299c2d67d98e9b35b4.xml#id-bbedba066d884f299c2d67d98e9b35b4"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -2747,6 +2710,42 @@
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-12f9c638490b4262b1f58a0be49665a2.xml#id-12f9c638490b4262b1f58a0be49665a2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c994c676b1914db79f83f7ccf354584f"
+        targetConnections="id-ab0bd26741ae4746ada9b73709c622a5 id-a3c4cba649f94ad58cbcbf607d8d8ef2 id-bd0e78169acd4761a1500cf2d4a1b5a1 id-a80cb6a50fa34b839682fca174804131"
+        fillColor="#f4c6aa"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-6a7c0ad3b7934d41ae941e05801ed639"
+          source="id-c994c676b1914db79f83f7ccf354584f"
+          target="id-859a2a6759d44bb3a164f63713561fa6">
+        <bendpoints
+            startX="12"
+            startY="-51"
+            endX="672"
+            endY="45"/>
+        <bendpoints
+            startX="-660"
+            startY="-51"
+            endY="45"/>
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-df8a3dacde7b460698786e3a2ad43bdb.xml#id-df8a3dacde7b460698786e3a2ad43bdb"/>
+      </sourceConnections>
+      <bounds
+          x="1284"
+          y="96"
+          width="169"
+          height="67"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-bbedba066d884f299c2d67d98e9b35b4.xml#id-bbedba066d884f299c2d67d98e9b35b4"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -3813,6 +3812,19 @@
         y="-60"
         width="267"
         height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0f916309eeb64411a6a837caff109851"
+      textAlignment="1"
+      content="TODO nater te bepalen">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="156"
+        width="185"
+        height="80"/>
   </children>
   <properties
       key="Status"
