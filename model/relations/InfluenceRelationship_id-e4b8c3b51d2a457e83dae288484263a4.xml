@@ -1,7 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-09c9ea1ff8e0416bafc90239df54d0d3">
+    id="id-e4b8c3b51d2a457e83dae288484263a4">
   <properties
       key="Type"/>
   <properties
@@ -12,8 +12,8 @@
       value="2025-04-30"/>
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-746dfc018bc845e89ec965168adf351c.xml#id-746dfc018bc845e89ec965168adf351c"/>
+      href="BusinessProcess_id-4eaa38530cbb4991ad152e548dd4e931.xml#id-4eaa38530cbb4991ad152e548dd4e931"/>
   <target
       xsi:type="archimate:Assessment"
-      href="Assessment_id-07b7387ef3414f709c8e138e80c98990.xml#id-07b7387ef3414f709c8e138e80c98990"/>
+      href="Assessment_id-fb710ff5d8ff48c9a06a0414306ec170.xml#id-fb710ff5d8ff48c9a06a0414306ec170"/>
 </archimate:InfluenceRelationship>

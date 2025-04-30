@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Persoonlijk dossier"
     id="id-76bb3716b7d047aa958ab96eca13774d"
-    documentation="Gestandaardiseerd bestand met informatie over de ondersteuning van de leerling bij deelname aan het onderwijsproces."/>
+    documentation="Gestandaardiseerd bestand met informatie over de ondersteuning van de leerling bij deelname aan het onderwijsproces.">
+  <properties
+      key="Type"
+      value="informatie"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
+</archimate:BusinessObject>
