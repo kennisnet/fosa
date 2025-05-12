@@ -2726,12 +2726,11 @@
           source="id-c994c676b1914db79f83f7ccf354584f"
           target="id-859a2a6759d44bb3a164f63713561fa6">
         <bendpoints
-            startX="12"
             startY="-51"
             endX="672"
             endY="45"/>
         <bendpoints
-            startX="-660"
+            startX="-672"
             startY="-51"
             endY="45"/>
         <archimateRelationship
@@ -2740,7 +2739,7 @@
       </sourceConnections>
       <bounds
           x="1284"
-          y="96"
+          y="102"
           width="169"
           height="67"/>
       <archimateElement
