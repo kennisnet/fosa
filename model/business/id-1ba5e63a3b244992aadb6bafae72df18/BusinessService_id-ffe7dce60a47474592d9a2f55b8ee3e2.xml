@@ -1,4 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Accreditatie- en beoodelingsdiensten"
-    id="id-ffe7dce60a47474592d9a2f55b8ee3e2"/>
+    id="id-ffe7dce60a47474592d9a2f55b8ee3e2">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
+</archimate:BusinessService>

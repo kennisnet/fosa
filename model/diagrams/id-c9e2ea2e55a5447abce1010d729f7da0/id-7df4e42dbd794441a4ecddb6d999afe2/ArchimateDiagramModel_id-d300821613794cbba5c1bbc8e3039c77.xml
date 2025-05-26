@@ -1001,15 +1001,6 @@
         value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4d490db260fa4e9887daff10a120d32c"
-        source="id-e10687b2a409444ca4d3e2dffa8fadff"
-        target="id-d89f97ac419543c2b623697a3b67082f">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-e106a6ece3444b5080caec5927c6514f.xml#id-e106a6ece3444b5080caec5927c6514f"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-638c5e30207748d2a594c30c5fd50b2f"
         source="id-e10687b2a409444ca4d3e2dffa8fadff"
         target="id-fcf4603f61334cfe832c9adc8fde79a5">
@@ -1021,6 +1012,15 @@
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-7a85ed446fae4508b78b8810eafcf323.xml#id-7a85ed446fae4508b78b8810eafcf323"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4d490db260fa4e9887daff10a120d32c"
+        source="id-e10687b2a409444ca4d3e2dffa8fadff"
+        target="id-d89f97ac419543c2b623697a3b67082f">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-e106a6ece3444b5080caec5927c6514f.xml#id-e106a6ece3444b5080caec5927c6514f"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -1557,7 +1557,7 @@
   </children>
   <properties
       key="Status"
-      value="Concept"/>
+      value="Verouderd"/>
   <properties
       key="Datum"
       value="2020-01-01"/>
