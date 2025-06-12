@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestelomgeving leermiddelen"
+    id="id-536e0e7f3cf2487c99ab7872b06031d5"
+    documentation="Een voorziening waarin een onderwijsorganisatie of particulier (leerling of iemand anders voor een leerling) leermiddelen kan bestellen, eventueel betalen en de voortgang van een bestelling kan volgen.">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
+</archimate:ApplicationService>

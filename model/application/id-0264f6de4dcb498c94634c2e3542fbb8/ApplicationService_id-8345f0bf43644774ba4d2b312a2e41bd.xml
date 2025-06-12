@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerroutemonitoringsdiensten"
+    id="id-8345f0bf43644774ba4d2b312a2e41bd"
+    documentation="Verzameling van voorzieningen die op basis van de huidige leerroute van een leerling, diens persoonlijk dossier en portfolio en diens onderwijsdeelname, een beeld presenteert van de status en voortgang van de leerling. De voorzieningen houden bij het samenstellen van het beeld rekening met de eigen leerroute van een leerling, inclusief onderwijs bij andere aanbieders en onderwijs van verschillende leerwegen (denk hierbij aan Dalton, Agora, eigen leerroute, uitgestelde niveaukeuze enzovoort). De voorzieningen hanteren autorisaties om het beeld al dan niet en in verschillende mate van dataillering, beschikbaar te maken voor de leerling zelf en diens ouders of verzorgers, onderwijs- en zorgprofessionals. ">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
+</archimate:ApplicationService>
