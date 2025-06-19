@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="S02a. Doorlopende leerroute over sectoren heen"
     id="id-d9e480ae70bc4587b6a8457f2d4bed14"
-    documentation="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders. Dit scenario illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders een deel van de opleiding verzorgen. Er is sprake van twee inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per situatie moet er duidelijkheid zijn welke aanbieder de hoofdverantwoordelijkheid en financiering heeft), de leerling volgt op twee plekken onderwijs en krijgt uiteindelijk twee diploma's. &#xD;&#xA;">
+    documentation="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders. &#xD;&#xA;Dit scenario Deze variant illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders gezamenlijk onderwijs verzorgen. Er is sprake van twee inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per situatie moet er duidelijkheid zijn welke aanbieder de hoofdverantwoordelijkheid en financiering heeft). De leerling volgt op twee plekken onderwijs en krijgt uiteindelijk twee diploma's. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-121f0d22fe184e6686bed7827546d5b4"
@@ -1120,7 +1120,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-05eaf8910fb04708949f993c75e5854a"
       textAlignment="1"
-      content="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;&#xD;&#xA;Hier wordt de aansluiting van vmbo naar mbo uitgewerkt. Dit scenario illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders een deel van de opleiding verzorgen. Er is sprake van twee inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per situatie moet er duidelijkheid zijn welke aanbieder de hoofdverantwoordelijkheid en financiering heeft), de leerling volgt op twee plekken onderwijs en krijgt uiteindelijk van beide instellingen een waardering (diploma, certificaat). ">
+      content="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;&#xD;&#xA;Hier wordt de aansluiting van vmbo naar mbo uitgewerkt. Dit scenario Deze variant illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders gezamenlijk onderwijs verzorgen. Er is sprake van twee inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per situatie moet er duidelijkheid zijn welke aanbieder de hoofdverantwoordelijkheid en financiering heeft). De leerling volgt op twee plekken onderwijs en krijgt uiteindelijk twee diploma's. ">
     <features
         name="deriveElementLineColor"
         value="false"/>
