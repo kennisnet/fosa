@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opleidingsontwikkeling"
     id="id-d9fe66724089460384e8b1d614d66fe7"
-    documentation="Het proces waarmee de onderwijsaanbieder het onderwijsaanbod samenstelt en onderhoudt. De onderwijsaanbieder maakt hierbij gebruik van de normenkaders van de relevante certificerende instanties (ministerie, SLO, DUO, IvhO maar mogelijk ook Cambridge etc), van het aanbod van leermiddelenaanbieders en van informatie over het eigen gebruik van leermiddelen in de afgelopen periode.">
+    documentation="Het proces waarmee de onderwijsaanbieder het aanbod van onderwijs en ondersteuning samenstelt en onderhoudt. De onderwijsaanbieder maakt hierbij gebruik van de normenkaders van de relevante certificerende instanties (ministerie, SLO, DUO, IvhO maar mogelijk ook Cambridge etc), van het aanbod van leermiddelenaanbieders en zorgaanbieders en van informatie over het eigen gebruik van leermiddelen in de afgelopen periode.">
   <properties
       key="Type"
       value="proces"/>
@@ -11,5 +11,5 @@
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-04-24"/>
+      value="2025-05-26"/>
 </archimate:BusinessProcess>

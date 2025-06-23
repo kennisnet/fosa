@@ -11,8 +11,8 @@
       key="Datum"
       value="2025-04-30"/>
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-e59ffe47aa194689a527204dc8751176.xml#id-e59ffe47aa194689a527204dc8751176"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-7d83818243ee48fa9d0f742c99f7b640.xml#id-7d83818243ee48fa9d0f742c99f7b640"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-bde775fdd9634fb09471965d85b07dd0.xml#id-bde775fdd9634fb09471965d85b07dd0"/>

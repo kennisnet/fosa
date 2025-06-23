@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mandateringsdiensten"
+    id="id-c9398dab0f664ebe8c9589d1887a9996"
+    documentation="Verzameling van voorzieningen waarmee personen of organisaties andere personen of organisaties bepaalde acties kunnen laten uitvoeren in hun naam. ">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-18"/>
+</archimate:ApplicationService>

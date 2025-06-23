@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteit-vertaling en maskeringsdiensten"
+    id="id-5ba05794efb84ac09b9dc7257ef15e60"
+    documentation="Verzameling van voorzieningen die identiteitsgegevens anonimiseren of pseudonimiseren voor uitwisseling met externe partijen, of identiteitsgegevens tussen verschillende stelsels vertalen.">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-18"/>
+</archimate:ApplicationService>

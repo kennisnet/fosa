@@ -11,8 +11,8 @@
       key="Datum"
       value="2020-01-01"/>
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-b98ad4d75d2f40f0839122322b5a66fc.xml#id-b98ad4d75d2f40f0839122322b5a66fc"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-189719ee892c40fbb56282d4eb7eed11.xml#id-189719ee892c40fbb56282d4eb7eed11"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-0a3ee349c51544d68304ab73e6f58867.xml#id-0a3ee349c51544d68304ab73e6f58867"/>

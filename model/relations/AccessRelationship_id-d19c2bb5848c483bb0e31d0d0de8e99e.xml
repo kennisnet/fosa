@@ -3,6 +3,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-d19c2bb5848c483bb0e31d0d0de8e99e"
     accessType="1">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-4eaa38530cbb4991ad152e548dd4e931.xml#id-4eaa38530cbb4991ad152e548dd4e931"/>

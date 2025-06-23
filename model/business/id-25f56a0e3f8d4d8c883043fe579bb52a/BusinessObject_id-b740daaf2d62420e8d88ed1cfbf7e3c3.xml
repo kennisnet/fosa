@@ -1,5 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OPP"
+    name="Ontwikkelingspectiefplan (OPP)"
     id="id-b740daaf2d62420e8d88ed1cfbf7e3c3"
-    documentation="Ontwikkelingsperspectiefplan"/>
+    documentation="Ontwikkelingsperspectiefplan">
+  <properties
+      key="Type"
+      value="informatie"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
+</archimate:BusinessObject>

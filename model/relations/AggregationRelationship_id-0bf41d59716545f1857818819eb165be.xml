@@ -14,6 +14,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_id-c9f19664cf64478b8c9837d0fcc92a63.xml#id-c9f19664cf64478b8c9837d0fcc92a63"/>
   <target
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-8392ca33d2494ba387e92be82248f397.xml#id-8392ca33d2494ba387e92be82248f397"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d6dc645448754a0c8f11a86eb6894454.xml#id-d6dc645448754a0c8f11a86eb6894454"/>
 </archimate:AggregationRelationship>
