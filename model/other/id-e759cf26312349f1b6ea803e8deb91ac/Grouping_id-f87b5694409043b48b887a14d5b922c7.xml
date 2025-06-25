@@ -1,13 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samenwerkingsverband"
-    id="id-f87b5694409043b48b887a14d5b922c7">
-  <properties
-      key="Type"/>
-  <properties
-      key="Status"
-      value="Concept"/>
-  <properties
-      key="Datum"
-      value="2025-06-17"/>
-</archimate:Grouping>
+    name="Toelatingsorgaan"
+    id="id-f87b5694409043b48b887a14d5b922c7"
+    documentation="Organisatie die bepaalt of bepaalde vormen van ondersteuning wel of niet worden toegekend voor de begeleiding van een leerling. Voorbeelden zijn het Samenwerkingsverband Passend Onderwijs zijn of de Toelatingscommissie van onderwijsinstellingen in de clusters 1 en 2."/>
