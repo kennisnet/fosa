@@ -1,0 +1,19 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b33aefebc16a4fc6aaa161b4711b9c03">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-25"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d6dc645448754a0c8f11a86eb6894454.xml#id-d6dc645448754a0c8f11a86eb6894454"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-0e4fe10af2974be3b208e86b5bedd69d.xml#id-0e4fe10af2974be3b208e86b5bedd69d"/>
+</archimate:AssociationRelationship>

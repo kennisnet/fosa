@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shortcut"
+    id="id-28675388ecd848aca96e3543d8ff8ec6"
+    documentation="Shortcut voor de relatie van Dienst naar Doel voa Onderwijsproces"
+    directed="true">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-25"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f228a4ca122647e88a6a37190e0d7bbb.xml#id-f228a4ca122647e88a6a37190e0d7bbb"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-e478ddbe733c490bb3a36ed689386992.xml#id-e478ddbe733c490bb3a36ed689386992"/>
+</archimate:AssociationRelationship>

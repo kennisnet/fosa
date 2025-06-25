@@ -1,4 +1,14 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Handelingsplan"
-    id="id-18b40c3d96604833aa404e2b3b9e892d"/>
+    id="id-18b40c3d96604833aa404e2b3b9e892d">
+  <properties
+      key="Type"
+      value="informatie"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-24"/>
+</archimate:BusinessObject>

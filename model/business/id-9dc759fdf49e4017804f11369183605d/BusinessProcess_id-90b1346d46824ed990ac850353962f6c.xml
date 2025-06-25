@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsproces"
+    name="Onderwijsproces"
     id="id-90b1346d46824ed990ac850353962f6c"
     documentation="Onderdeel van een ketenproces, die wordt uitgevoerd door één rol.">
   <properties
@@ -11,5 +11,5 @@
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-06-25"/>
 </archimate:BusinessProcess>

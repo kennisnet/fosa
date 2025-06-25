@@ -2,6 +2,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-d50ec0a4fe7a4e93b990e3603747fc6b">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-17"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-2e1014da461d4b74a69d5460da2b07ac.xml#id-2e1014da461d4b74a69d5460da2b07ac"/>

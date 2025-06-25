@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inschrijvingdiensten"
+    name="Inschrijvingsdiensten"
     id="id-f1d78e40927e4d5b9677eb9ab6c4eb02"
     documentation="Verzameling van voorzieningen voor het inschrijven van onderwijsdeelnemers op onderwijsprogramma’s, opleidingsonderdelen of leeractiviteiten bij een specifieke onderwijsaanbieder.&#xD;&#xA;">
   <properties
@@ -11,5 +11,5 @@
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-04-30"/>
+      value="2025-06-25"/>
 </archimate:ApplicationService>

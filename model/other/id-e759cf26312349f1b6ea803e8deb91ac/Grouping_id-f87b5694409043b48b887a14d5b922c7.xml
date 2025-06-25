@@ -1,4 +1,13 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenwerkingsverband"
-    id="id-f87b5694409043b48b887a14d5b922c7"/>
+    id="id-f87b5694409043b48b887a14d5b922c7">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-17"/>
+</archimate:Grouping>

@@ -1,4 +1,13 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ondersteunende organisatie"
-    id="id-ca0d05ea3c8c470eb91ecedcec57d3b5"/>
+    id="id-ca0d05ea3c8c470eb91ecedcec57d3b5">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-17"/>
+</archimate:Grouping>

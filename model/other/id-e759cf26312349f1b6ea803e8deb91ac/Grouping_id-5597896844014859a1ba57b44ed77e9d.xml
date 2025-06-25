@@ -1,4 +1,13 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijs- of zorgbegeleider"
-    id="id-5597896844014859a1ba57b44ed77e9d"/>
+    id="id-5597896844014859a1ba57b44ed77e9d">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-17"/>
+</archimate:Grouping>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beoordelen TLV en besluit plaatsing"
     id="id-36b3eeabbc084b009c2357d85ef8244c"
-    documentation="De onderwijsorganisatie beoordeelt de toelaatbaarheidsverklaring op mogelijkheden om de leerling passend onderwijs en passende begeleiding en zorg te bieden. "/>
+    documentation="De onderwijsorganisatie beoordeelt de toelaatbaarheidsverklaring op mogelijkheden om de leerling passend onderwijs en passende begeleiding en zorg te bieden. ">
+  <properties
+      key="Type"
+      value="proces"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-06-24"/>
+</archimate:BusinessProcess>
