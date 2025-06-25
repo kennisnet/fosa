@@ -3812,19 +3812,6 @@
         width="267"
         height="70"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-0f916309eeb64411a6a837caff109851"
-      textAlignment="1"
-      content="TODO nater te bepalen">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="156"
-        width="185"
-        height="80"/>
-  </children>
   <properties
       key="Status"
       value="Concept"/>
