@@ -299,21 +299,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81c67afb730a4842b53c64e9c7616fa2"
-        source="id-07600e334281425c8a496fcd5b9992ec"
-        target="id-44870aa870d94606ab495404508b6ce6">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-97b9f060e3f24546a870a9583c06172d.xml#id-97b9f060e3f24546a870a9583c06172d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2cccd1af42354d258a39164bb6238ba4"
         source="id-07600e334281425c8a496fcd5b9992ec"
         target="id-b015c95dbce5497c92f5b93852f0ff7d">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-28675388ecd848aca96e3543d8ff8ec6.xml#id-28675388ecd848aca96e3543d8ff8ec6"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-81c67afb730a4842b53c64e9c7616fa2"
+        source="id-07600e334281425c8a496fcd5b9992ec"
+        target="id-44870aa870d94606ab495404508b6ce6">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-97b9f060e3f24546a870a9583c06172d.xml#id-97b9f060e3f24546a870a9583c06172d"/>
     </sourceConnections>
     <bounds
         x="841"
@@ -378,7 +378,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-44870aa870d94606ab495404508b6ce6"
-      targetConnections="id-fb4efbe683144569b90d3fce94b6d654 id-74fe4406cc674cdda4a20641417f8fff id-0bf5f02a6294497b9cf0521941022601 id-bab589724fe842aeae17d329bd4707ad id-81c67afb730a4842b53c64e9c7616fa2 id-9343e83cef2f4eddb96300bc46bbda95"
+      targetConnections="id-fb4efbe683144569b90d3fce94b6d654 id-74fe4406cc674cdda4a20641417f8fff id-0bf5f02a6294497b9cf0521941022601 id-bab589724fe842aeae17d329bd4707ad id-9343e83cef2f4eddb96300bc46bbda95 id-81c67afb730a4842b53c64e9c7616fa2"
       textPosition="1">
     <features
         name="gradient"
