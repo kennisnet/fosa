@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toets- en examenvoorzieningen"
+    name="Toets- en examendiensten"
     id="id-3c94682714274f4984096e9b93d6bd7f"
-    documentation="Verzameling van voorzieningen voor het afnemen van toetsen, al of niet als onderdeel van examens&#xD;&#xA;">
+    documentation="Verzameling van diensten met voorzieningen voor het afnemen van toetsen, al of niet als onderdeel van examens&#xD;&#xA;">
   <properties
       key="Type"
       value="dienst"/>

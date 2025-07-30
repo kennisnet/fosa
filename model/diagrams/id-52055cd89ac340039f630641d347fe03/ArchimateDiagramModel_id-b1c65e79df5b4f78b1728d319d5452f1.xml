@@ -90,31 +90,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4ddf542325ed4549b39384a907a13261"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3a309dd52e2b4fe396cf22b16d427eec"
-        source="id-4ddf542325ed4549b39384a907a13261"
-        target="id-fe201e091e514df1b69fb47a54af912d">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-0df2ffdb2691435893b49bbff1c44ade.xml#id-0df2ffdb2691435893b49bbff1c44ade"/>
-    </sourceConnections>
-    <bounds
-        x="1092"
-        y="263"
-        width="241"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_id-99748eb73326415090ffde45eab4183c.xml#id-99748eb73326415090ffde45eab4183c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-59f3594276464ec0aad051c640b956ca"
       textPosition="1">
     <features
@@ -293,7 +268,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fe201e091e514df1b69fb47a54af912d"
-      targetConnections="id-3a309dd52e2b4fe396cf22b16d427eec"
+      targetConnections="id-e34cba486fea4f51a898f045bf352280"
       textPosition="1">
     <features
         name="gradient"
@@ -559,6 +534,27 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-c9f19664cf64478b8c9837d0fcc92a63.xml#id-c9f19664cf64478b8c9837d0fcc92a63"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-70475e2f7f544e1dad99002d05176802">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e34cba486fea4f51a898f045bf352280"
+        source="id-70475e2f7f544e1dad99002d05176802"
+        target="id-fe201e091e514df1b69fb47a54af912d">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-8b0adfc5a8e6457a8c40bd43b47da661.xml#id-8b0adfc5a8e6457a8c40bd43b47da661"/>
+    </sourceConnections>
+    <bounds
+        x="1092"
+        y="256"
+        width="241"
+        height="69"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_id-b3de60cc794f4623afcbb013e035fc62.xml#id-b3de60cc794f4623afcbb013e035fc62"/>
   </children>
   <properties
       key="Status"
