@@ -68,7 +68,7 @@
     </sourceConnections>
     <bounds
         x="96"
-        y="120"
+        y="1128"
         width="1549"
         height="121"/>
     <children
@@ -179,106 +179,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4fe3e849ec484c38a7fb51976eb47143"
-      font="1|Segoe UI|9.0|3|WINDOWS|1|-12|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
-      lineWidth="3"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="312"
-        y="1140"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-f228a4ca122647e88a6a37190e0d7bbb.xml#id-f228a4ca122647e88a6a37190e0d7bbb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-80b6612dae324b7e9e0e18c88208fa84"
-      font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="516"
-        y="1140"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-f228a4ca122647e88a6a37190e0d7bbb.xml#id-f228a4ca122647e88a6a37190e0d7bbb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-315238f499f241fd8409edfb627cc893"
-      textAlignment="1"
-      content="Nieuwe ketenvoorziening">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="312"
-        y="1204"
-        width="157"
-        height="34"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-bad3ae08f08642eabaa393be1b8e72c9"
-      textAlignment="1"
-      content="Te wijzigen ketenvoorziening">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="516"
-        y="1204"
-        width="169"
-        height="34"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-59c9f51a93894b919d31ae4ccfb0b6ca"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="96"
-        y="1140"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-f228a4ca122647e88a6a37190e0d7bbb.xml#id-f228a4ca122647e88a6a37190e0d7bbb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-e11ec3e337ae4bb8bb43b066b20b16ac"
-      textAlignment="1"
-      content="Bestaande ketenvoorziening">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="96"
-        y="1204"
-        width="169"
-        height="34"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1787747ecae744de88ea74a3bea4d502"
-      fontColor="#ffffff"
       textAlignment="1"
-      fillColor="#3b338a">
-    <features
-        name="iconColor"
-        value="#ffffff"/>
+      fillColor="#f4c6aa">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d9ccd962385040a68b1bfcce33fb8768"
@@ -481,22 +384,6 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-71471d315c50441a8f2a9fdffa6e3de4.xml#id-71471d315c50441a8f2a9fdffa6e3de4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-ca89e69cd8b8452e9f77fa66c3734700"
-      textAlignment="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <features
-        name="labelExpression"
-        value="Auteur: $view{property:Auteur}&#xA;Status: $view{property:Status}&#xA;Datum: $view{property:Datum}&#xA;"/>
-    <bounds
-        x="60"
-        y="36"
-        width="200"
-        height="70"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
