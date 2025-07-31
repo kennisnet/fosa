@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="S02a. Doorlopende leerroute over sectoren heen"
     id="id-d9e480ae70bc4587b6a8457f2d4bed14"
-    documentation="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders. &#xD;&#xA;Dit scenario illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders gezamenlijk onderwijs verzorgen. Er is sprake van twee inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per fase moet er duidelijkheid zijn welke aanbieder de hoofdverantwoordelijkheid en financiering heeft). De leerling volgt normaliter onderwijs op de locaties van beide onderwijsaanbieders en krijgt uiteindelijk vaak ook twee diploma's (of iets wat daarmee vergelijkbaar is en formeel markeert dat het onderwijs vallend onder de ene sector afgerond is). ">
+    documentation="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders. &#xD;&#xA;Dit scenario illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders zo'n doorlopende leerlijn verzorgen, maar wel acteren als twee aparte onderwijsaanbieders. Er is dus sprake van twee fasen die resulteren in twee op elkaar volgende inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per fase is duidelijk welke onderwijsaanbieder de hoofdverantwoordelijkheid heeft). De onderwijsdeelnemer kan ongeacht de fase waarin die zich bevindt onderwijs op de locaties van beide onderwijsaanbieders volgen en krijgt uiteindelijk vaak ook twee diploma's (of iets wat daarmee vergelijkbaar is en formeel markeert dat het onderwijs vallend onder de ene sector afgerond is). ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-121f0d22fe184e6686bed7827546d5b4"
@@ -704,7 +704,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4f9365086b264c21b9c6a2c672b25f6b"
-        targetConnections="id-e905737afba84fb794131966c64c9552 id-773e3836cc2e4eddad7809e93739e5a0"
+        targetConnections="id-e905737afba84fb794131966c64c9552 id-773e3836cc2e4eddad7809e93739e5a0 id-829b38722b72497f9eadd25391a157be"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -828,6 +828,24 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-f69d93b3e5ec4972b86e254aa22cc58e"
+          source="id-f151454a24ab4b07bbe85e14a91dcfcf"
+          target="id-0ee2de56a6d349fcba62128e1a4d528b">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-ae23e5484d5f4b69a765e1a1d44b9a53.xml#id-ae23e5484d5f4b69a765e1a1d44b9a53"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-829b38722b72497f9eadd25391a157be"
+          source="id-f151454a24ab4b07bbe85e14a91dcfcf"
+          target="id-4f9365086b264c21b9c6a2c672b25f6b">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-ae23e5484d5f4b69a765e1a1d44b9a53.xml#id-ae23e5484d5f4b69a765e1a1d44b9a53"/>
       </sourceConnections>
       <bounds
           x="1164"
@@ -1117,20 +1135,6 @@
         height="70"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-05eaf8910fb04708949f993c75e5854a"
-      textAlignment="1"
-      content="Het onderwijs wordt zo georganiseerd dat er optimale aansluiting tussen twee sectoren wordt gerealiseerd (van po naar vo, van vo naar mbo, van vo naar ho) in een nauwe samenwerking tussen de betrokken onderwijsaanbieders.&#xD;&#xA;&#xD;&#xA;Hier wordt de aansluiting van vmbo naar mbo uitgewerkt. Dit scenario Deze variant illustreert de vervlechting van de onderwijsprocessen die optreedt als twee onderwijsaanbieders gezamenlijk onderwijs verzorgen. Er is sprake van twee inschrijvingen, waar twee keer verantwoording over wordt afgelegd (per situatie moet er duidelijkheid zijn welke aanbieder de hoofdverantwoordelijkheid en financiering heeft). De leerling volgt op twee plekken onderwijs en krijgt uiteindelijk twee diploma's. ">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="288"
-        y="84"
-        width="637"
-        height="133"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fd4d86c77d5647e3b2ae2154d4ddda03"
       targetConnections="id-12780045beae41479c2a35585a058413"
@@ -1403,7 +1407,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0ee2de56a6d349fcba62128e1a4d528b"
-        targetConnections="id-8874b97fc9374e3793c03bd104902997 id-e01111576611418a8e98f2299cdcdbcb"
+        targetConnections="id-8874b97fc9374e3793c03bd104902997 id-e01111576611418a8e98f2299cdcdbcb id-f69d93b3e5ec4972b86e254aa22cc58e id-a8f6a356c7634bf8a6fef602825868e5"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1414,6 +1418,26 @@
           id="id-92562d482aa84b04b3204e9fccee434a"
           source="id-0ee2de56a6d349fcba62128e1a4d528b"
           target="id-8aee461961e44c72bf66ef148f4677d5">
+        <bendpoints
+            startX="-120"
+            startY="-15"
+            endX="-120"
+            endY="328"/>
+        <bendpoints
+            startX="-120"
+            startY="-99"
+            endX="-120"
+            endY="244"/>
+        <bendpoints
+            startX="-120"
+            startY="-243"
+            endX="-120"
+            endY="100"/>
+        <bendpoints
+            startX="-84"
+            startY="-243"
+            endX="-84"
+            endY="100"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-b16e88c63a6a45e5bfb1554aeacff2ff.xml#id-b16e88c63a6a45e5bfb1554aeacff2ff"/>
@@ -1477,6 +1501,15 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a8f6a356c7634bf8a6fef602825868e5"
+          source="id-24e744326a1d4518ba67e7eb534e62bd"
+          target="id-0ee2de56a6d349fcba62128e1a4d528b">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-ae23e5484d5f4b69a765e1a1d44b9a53.xml#id-ae23e5484d5f4b69a765e1a1d44b9a53"/>
       </sourceConnections>
       <bounds
           x="1152"

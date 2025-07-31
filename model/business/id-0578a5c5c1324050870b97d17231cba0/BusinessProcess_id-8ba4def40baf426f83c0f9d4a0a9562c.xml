@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden"
     id="id-8ba4def40baf426f83c0f9d4a0a9562c"
-    documentation="Het formuleren van de leervraag en optioneel het leveren van identificerende gegevens door een (aankomend) onderwijsdeelnemer. Dit proces kan worden gebruikt voor de aanmelding op een complete opleiding of voor een onderdeel. De onderwijsdeelnemer kan het persoonlijk portfolio gebruiken voor de ondersteuning van de aanmelding.">
+    documentation="Het formuleren van de leervraag en optioneel het leveren van identificerende gegevens door een (aankomend) onderwijsdeelnemer. Dit proces kan worden gebruikt voor de aanmelding op een complete opleiding of voor een onderdeel. De onderwijsdeelnemer kan het persoonlijk portfolio gebruiken voor de ondersteuning van de aanmelding. Als de onderwijsaanbieder bepaalt heeft of de onderwijsdeelnemer toelaatbaar is, dan is dit besluit de trigger om de onderwijsdeelnemer in te schrijven.">
   <properties
       key="Type"
       value="proces"/>
