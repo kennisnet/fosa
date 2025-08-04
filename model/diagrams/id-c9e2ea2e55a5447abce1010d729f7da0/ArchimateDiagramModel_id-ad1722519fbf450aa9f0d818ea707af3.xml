@@ -5,36 +5,6 @@
     id="id-ad1722519fbf450aa9f0d818ea707af3"
     documentation="In dit scenario is er sprake van begeleiding van “buitenaf”. Met begeleiding wordt gedoeld op diverse vormen van ondersteuning waar de leerling behoefte aan heeft als gevolg van persoonlijke kenmerken, achterblijvende ontwikkeling of andere omstandigheden die spelen rond deze leerling. Begeleiding kan binnen deze context grofweg tweeledig worden geduid: deels als ambulante begeleiding op en rond school, deels als een “externe” vorm van ondersteuning (dus op locatie). Begeleiding kan variëren van onderwijskundige begeleiding tot één of meerdere “zorg”-gerelateerde vormen van begeleiding.  De begeleiding kan vanuit andere (speciaal onderwijs) onderwijsorganisaties plaatsvinden dan wel vanuit zorg-gerelateerde organisaties buiten het onderwijs.">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-673afa67e67f4446afbf17dc00022ade"
-      textAlignment="1"
-      content="In dit scenario is er sprake van begeleiding van “buitenaf”. Met begeleiding wordt gedoeld op diverse vormen van ondersteuning waar de leerling behoefte aan heeft als gevolg van persoonlijke kenmerken, achterblijvende ontwikkeling of andere omstandigheden die spelen rond het kind (de toekomstige de onderwijsdeelnemer). Begeleiding kan binnen deze context grofweg tweeledig worden geduid: deels als ambulante begeleiding op en rond school, deels als een “externe” vorm van ondersteuning, veelal één of meerdere “zorg” gerelateerde organisaties of professionals. ">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="288"
-        y="10"
-        width="577"
-        height="135"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-980f6188665e4447a43d536e19c156d8"
-      textAlignment="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <features
-        name="labelExpression"
-        value="Auteur: $view{property:Auteur}&#xA;Status: $view{property:Status}&#xA;Datum: $view{property:Datum}&#xA;"/>
-    <bounds
-        x="10"
-        y="10"
-        width="200"
-        height="70"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d4e44c51715d48b38cdff66e29be61e7"
       textAlignment="1"
@@ -305,7 +275,7 @@
           x="1704"
           y="12"
           width="217"
-          height="55"/>
+          height="43"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-4eaa38530cbb4991ad152e548dd4e931.xml#id-4eaa38530cbb4991ad152e548dd4e931"/>
@@ -327,23 +297,13 @@
         <bendpoints
             startX="-96"
             startY="57"
-            endX="588"
-            endY="76"/>
+            endX="720"
+            endY="88"/>
         <bendpoints
-            startX="-588"
+            startX="-720"
             startY="57"
             endX="96"
-            endY="76"/>
-        <bendpoints
-            startX="-648"
-            startY="57"
-            endX="96"
-            endY="76"/>
-        <bendpoints
-            startX="-648"
-            startY="33"
-            endX="96"
-            endY="52"/>
+            endY="88"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-ce80cbedf8db4ae3a600ac1a0f0d1d6c.xml#id-ce80cbedf8db4ae3a600ac1a0f0d1d6c"/>
@@ -355,18 +315,23 @@
           target="id-149bfe1d9d584c708a5eb7bb64872c00">
         <bendpoints
             startX="-84"
-            startY="213"
-            endX="300"
-            endY="2"/>
+            startY="117"
+            endX="372"
+            endY="-69"/>
+        <bendpoints
+            startX="-84"
+            startY="189"
+            endX="372"
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-69dcf1233961400ba2cf8a76ad6daa3b.xml#id-69dcf1233961400ba2cf8a76ad6daa3b"/>
       </sourceConnections>
       <bounds
-          x="1548"
-          y="48"
+          x="1620"
+          y="66"
           width="217"
-          height="55"/>
+          height="43"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-205248949fea47d99ceb15098b7582f2.xml#id-205248949fea47d99ceb15098b7582f2"/>
@@ -1205,6 +1170,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-62923e99f70e49379cb07cc2f76136d3"
         targetConnections="id-bafbd10955c04d75a165f0eceeb453d3 id-6cf62103089b471cb199727973f7572c"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -1263,6 +1229,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-96bca475a19a4f16a27690ba81033554"
         targetConnections="id-a6033d5ebce44e3fb26df59118e2cb01 id-1579505418894c4db37e7075ed1ca3b4"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -1294,6 +1261,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8d1056a2d9c54285865c931f567a4d1d"
         targetConnections="id-a0b1ace6b401486bb514d5c9914be53e id-da1109cfb8a04ba796600bea1973eafe"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"

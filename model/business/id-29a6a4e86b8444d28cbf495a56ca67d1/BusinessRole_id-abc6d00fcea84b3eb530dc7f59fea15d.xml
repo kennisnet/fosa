@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leermiddelenaanbieder"
-    id="id-abc6d00fcea84b3eb530dc7f59fea15d">
+    id="id-abc6d00fcea84b3eb530dc7f59fea15d"
+    documentation="De rol van partijen die leermiddelen ontwikkelen, samenstellen en ter beschikking stellen. Dit kunnen private aanbieders zijn maar ook onderwijsorganisaties zelf (of een mix daarvan).">
   <properties
       key="Type"
       value="rol"/>

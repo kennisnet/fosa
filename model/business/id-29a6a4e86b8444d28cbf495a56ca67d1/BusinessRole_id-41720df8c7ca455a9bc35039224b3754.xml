@@ -1,7 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verantwoording"
-    id="id-41720df8c7ca455a9bc35039224b3754">
+    name="Toezichthouder"
+    id="id-41720df8c7ca455a9bc35039224b3754"
+    documentation="De rol van partijen die controleren en/of toezicht houden op de processen en registraties van onderwijsorganisaties.">
   <properties
       key="Type"
       value="rol"/>

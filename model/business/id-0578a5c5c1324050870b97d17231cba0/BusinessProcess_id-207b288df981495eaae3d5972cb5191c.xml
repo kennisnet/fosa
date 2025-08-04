@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opnemen in persoonlijk portfolio"
-    id="id-81d5b67dadc34efeab845a896b3bd258"
-    documentation="Registreren van de verkregen certificering in het persoonlijke portfolio van een onderwijsdeelnemer.">
+    name="Beschikbaarstellen leermiddelen"
+    id="id-207b288df981495eaae3d5972cb5191c"
+    documentation="Het proces waarmee de leermiddelenaanbieder leermiddelen levert c.q. beschikbaar stelt aan de leerling .">
   <properties
       key="Type"
       value="proces"/>
@@ -11,5 +11,5 @@
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-05-26"/>
 </archimate:BusinessProcess>

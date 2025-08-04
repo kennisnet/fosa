@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanschaffen leermiddelen (onderwijsorganisatie)"
+    name="Bepalen leermiddelen (onderwijsorganisatie)"
     id="id-19d9d39439c448d7baeca45a30c0d7e6"
-    documentation="Het verwerven van leermiddelen door onderwijsorganisatie (selectie en eventueel aanschaf).">
+    documentation="Het bepalen van leermiddelen door onderwijsorganisatie kan beperkt zijn tot het selecteren en dit kenbaar maken aan de leerling (&quot;leermiddelenlijst&quot;) die zich inschrijft en leermiddelen zelf gaat aanschaffen tot en met het zelf aanschaffen van leermiddelen door de onderwijsorganisatie en die beschikbaar stellen aan een leerling. In dat laatste geval bekleedt de onderwijsorganisatie ook de rol van leermiddelenaanbieder.">
   <properties
       key="Type"
       value="proces"/>

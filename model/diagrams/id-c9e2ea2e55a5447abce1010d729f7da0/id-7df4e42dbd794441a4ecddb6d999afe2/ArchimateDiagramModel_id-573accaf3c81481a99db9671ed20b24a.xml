@@ -181,20 +181,6 @@
       <features
           name="gradient"
           value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f9eeefb3fea845e3a342afa20a4fe1f4"
-          source="id-19c3f385c1ad4a8fbeb3bb3506cbcdbf"
-          target="id-55281aa1782a491ab1c2e63bebd25970">
-        <bendpoints
-            startX="-180"
-            startY="9"
-            endX="-8"
-            endY="-142"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-9ae88bd9833d4458bb71f021ef336a11.xml#id-9ae88bd9833d4458bb71f021ef336a11"/>
-      </sourceConnections>
       <bounds
           x="1416"
           y="36"
@@ -612,7 +598,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-55281aa1782a491ab1c2e63bebd25970"
-        targetConnections="id-0a80bfdf8f5b42009d3f6a09ae4f9348 id-f9eeefb3fea845e3a342afa20a4fe1f4 id-3a9b1a9d2aa74fe6921da53f298489e5"
+        targetConnections="id-0a80bfdf8f5b42009d3f6a09ae4f9348 id-3a9b1a9d2aa74fe6921da53f298489e5"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
