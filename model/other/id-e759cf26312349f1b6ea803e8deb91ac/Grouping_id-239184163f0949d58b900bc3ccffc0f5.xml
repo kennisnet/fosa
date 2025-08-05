@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samenwerkingsschool"
-    id="id-239184163f0949d58b900bc3ccffc0f5">
+    name="Samenwerkingsonderwijsaanbieder"
+    id="id-239184163f0949d58b900bc3ccffc0f5"
+    documentation="Een onderwijsaanbieder waarin twee (of meer) onderwijsaanbieders van verschillende onderwijsbesturen gezamenlijk onderwijs aanbieden en verzorgen. NB De naam samenwerkingsonderwijsaanbieder is enigszins gekunsteld maar is zo gekozen om niet verwarring te krijgen met voor de wet toegestane samenwerkingsscholen (https://nl.wikipedia.org/wiki/Samenwerkingsschool).">
   <properties
       key="Type"/>
   <properties

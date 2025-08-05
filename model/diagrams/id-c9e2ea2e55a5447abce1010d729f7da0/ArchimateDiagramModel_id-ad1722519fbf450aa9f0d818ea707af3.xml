@@ -193,7 +193,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-04baa4d6f1be40e28edf2af2fd85b443"
-        targetConnections="id-0484eaccc759455ca2069200c70373ee id-27d0612f87d14aa38148ce778883a946 id-415c4850a3344a36b4f2dc7b2806c5e8"
+        targetConnections="id-0484eaccc759455ca2069200c70373ee"
         fillColor="#d892d5"
         textPosition="1">
       <features
@@ -713,20 +713,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-27d0612f87d14aa38148ce778883a946"
-          source="id-532ba3676f6e47afacf804a2096151c8"
-          target="id-04baa4d6f1be40e28edf2af2fd85b443">
-        <bendpoints
-            startX="180"
-            startY="-3"
-            endX="-84"
-            endY="165"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-c0a61847dc154cb9b5928a7173f73a49.xml#id-c0a61847dc154cb9b5928a7173f73a49"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f8578de8cb594d948fa176464f6e42ae"
           source="id-532ba3676f6e47afacf804a2096151c8"
           target="id-cb6685f09d7c44feae08d2f2dc35036c">
@@ -802,20 +788,6 @@
       <features
           name="gradient"
           value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-415c4850a3344a36b4f2dc7b2806c5e8"
-          source="id-149bfe1d9d584c708a5eb7bb64872c00"
-          target="id-04baa4d6f1be40e28edf2af2fd85b443">
-        <bendpoints
-            startX="192"
-            startY="-8"
-            endX="-72"
-            endY="232"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f0d346aea20d4f58861a8baacce46d36"

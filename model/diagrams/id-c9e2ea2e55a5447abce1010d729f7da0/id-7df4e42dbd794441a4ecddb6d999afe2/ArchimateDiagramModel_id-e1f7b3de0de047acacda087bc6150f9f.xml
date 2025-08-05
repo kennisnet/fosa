@@ -315,7 +315,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fb0a18a2765c43a88f627ffadc69df78"
-        targetConnections="id-cc93cc397f7149599398d6db4d88d4f4 id-062d938a24d74520a2d44fe605a5aa78 id-444ce517666e444b95ecd258217f2dd8 id-ad91a039a3c6416a8d9d2873cc0fbe14"
+        targetConnections="id-062d938a24d74520a2d44fe605a5aa78 id-444ce517666e444b95ecd258217f2dd8"
         fillColor="#d892d5"
         textPosition="1">
       <features
@@ -1799,25 +1799,6 @@
       <features
           name="gradient"
           value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-cc93cc397f7149599398d6db4d88d4f4"
-          source="id-48b0b742dbce48088b4b46105a5edb45"
-          target="id-fb0a18a2765c43a88f627ffadc69df78">
-        <bendpoints
-            startX="218"
-            startY="-12"
-            endX="-456"
-            endY="453"/>
-        <bendpoints
-            startX="218"
-            startY="-468"
-            endX="-456"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
-      </sourceConnections>
       <bounds
           x="1372"
           y="48"
@@ -2068,25 +2049,6 @@
       <features
           name="gradient"
           value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-ad91a039a3c6416a8d9d2873cc0fbe14"
-          source="id-28047c49dce44023b83cb60073e0600a"
-          target="id-fb0a18a2765c43a88f627ffadc69df78">
-        <bendpoints
-            startX="219"
-            startY="18"
-            endX="-456"
-            endY="573"/>
-        <bendpoints
-            startX="219"
-            startY="-558"
-            endX="-456"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-c0a61847dc154cb9b5928a7173f73a49.xml#id-c0a61847dc154cb9b5928a7173f73a49"/>
-      </sourceConnections>
       <bounds
           x="1369"
           y="138"

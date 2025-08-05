@@ -105,7 +105,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1189d6d73e084d42a9e658a452defd94"
-      targetConnections="id-5477d343252646d1a72f4f6f58a8d590"
       fillColor="#d892d5"
       textPosition="1">
     <features
@@ -376,15 +375,6 @@
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5477d343252646d1a72f4f6f58a8d590"
-        source="id-bbe4a36b438341de806c376e4dbd221f"
-        target="id-1189d6d73e084d42a9e658a452defd94">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
-    </sourceConnections>
     <bounds
         x="299"
         y="366"

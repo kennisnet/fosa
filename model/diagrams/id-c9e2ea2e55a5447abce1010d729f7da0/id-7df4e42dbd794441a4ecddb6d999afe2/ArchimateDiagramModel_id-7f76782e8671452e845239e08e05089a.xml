@@ -207,7 +207,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1ec9bc885f0848b6a51b56c78200292c"
-        targetConnections="id-7c9eb0e43312423a8c5b094fd845607c id-ee23f2693efb4f539c2ab360f6c73a08 id-873b777142484afe9393c6155769ac4d"
+        targetConnections="id-7c9eb0e43312423a8c5b094fd845607c"
         fillColor="#d892d5"
         textPosition="1">
       <features
@@ -852,25 +852,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-ee23f2693efb4f539c2ab360f6c73a08"
-          source="id-0eb84236c1e24babbf40a33eea5b87b0"
-          target="id-1ec9bc885f0848b6a51b56c78200292c">
-        <bendpoints
-            startX="179"
-            startY="-10"
-            endX="-181"
-            endY="189"/>
-        <bendpoints
-            startX="179"
-            startY="-202"
-            endX="-181"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-c0a61847dc154cb9b5928a7173f73a49.xml#id-c0a61847dc154cb9b5928a7173f73a49"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-bb7bc661b2db41e385d7bd6952d28e6f"
           source="id-0eb84236c1e24babbf40a33eea5b87b0"
           target="id-8d1a63c59c254878bf2632bdf22c2648">
@@ -896,25 +877,6 @@
       <features
           name="gradient"
           value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-873b777142484afe9393c6155769ac4d"
-          source="id-5bda9cb7d4c640e6ac1a6f2804745ddd"
-          target="id-1ec9bc885f0848b6a51b56c78200292c">
-        <bendpoints
-            startX="179"
-            startY="-4"
-            endX="-181"
-            endY="153"/>
-        <bendpoints
-            startX="179"
-            startY="-160"
-            endX="-181"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-63294ed7c6a344b592e20889d9bb5541.xml#id-63294ed7c6a344b592e20889d9bb5541"/>
-      </sourceConnections>
       <bounds
           x="432"
           y="36"
