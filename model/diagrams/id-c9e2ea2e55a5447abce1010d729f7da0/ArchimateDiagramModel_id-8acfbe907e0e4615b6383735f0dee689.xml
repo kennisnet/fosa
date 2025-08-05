@@ -222,34 +222,6 @@
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-f870475476ac462bb552ba167bec5e09.xml#id-f870475476ac462bb552ba167bec5e09"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-04eedf11360d4920a642a613584e7782"
-          source="id-5bc170f23c7a41a0800f90852082f5e4"
-          target="id-9bc82350676141658da95f29440346d8">
-        <bendpoints
-            startX="84"
-            startY="117"
-            endX="-468"
-            endY="-15"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-b44746ec5ef44b5ebf3b9b59da72182a.xml#id-b44746ec5ef44b5ebf3b9b59da72182a"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-6dc0f70b89e14135a81298e46c5da057"
-          source="id-5bc170f23c7a41a0800f90852082f5e4"
-          target="id-f41e36498f2e44a4a4bd168222067fa7">
-        <bendpoints
-            startX="72"
-            startY="369"
-            endX="-480"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-b44746ec5ef44b5ebf3b9b59da72182a.xml#id-b44746ec5ef44b5ebf3b9b59da72182a"/>
-      </sourceConnections>
       <bounds
           x="1428"
           width="217"
@@ -508,7 +480,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9bc82350676141658da95f29440346d8"
-        targetConnections="id-3ef5608079dc4830a666adab78155603 id-04eedf11360d4920a642a613584e7782"
+        targetConnections="id-3ef5608079dc4830a666adab78155603"
         fillColor="#c8d2e0"
         textPosition="1">
       <features
@@ -1234,7 +1206,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f41e36498f2e44a4a4bd168222067fa7"
-        targetConnections="id-6dc0f70b89e14135a81298e46c5da057 id-f3695695c42d4b2e926684f7f7ae8f73"
+        targetConnections="id-f3695695c42d4b2e926684f7f7ae8f73"
         fillColor="#c8d2e0"
         textPosition="1">
       <features

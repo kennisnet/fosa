@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maken lesrooster"
-    id="id-f703151f20d24e24b119669b1104b3d1">
+    name="Roosteren"
+    id="id-f703151f20d24e24b119669b1104b3d1"
+    documentation="Maken van een detailplanning van het onderwijsaanbod daarbij rekening houdend met onder meer het onderwijsaanbod, beschikbare resources en de leerroutes van de individuele leerlingen.">
   <properties
       key="Type"
       value="proces"/>

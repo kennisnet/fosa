@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evalueren leerresultaten en bepalen vervolgstap"
+    name="Vastleggen leerresultaat"
     id="id-76950b09bbe54b62b8cbd02b84f8b36e"
-    documentation="Nagaan wat de beste vervolgstap is op basis van de huidige situatie van de onderwijsdeelnemer, diens leervraag en van het actuele leerresultaat.">
+    documentation="Het vastleggen van de uitkomsten van leeractiviteiten. Deze kunnen zowel de input vormen voor het monitoren van de voortgang en bepalen vervolgstappen in het leerproces als ook het formaliseren van leerresultaten tot een onderwijsresultaat.">
   <properties
       key="Type"
       value="proces"/>

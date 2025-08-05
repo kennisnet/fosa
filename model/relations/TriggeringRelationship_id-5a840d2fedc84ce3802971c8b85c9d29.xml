@@ -1,18 +1,10 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-992bd59f46d5491983ee2cbf48e2c74f">
-  <properties
-      key="Type"/>
-  <properties
-      key="Status"
-      value="Verouderd"/>
-  <properties
-      key="Datum"
-      value="2020-01-01"/>
+    id="id-5a840d2fedc84ce3802971c8b85c9d29">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-f3ca799994e64d1b8efce2c54c0cbdb5.xml#id-f3ca799994e64d1b8efce2c54c0cbdb5"/>
+      href="BusinessProcess_id-55fc4048fca94ca9991060d6eab2b1e6.xml#id-55fc4048fca94ca9991060d6eab2b1e6"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-f703151f20d24e24b119669b1104b3d1.xml#id-f703151f20d24e24b119669b1104b3d1"/>
