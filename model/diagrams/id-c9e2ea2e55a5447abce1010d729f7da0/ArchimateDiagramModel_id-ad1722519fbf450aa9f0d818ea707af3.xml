@@ -955,21 +955,21 @@
       alpha="200">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-26be6be8352f46aa83ee40ff6ea06020"
-        source="id-dab9637cbed640bf805e2da5270f0310"
-        target="id-4b478cbf070c471b84ed619608f67242">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-c7c21329d20245e2bbc8e0755b0d2179.xml#id-c7c21329d20245e2bbc8e0755b0d2179"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8782f07f72764242ad67b5eb18d04f0f"
         source="id-dab9637cbed640bf805e2da5270f0310"
         target="id-cb6685f09d7c44feae08d2f2dc35036c">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-243e5e0559aa40c5b1e379d0f2498218.xml#id-243e5e0559aa40c5b1e379d0f2498218"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-26be6be8352f46aa83ee40ff6ea06020"
+        source="id-dab9637cbed640bf805e2da5270f0310"
+        target="id-4b478cbf070c471b84ed619608f67242">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c7c21329d20245e2bbc8e0755b0d2179.xml#id-c7c21329d20245e2bbc8e0755b0d2179"/>
     </sourceConnections>
     <bounds
         x="300"
@@ -979,7 +979,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4b478cbf070c471b84ed619608f67242"
-        targetConnections="id-178920c6531c4ef995795543452bdfcb id-26be6be8352f46aa83ee40ff6ea06020"
+        targetConnections="id-26be6be8352f46aa83ee40ff6ea06020 id-178920c6531c4ef995795543452bdfcb"
         fillColor="#fe8e91"
         textPosition="1">
       <features
@@ -997,7 +997,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cb6685f09d7c44feae08d2f2dc35036c"
-        targetConnections="id-f8578de8cb594d948fa176464f6e42ae id-8782f07f72764242ad67b5eb18d04f0f id-96197e607fbc4327b23e5313a8e2f582"
+        targetConnections="id-96197e607fbc4327b23e5313a8e2f582 id-8782f07f72764242ad67b5eb18d04f0f id-f8578de8cb594d948fa176464f6e42ae"
         fillColor="#fe8e91"
         textPosition="1">
       <features
