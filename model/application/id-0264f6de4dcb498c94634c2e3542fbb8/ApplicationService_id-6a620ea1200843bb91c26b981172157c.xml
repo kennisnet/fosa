@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Documenten- en templatediensten"
+    name="Onderwijsaanboddiensten"
     id="id-6a620ea1200843bb91c26b981172157c"
-    documentation="Verzameling van voorzieningen die standaardformulieren en templates leveren met aandachtspunten op het gebied van de diverse aspecten van flexibilisering (denk aan https://www.sterkberoepsonderwijs.nl/doorlopende-leerlijnen/bouwstenen)">
+    documentation="Voorzieningen die inzicht geven in het huidige onderwijsaanbod van andere onderwijsaanbieders. NB Wellicht te combineren met Catalogusdiensten met onderwijsprogramma's en -onderdelen en Catalogusdiensten met ondersteuningsfuncties en -voorzieningen.">
   <properties
       key="Type"
       value="dienst"/>

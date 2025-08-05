@@ -1,19 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-52058d84a55b45a2b3b209fef1ffa8d8">
-  <properties
-      key="Type"/>
-  <properties
-      key="Status"
-      value="Concept"/>
-  <properties
-      key="Datum"
-      value="2025-04-30"/>
+    id="id-17df8ede0b6b4d668ec17e72caf98542">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-9aa18ee5131f499c8b0b752ab2a7ea5d.xml#id-9aa18ee5131f499c8b0b752ab2a7ea5d"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-957a40c18dc8444eae8e4b2ecf28652e.xml#id-957a40c18dc8444eae8e4b2ecf28652e"/>
+      href="BusinessProcess_id-d69cd15bb584461e92c0692afb155074.xml#id-d69cd15bb584461e92c0692afb155074"/>
 </archimate:ServingRelationship>

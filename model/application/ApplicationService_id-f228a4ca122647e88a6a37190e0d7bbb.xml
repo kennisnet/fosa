@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Sector) dienst"
     id="id-f228a4ca122647e88a6a37190e0d7bbb"
-    documentation="Systeem of verzameling van systemen dat een of meer bedrijfsprocessen ondersteunt en dat door meerdere partijen in de keten kan worden gebruikt. &#xD;&#xA;">
+    documentation="Verzameling van voorzieningen die een of meer bedrijfsprocessen ondersteunen en die door meerdere partijen in de keten kunnen worden gebruikt. ">
   <properties
       key="Type"
       value="dienst"/>
@@ -11,5 +11,5 @@
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-06-25"/>
+      value="2025-08-05"/>
 </archimate:ApplicationService>
