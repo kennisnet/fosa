@@ -184,7 +184,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bada9954162d43929f53b2af58a0600e"
-        targetConnections="id-79f8f938d966433c9587d88d78980645 id-da471f356a0d4a7dbeee44a969d5a455"
+        targetConnections="id-79f8f938d966433c9587d88d78980645 id-da471f356a0d4a7dbeee44a969d5a455 id-010d6882058449b19fab5e5408591121"
         fillColor="#d892d5"
         textPosition="1">
       <features
@@ -949,6 +949,20 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-fa3114d194d0450ab836f78953943672.xml#id-fa3114d194d0450ab836f78953943672"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-010d6882058449b19fab5e5408591121"
+          source="id-fc1eb06c60564d6a9191b1dee47f8488"
+          target="id-bada9954162d43929f53b2af58a0600e">
+        <bendpoints
+            startX="-182"
+            startY="-14"
+            endX="12"
+            endY="244"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-cbb0a253c6144e21920d96c7aa579457.xml#id-cbb0a253c6144e21920d96c7aa579457"/>
       </sourceConnections>
       <bounds
           x="1632"

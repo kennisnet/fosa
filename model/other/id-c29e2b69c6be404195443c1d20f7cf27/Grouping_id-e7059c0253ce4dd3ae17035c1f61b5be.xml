@@ -1,14 +1,15 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Domein 04 Plaatsen"
+    name="04 Plaatsen"
     id="id-e7059c0253ce4dd3ae17035c1f61b5be"
-    documentation="Processen waarbij de leerling en onderwijsaanbieder zich committeren aan het overeengekomen aanbod, inclusief de daarbij behorende verplichtingen, en het plaatsen van de leerling in een leerroute, een groep etc.">
+    documentation="Dit procesdomein omvat de processen waarbij de leerling en onderwijsaanbieder een overeenkomst tot onderwijsdeelname aangaan waarbij ze zich committeren aan het overeengekomen aanbod, inclusief de daarbij behorende verplichtingen. Verder vallen onder dit procesdomein het opstellen en plaatsen van de leerling in een leerroute en het eventueel aanvragen van extra ondersteuning.">
   <properties
-      key="Type"/>
+      key="Type"
+      value="procesmodel"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-06-26"/>
+      value="2025-08-06"/>
 </archimate:Grouping>

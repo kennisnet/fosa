@@ -1,14 +1,15 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Domein 03 Oriënteren"
+    name="03 Oriënteren"
     id="id-c9f19664cf64478b8c9837d0fcc92a63"
     documentation="Bevat processen die leiden tot het beschikbaar stellen van aangeboden onderwijs en benodigde begeleiding door de onderwijsaanbieder, zodat aankomende onderwijsdeelnemers zich op dat aanbod kunnen oriënteren en het aanbod kunnen vergelijken met als doel zich hiervoor te gaan aanmelden. Onderwijsaanbieders kunnen hierbij het aanbod personaliseren voor de behoeften van de (aankomend) onderwijsdeelnemer.">
   <properties
-      key="Type"/>
+      key="Type"
+      value="procesdomein"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-06-17"/>
+      value="2025-08-06"/>
 </archimate:Grouping>

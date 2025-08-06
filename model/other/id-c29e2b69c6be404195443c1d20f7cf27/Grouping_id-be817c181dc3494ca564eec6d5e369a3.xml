@@ -1,14 +1,15 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Domein 01 Definiëren"
+    name="01 Definiëren"
     id="id-be817c181dc3494ca564eec6d5e369a3"
-    documentation="In dit domein zijn de processen ondergebracht die leiden tot het onderwijsaanbod van onderwijsaanbieders. Ook processen voor het tot stand komen van samenwerkingen tussen onderwijsaanbieders zijn in dit domein ingedeeld.">
+    documentation="In dit procesdomein zijn de processen ondergebracht die leiden tot het onderwijsaanbod van onderwijsaanbieders. Ook processen voor het tot stand komen van samenwerkingen tussen onderwijsaanbieders zijn in dit domein ingedeeld.">
   <properties
-      key="Type"/>
+      key="Type"
+      value="procesdomein"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-06-17"/>
+      value="2025-08-06"/>
 </archimate:Grouping>
