@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="S01. Flexibiliteit in leerroutes"
     id="id-cbf5c0157d3249e4be804ec8e0631da8"
-    documentation="Het onderwijs wordt binnen één onderwijsaanbieder flexibeler georganiseerd zodat een leerling een meer persoonlijke leerroute kan samenstellen, bijvoorbeeld: &#xD;&#xA;- Volgen van extra onderwijsaanbod (extra vakken, modules) of volgen van het onderwijsaanbod in een andere vorm (tweetalig, focus op techniek) &#xD;&#xA;- Combineren van onderwijs op verschillende niveaus &#xD;&#xA;- Versnellen of vertragen &#xD;&#xA; - Loslaten van onderwijs volgen in vaste klassen, groepen, leerjaren, niveaus etc. &#xD;&#xA;">
+    documentation="Het onderwijs wordt binnen één onderwijsaanbieder flexibeler georganiseerd zodat een leerling een meer persoonlijke leerroute kan samenstellen, bijvoorbeeld: &#xD;&#xA;- Volgen van extra onderwijsaanbod (extra vakken, modules) of volgen van het onderwijsaanbod in een andere vorm (tweetalig, focus op techniek) &#xD;&#xA;- Combineren van onderwijs op verschillende niveaus &#xD;&#xA;- Versnellen of vertragen &#xD;&#xA;- Loslaten van onderwijs volgen in vaste klassen, groepen, leerjaren, niveaus etc. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dc83198548fa4fafb30b8f7883866776"
@@ -506,15 +506,10 @@
           source="id-0c236c9f79c44ca6894683bba3d4bbf4"
           target="id-fc1eb06c60564d6a9191b1dee47f8488">
         <bendpoints
-            startX="-113"
-            startY="22"
-            endX="226"
-            endY="-110"/>
-        <bendpoints
-            startX="-149"
-            startY="22"
-            endX="190"
-            endY="-110"/>
+            startX="-150"
+            startY="21"
+            endX="189"
+            endY="-111"/>
         <bendpoints
             startX="-149"
             startY="58"
@@ -528,20 +523,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-1913a07769e14776a1a3eb1697d9b021.xml#id-1913a07769e14776a1a3eb1697d9b021"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a38b84228e8a4089a339493a83bfd250"
-          source="id-0c236c9f79c44ca6894683bba3d4bbf4"
-          target="id-ae5d3db153ad44718b025a110a4e23c2">
-        <bendpoints
-            startX="7"
-            startY="-50"
-            endX="-18"
-            endY="76"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-411d13ff026646cc98d1bca5640ce9e8.xml#id-411d13ff026646cc98d1bca5640ce9e8"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -561,6 +542,25 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-bff791369908411eaf05f646d8293402.xml#id-bff791369908411eaf05f646d8293402"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a38b84228e8a4089a339493a83bfd250"
+          source="id-0c236c9f79c44ca6894683bba3d4bbf4"
+          target="id-ae5d3db153ad44718b025a110a4e23c2">
+        <bendpoints
+            startX="6"
+            startY="-51"
+            endX="-19"
+            endY="75"/>
+        <bendpoints
+            startX="6"
+            startY="-75"
+            endX="-19"
+            endY="51"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-411d13ff026646cc98d1bca5640ce9e8.xml#id-411d13ff026646cc98d1bca5640ce9e8"/>
       </sourceConnections>
       <bounds
           x="1980"
