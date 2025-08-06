@@ -1754,11 +1754,12 @@
         href="BusinessRole_id-84832d25e5b641349810e824c376add3.xml#id-84832d25e5b641349810e824c376add3"/>
   </children>
   <properties
+      key="Type"
+      value="procesmodel"/>
+  <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
       value="2025-05-26"/>
-  <properties
-      key="Type"/>
 </archimate:ArchimateDiagramModel>
