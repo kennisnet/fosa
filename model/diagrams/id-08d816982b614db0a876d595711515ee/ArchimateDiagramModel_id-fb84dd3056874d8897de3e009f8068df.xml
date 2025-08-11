@@ -279,20 +279,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-79347161b903480caeacd0660759fc99"
-          source="id-55c855b1126c4892a410170e4c4b4332"
-          target="id-ce7bcc1648bd407aba33d1b4a7aad2fe">
-        <bendpoints
-            startX="-30"
-            startY="-174"
-            endX="126"
-            endY="3"/>
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-4dbf371f6f8c44639b72c99f940c45b7.xml#id-4dbf371f6f8c44639b72c99f940c45b7"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2b644072020542d7b28d10b82e1610a4"
           source="id-55c855b1126c4892a410170e4c4b4332"
           target="id-92df8fb75e80416a9a8156e3eac218a8">
@@ -332,6 +318,20 @@
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-481db2dfba4540a4a03f8cf5b60de0cd.xml#id-481db2dfba4540a4a03f8cf5b60de0cd"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-79347161b903480caeacd0660759fc99"
+          source="id-55c855b1126c4892a410170e4c4b4332"
+          target="id-ce7bcc1648bd407aba33d1b4a7aad2fe">
+        <bendpoints
+            startX="-30"
+            startY="-174"
+            endX="126"
+            endY="3"/>
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-4dbf371f6f8c44639b72c99f940c45b7.xml#id-4dbf371f6f8c44639b72c99f940c45b7"/>
       </sourceConnections>
       <bounds
           x="588"
@@ -564,7 +564,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ce7bcc1648bd407aba33d1b4a7aad2fe"
-      targetConnections="id-79347161b903480caeacd0660759fc99 id-d03ab46f12e64bf692724447dc2d81a3"
+      targetConnections="id-d03ab46f12e64bf692724447dc2d81a3 id-79347161b903480caeacd0660759fc99"
       textPosition="1">
     <features
         name="gradient"
