@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identiteit-vertaling en maskeringsdiensten"
+    name="Vertegenwoordigingsdienst"
     id="id-5ba05794efb84ac09b9dc7257ef15e60"
-    documentation="Verzameling van voorzieningen die identiteitsgegevens anonimiseren of pseudonimiseren voor uitwisseling met externe partijen, of identiteitsgegevens tussen verschillende stelsels vertalen.">
+    documentation="Verzameling van voorzieningen waarmee de vertegenwoordiging namens een gebruiker kan worden ondersteund. De voorzieningen bieden onder meer functionaliteit voor het bepalen van ouderlijk gezag c.q. wettelijke vertegenwoordiging en afgeven van machtigingen.">
   <properties
       key="Type"
       value="dienst"/>

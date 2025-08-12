@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mandateringsdiensten"
+    name="Mandateringsdienst"
     id="id-c9398dab0f664ebe8c9589d1887a9996"
-    documentation="Verzameling van voorzieningen waarmee personen of organisaties andere personen of organisaties bepaalde acties kunnen laten uitvoeren in hun naam. ">
+    documentation="Verzameling van voorzieningen waarmee onderwijsorganisaties dienstverleners bepaalde acties kunnen laten uitvoeren namens hen zonder dat hiermee bevoegdheden worden overgedragen. Behalve het mandateren zelf, ondersteunen de voorzieningen ook het bieden van inzicht ('dashboard') op een bepaald organisatieniveau (bijvoorbeeld onderwijsbestuur) van alle mandaten die zijn afgegeven die vallen onder dat niveau.">
   <properties
       key="Type"
       value="dienst"/>

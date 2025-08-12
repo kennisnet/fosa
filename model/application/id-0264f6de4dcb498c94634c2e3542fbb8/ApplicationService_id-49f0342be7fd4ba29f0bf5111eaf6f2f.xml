@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Delegerende Identityprovider"
+    name="Onderwijswalletdienst"
     id="id-49f0342be7fd4ba29f0bf5111eaf6f2f"
-    documentation="Een Identity Provider die de identificatie en authenticatie van eindgebruikers delegeert aan een Authenticerende Identity Provider.&#xD;&#xA;&#xD;&#xA;De Delegerende Identity Provider fungeert als authenticatieproxy, past identity mapping toe en geeft een identiteitsverklaring af aan een Federatieve Hub of een Dienst met SSO waarmee deze een vertrouwensrelatie heeft.">
+    documentation="Voorziening of verzameling van voorzieningen waarmee onderwijsbetrokkenen hun onderwijsidentiteit kunnen beheren, hun gegevens op één plek kunnen inzien en deze eenvoudig, snel en betrouwbaar kunnen delen bijvoorbeeld ten behoeve van toegang tot andere diensten. ">
   <properties
       key="Type"
       value="dienst"/>

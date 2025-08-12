@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Authenticerende Identityprovider"
+    name="Registratiedienst onderwijsidentiteit"
     id="id-5b2b15e4b219440a88b370cf0aa44ac6"
-    documentation="Een Identity Provider die de identificatie en authenticatie van eindgebruikers uitvoert. De Authenticerende Identity Provider beschikt hiervoor over een authenticatiemiddelenvoorziening.&#xD;&#xA;&#xD;&#xA;De Authenticerende Identity Provider geeft een identiteitsverklaring af aan een Delegerende Identity Provider, Federatieve Hub of een Dienst met SSO waarmee deze een vertrouwensrelatie heeft.">
+    documentation="Voorziening of verzameling van voorzieningen waarmee van de basisgegevens van de onderwijsidentiteit kunnen worden geregistreerd. De basisgegevens bestaan uit betrouwbare persoonsgegevens. Met de betrouwbare persoonsgegevens kan de onderwijsidentiteit, wanneer dit nodig is, herleid worden naar een natuurlijk persoon. Het zorgt er ook voor dat authenticatie- en identiteitsverklaringen van een hoger betrouwbaarheidsniveau kunnen zijn. ">
   <properties
       key="Type"
       value="dienst"/>
