@@ -73,9 +73,9 @@
           href="AggregationRelationship_id-873538aa14f3489f8de19018452c0c5a.xml#id-873538aa14f3489f8de19018452c0c5a"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="348"
-        width="925"
+        x="132"
+        y="420"
+        width="901"
         height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -156,7 +156,7 @@
             href="InfluenceRelationship_id-82bc34614deb48f9b7b1d43da3879df2.xml#id-82bc34614deb48f9b7b1d43da3879df2"/>
       </sourceConnections>
       <bounds
-          x="108"
+          x="204"
           y="36"
           width="157"
           height="61"/>
@@ -270,7 +270,7 @@
             href="InfluenceRelationship_id-11637e37490f4b48acebb6b44310913e.xml#id-11637e37490f4b48acebb6b44310913e"/>
       </sourceConnections>
       <bounds
-          x="396"
+          x="492"
           y="36"
           width="157"
           height="61"/>
@@ -303,7 +303,7 @@
             href="ServingRelationship_id-91f7afe4e9e84479b9ca67a30787f89b.xml#id-91f7afe4e9e84479b9ca67a30787f89b"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="144"
           y="132"
           width="157"
           height="61"/>
@@ -336,7 +336,7 @@
             href="ServingRelationship_id-1ab92a2454e04bc6955700278cc30dde.xml#id-1ab92a2454e04bc6955700278cc30dde"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="144"
           y="198"
           width="157"
           height="61"/>
@@ -369,7 +369,7 @@
             href="ServingRelationship_id-248a9597defa4db5a24cf14f6b047a44.xml#id-248a9597defa4db5a24cf14f6b047a44"/>
       </sourceConnections>
       <bounds
-          x="264"
+          x="360"
           y="195"
           width="157"
           height="61"/>
@@ -402,7 +402,7 @@
             href="ServingRelationship_id-c54ef9ef0c9c48e3b4686e180063961e.xml#id-c54ef9ef0c9c48e3b4686e180063961e"/>
       </sourceConnections>
       <bounds
-          x="264"
+          x="360"
           y="135"
           width="157"
           height="61"/>
@@ -435,7 +435,7 @@
             href="ServingRelationship_id-fa4aba8ad4994c95bbee0a3db656ef05.xml#id-fa4aba8ad4994c95bbee0a3db656ef05"/>
       </sourceConnections>
       <bounds
-          x="480"
+          x="576"
           y="198"
           width="157"
           height="55"/>
@@ -456,8 +456,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="72"
-        y="126"
+        x="144"
+        y="198"
         width="204"
         height="55"/>
     <archimateElement
@@ -473,8 +473,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="72"
-        y="186"
+        x="144"
+        y="258"
         width="204"
         height="55"/>
     <archimateElement
@@ -490,8 +490,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="372"
-        y="72"
+        x="444"
+        y="144"
         width="204"
         height="55"/>
     <archimateElement
@@ -507,8 +507,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="372"
-        y="126"
+        x="444"
+        y="198"
         width="204"
         height="55"/>
     <archimateElement
@@ -524,8 +524,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="372"
-        y="186"
+        x="444"
+        y="258"
         width="204"
         height="55"/>
     <archimateElement
@@ -541,8 +541,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="372"
-        y="246"
+        x="444"
+        y="318"
         width="204"
         height="55"/>
     <archimateElement
@@ -558,8 +558,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="648"
-        y="36"
+        x="720"
+        y="108"
         width="277"
         height="109"/>
     <archimateElement
@@ -575,8 +575,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="648"
-        y="288"
+        x="720"
+        y="360"
         width="277"
         height="49"/>
     <archimateElement
@@ -592,8 +592,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="648"
-        y="144"
+        x="720"
+        y="216"
         width="277"
         height="79"/>
     <archimateElement
@@ -609,8 +609,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="648"
-        y="222"
+        x="720"
+        y="294"
         width="277"
         height="67"/>
     <archimateElement
