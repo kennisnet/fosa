@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generieke diensten"
-    id="id-71471d315c50441a8f2a9fdffa6e3de4">
+    name="Generieke processen"
+    id="id-71471d315c50441a8f2a9fdffa6e3de4"
+    documentation="Alle processen die ondersteunend kunnen zijn aan alle andere processen (ook wel genoemd de informatievoorziening ondersteunende processen of kortweg de IV-processen)">
   <properties
       key="Type"
       value="procesdomein"/>
