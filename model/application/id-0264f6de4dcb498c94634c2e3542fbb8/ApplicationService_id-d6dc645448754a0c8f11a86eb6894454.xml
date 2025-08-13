@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portfoliodiensten"
+    name="Portfoliodienst"
     id="id-d6dc645448754a0c8f11a86eb6894454"
-    documentation="Verzameling voorzieningen die portfolios aanbieden. Portfolio's bevatten alle gevolgde onderwijs en behaalde (vastgestelde) onderwijsresultaten van een onderwijsdeelnemer, inclusief diploma's en certificaten, geordend in verschillende secties en voorzien van raadpleeg- en toegangsfaciliteiten met autorisaties voor verschillende rollen.&#xD;&#xA;">
+    documentation="Verzameling van voorzieningen die het gebruik van portfolio's ondersteunen. Portfolio's bevatten alle in het gevolgde onderwijs behaalde (en vastgestelde) onderwijsresultaten van een onderwijsdeelnemer, inclusief diploma's en certificaten, geordend in verschillende secties en voorzien van raadpleeg- en toegangsfaciliteiten met autorisaties voor verschillende rollen.&#xD;&#xA;">
   <properties
       key="Type"
       value="dienst"/>

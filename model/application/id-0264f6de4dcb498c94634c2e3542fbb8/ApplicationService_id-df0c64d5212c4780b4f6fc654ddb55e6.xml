@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mijn digitale leermiddelendiensten"
+    name="Mijn digitale leermiddelendienst"
     id="id-df0c64d5212c4780b4f6fc654ddb55e6"
-    documentation="Verzameling voorzieningen waarin een onderwijsdeelnemer of -medewerker digitale leermodules en leermaterialen kan gebruiken. In de gebruiksomgeving kunnen allerlei gebruiksactiviteiten uitgevoerd worden zoals: oefenen, instructie volgen en voortgang monitoren.&#xD;&#xA;">
+    documentation="Verzameling van voorzieningen waarin een onderwijsdeelnemer of -medewerker digitale leermodules en leermaterialen kan gebruiken. In de gebruiksomgeving kunnen allerlei gebruiksactiviteiten uitgevoerd worden zoals: oefenen, instructie volgen en voortgang monitoren.&#xD;&#xA;">
   <properties
       key="Type"
       value="dienst"/>
