@@ -449,6 +449,9 @@
         id="id-4c37d79fd9474258808b3391bdaf7d21"
         targetConnections="id-870b5f6ec720445a88c29c2b6fcaf134"
         textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="12"
           y="36"
