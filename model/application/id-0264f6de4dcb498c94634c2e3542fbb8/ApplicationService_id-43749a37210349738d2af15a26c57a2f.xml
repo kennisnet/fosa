@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBP-dienst"
+    id="id-43749a37210349738d2af15a26c57a2f"
+    documentation="Verzameling van voorzieningen waarmee onderwijsorganisaties de beveiliging en privacybescherming voor hun bedrijfsvoering kunnen inrichten, monitoren en bijsturen. Een voorbeeld van een specifieke dienst is de Dienst Verwerkersovereenkomsten.">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="14-08-2025"/>
+</archimate:ApplicationService>
