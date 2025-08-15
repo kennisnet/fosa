@@ -1,15 +1,24 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P03. Sectorvoorzieningen zijn wendbaar"
+    name="AP03. Sectorvoorzieningen zijn wendbaar"
     id="id-3487738090994dc48eec4f87eae6848e"
     documentation="De componenten van de sectorvoorzieningen functioneren onafhankelijk van elkaar, zijn schaalbaar en kunnen eenvoudig worden gekoppeld of ontkoppeld.">
   <properties
       key="Type"
       value="principe"/>
   <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="In een sterk veranderende omgeving is flexibiliteit belangrijk. Het is nog onvoldoende te voorzien hoe de processen zich gaan ontwikkelen, en hoe het gebruik van voorzieningen daarbij zich zal gaan ontwikkelen. Dit vraagt om een geheel aan sectorvoorzieningen dat kan meebewegen met de veranderende omgeving."/>
+  <properties
+      key="Implicatie"
+      value="De sectorvoorzieningen worden zodanig ontworpen dat het totale landschap in helder afgebakende componenten wordt opgedeeld, die eenvoudig kunnen worden toegevoegd of verwijderd, kunnen worden gekoppeld met andere componenten en kunnen meebewegen met de veranderende vraag.Dit betekent onder andere het volgende. * We zetten in op de toepassing van cloud-concepten. * We ontwikkelen een API-strategie, zodat componenten op een gedefinieerde en gestandaardiseerde manier kunnen worden gekoppeld. * We zorgen voor een exit-plan voor de sectorvoorzieningen en de onderliggende componenten in contracten."/>
+  <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

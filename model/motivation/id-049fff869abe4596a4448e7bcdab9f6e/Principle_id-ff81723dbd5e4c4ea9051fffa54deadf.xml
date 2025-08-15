@@ -7,9 +7,21 @@
       key="Type"
       value="principe"/>
   <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="De sectorvoorzieningen worden gefinancierd met publieke middelen en moeten daarom ook beschikbaar zijn voor alle partijen. Bovendien wordt de toegevoegde waarde van veel sectorvoorzieningen groter, naarmate er meer partijen aan bijdragen en er gebruik van maken. De sectorvoorzieningen hebben ook tot doel om samenwerking tussen onderwijsaanbieders en andere partijen te stimuleren. Tenslotte wordt op deze manier innovatie gestimuleerd door partijen de mogelijkheid te geven innovatieve diensten aan te bieden."/>
+  <properties
+      key="Implicatie"
+      value="We stellen kaders voor samenwerking en hergebruik op, om breed gebruik van de sectorvoorzieningen te stimuleren en misbruik van de voorzieningen te voorkomen.We gebruiken zoveel mogelijk (internationale) open standaarden en zetten in op meertaligheid."/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Hanteer open standaarden: https://rosa.wikixl.nl/index.php/Id-f099be70d0894ba6b3aaa0dbb26fa13c "/>
+  <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

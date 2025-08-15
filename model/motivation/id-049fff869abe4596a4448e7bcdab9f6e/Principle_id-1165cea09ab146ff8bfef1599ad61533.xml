@@ -1,15 +1,27 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P01. De sectorvoorzieningen vormen een doelmatig ecosysteem"
+    name="AP01. De sectorvoorzieningen vormen een doelmatig ecosysteem"
     id="id-1165cea09ab146ff8bfef1599ad61533"
-    documentation="De sectorvoorzieningen zijn zodanig ingericht dat ze een doelmatig ecosysteem vormen waarin &#xD;&#xA;* De leerling centraal staat&#xD;&#xA;* Leerlingen, leerkrachten/docenten en medewerkers optimaal worden ondersteund &#xD;&#xA;* Rollen en verantwoordelijkheden van betrokken partijen in de sector duidelijk belegd zijn&#xD;&#xA;* Onafhankelijkheid van leveranciers is geborgd">
+    documentation="De sectorvoorzieningen zijn zodanig ingericht dat ze een doelmatig ecosysteem vormen waarin &#xD;&#xA;* de leerling centraal staat,&#xD;&#xA;* leerlingen, leraren en andere onderwijsmedewerkers optimaal worden ondersteund, &#xD;&#xA;* rollen en verantwoordelijkheden van betrokken partijen in de sector duidelijk belegd zijn, en&#xD;&#xA;* onafhankelijkheid van leveranciers is geborgd.&#xD;&#xA;">
   <properties
       key="Type"
       value="principe"/>
+  <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="Om ‘leven lang ontwikkelen’ mogelijk te maken stellen we de leerling als lerende centraal. De leerling maakt gedurende zijn/haar hele loopbaan, mogelijk bij verschillende onderwijsaanbieders, gebruik van de sectorvoorzieningen. De leerling en de betrokken medewerkers moeten (op verschillende momenten en bij verschillende onderwijsaanbieders) optimaal door deze voorzieningen worden ondersteund.Om dat mogelijk te maken is het belangrijk dat onderwijsaanbieders en andere partners in de sector met elkaar kunnen samenwerken, dat er heldere rollen en verantwoordelijkheden zijn en geen verstorende afhankelijkheden van leveranciers."/>
+  <properties
+      key="Implicatie"
+      value="Voor het ontwerp van de sectorvoorzieningen worden kaders gehanteerd, zodat de sectorvoorziening passen in het doelmatige ecosysteem."/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Continu onderwijsleerproces: https://rosa.wikixl.nl/index.php/Id-36494e14b7c7477d91a4f9af2b654802"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

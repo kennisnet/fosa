@@ -1,15 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P02. De ethiek is geborgd"
+    name="AP02. De ethiek is geborgd"
     id="id-5a71c3f2f88d4f02a08243b23c2ba0ca"
     documentation="Gebruik publieke waarden als input bij het ontwerp van digitale technologie.&#xD;&#xA;">
   <properties
       key="Type"
       value="principe"/>
   <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="Wanneer binnen een project ontwerpbeslissingen worden gemaakt, vindt steeds een belangenafweging plaats op basis van concerns van belanghebbenden. Daarbij geldt dat geen enkel concern ‘absoluut’ is – in de afweging tussen verschillende belangen vinden trade-offs plaats. De onderwijswaarden die in de WaardenWijzer zijn opgenomen zijn voorbeelden van concerns die in een dergelijke belangenafweging een rol spelen."/>
+  <properties
+      key="Implicatie"
+      value="Maak gebruik van de '''WaardenWijzer''' om in het ontwerpproces expliciet te maken op welke wijze de onderwijswaarden in de belangenafweging betrokken zijn. De waarden uit de WaardenWijzer zijn geïntegreerd in de '''doelenstructuur van de ROSA'''  en daarmee beschikbaar als een handreiking en inspiratiebron voor programma’s en projecten om de waarden uit de WaardenWijzer te operationaliseren."/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Ethics by Design: https://rosa.wikixl.nl/index.php/Id-2cbc74d467b147baab89959e07ed70f0"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.surf.nl/files/2021-09/waardenwijzer_def.pdf "/>
+  <properties
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Drivers_en_doelen"/>
+  <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>
