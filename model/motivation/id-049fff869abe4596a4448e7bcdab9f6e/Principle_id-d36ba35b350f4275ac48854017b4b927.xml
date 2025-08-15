@@ -1,15 +1,24 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P10. Kosten van sectorvoorzieningen zijn verrekenbaar"
+    name="AP10. Kosten van sectorvoorzieningen zijn verrekenbaar"
     id="id-d36ba35b350f4275ac48854017b4b927"
-    documentation="De kosten van sectorvoorzieningen en het gebruik daarvan zijn inzichtelijk, zodat deze verrekenbaar zijn">
+    documentation="De kosten van sectorvoorzieningen en het gebruik daarvan zijn inzichtelijk, zodat deze verrekenbaar zijn.">
   <properties
       key="Type"
       value="principe"/>
+  <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="De sectorvoorzieningen zijn gemeenschappelijk; alle aangesloten partijen maken er gebruik van. Om tot een eerlijke kostenverrekening te kunnen komen, is het noodzakelijk dat de kostenopbouw inzichtelijk is, en het gebruik ervan door de aangesloten partijen inzichtelijk is."/>
+  <properties
+      key="Implicatie"
+      value="Er wordt een structuur uitgewerkt en geïmplementeerd voor flexibele kostentoerekening van de kosten van de sectorvoorzieningen, op basis van een transparant inzicht in de werkelijke kosten en het werkelijke gebruik daarvan door aangesloten partijen."/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

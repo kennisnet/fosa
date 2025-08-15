@@ -1,15 +1,27 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P09. Sectorvoorzieningen zijn transparant"
+    name="AP09. Sectorvoorzieningen zijn transparant"
     id="id-87cf01d104ba4a3f9b3acdffbee8015e"
     documentation="De sectorvoorzieningen zijn transparant in hun werking, wat betekent dat de werking voor partijen en gebruikers inzichtelijk en begrijpelijk is.">
   <properties
       key="Type"
       value="principe"/>
   <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="Door de toegenomen complexiteit, onder andere ook door de inzet van kunstmatige intelligentie, is het voor gebruikers vaak onvoldoende inzichtelijk waarop het gedrag van systemen is gebaseerd. In het geval van sectorvoorzieningen hebben partijen daar minder directe invloed op, en wordt transparantie nog belangrijker voor het vertrouwen in de sectorvoorzieningen. Dit zal uiteindelijk ook bepalend zijn voor de mate waarin partijen de sectorvoorzieningen kunnen en willen gebruiken."/>
+  <properties
+      key="Implicatie"
+      value="Er moeten governance-afspraken gemaakt worden over de transparantie van de sectorvoorzieningen en het monitoren van die afspraken.Specifiek ten aanzien van kunstmatige intelligentie moet worden voorkomen dat dit te zeer een black box is, maar dat inzichtelijk is of uitgelegd wordt hoe die technologie werkt of tot beslissingen komt."/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Duidelijke eisen en verwachtingen: https://rosa.wikixl.nl/index.php/Id-71684b243bb243c380df98aafaae8ac1"/>
+  <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

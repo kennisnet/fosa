@@ -1,15 +1,30 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P05. Sectorvoorzieningen zijn toegankelijk voor iedereen"
+    name="AP05. Sectorvoorzieningen zijn toegankelijk voor iedereen"
     id="id-5ae7883595134089b2a67cd2aac7da69"
-    documentation="De sectorvoorzieningen zijn toegankelijk voor iedereen door een toegankelijke userinterface die aansluit op de fysieke leer- en werkomgeving en toegankelijk is met beperkte middelen en voor mensen met een functiebeperking. &#xD;&#xA;">
+    documentation="De sectorvoorzieningen zijn toegankelijk voor iedereen door een toegankelijke user interface die aansluit op de fysieke leer- en werkomgeving en toegankelijk is met beperkte middelen en voor mensen met een functiebeperking.">
   <properties
       key="Type"
       value="principe"/>
+  <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="De sectorvoorzieningen moeten breed gebruikt kunnen worden in het leer- en werkproces. Dat betekent dat ze qua user interface moeten aansluiten op die leer- en werkomgeving, bijvoorbeeld met apps, chatbots en de ondersteuning van mobiele devices.Daarnaast moeten de sectorvoorzieningen bijdragen aan gelijkheid en geen mensen uitsluiten."/>
+  <properties
+      key="Implicatie"
+      value="Dit betekent dat de dienstverlening zo veel mogelijk ‘omnichannel’ wordt aangeboden (dus consistent over verschillende kanalen). Zo nodig wordt de vindbaarheid en toegankelijkheid verbeterd met behulp van een portaal. Voor de toegankelijkheid wordt zo veel mogelijk aangesloten op (inter)nationale standaarden, en de '''WCAG-richtlijnen''' voor toegankelijke websites."/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Toegankelijkheid van onderwijs: https://rosa.wikixl.nl/index.php/Id-f63ce5254a2a45708e1e315ed974711e"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.logius.nl/onze-dienstverlening/infrastructuur/digitoegankelijk/digitoegankelijk-wat-is-het"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

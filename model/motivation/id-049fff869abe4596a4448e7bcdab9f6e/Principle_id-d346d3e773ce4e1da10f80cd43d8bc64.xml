@@ -1,15 +1,27 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P07. Sectorvoorzieningen zijn robuust"
+    name="AP07. Sectorvoorzieningen zijn robuust"
     id="id-d346d3e773ce4e1da10f80cd43d8bc64"
-    documentation="De sectorvoorzieningen zijn zodanig robuust dat de continuïteit van onderwijs en bedrijfsvoering is geborgd">
+    documentation="De sectorvoorzieningen zijn zodanig robuust dat de continuïteit van onderwijs en bedrijfsvoering is geborgd.">
   <properties
       key="Type"
       value="principe"/>
+  <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="Rationale"
+      value="De sectorvoorzieningen leveren diensten waar onderwijsaanbieders en andere partijen voor hun onderwijs en bedrijfsvoering van afhankelijk zijn. Vanwege die afhankelijkheden zijn maatregelen nodig om schade bij calamiteiten zo veel mogelijk te voorkomen."/>
+  <properties
+      key="Implicatie"
+      value="Sectorvoorzieningen worden voorzien van een passende classificatie voor de beschikbaarheid. De continuïteit wordt geborgd door, afhankelijk van die classificatie,  een continuïteitsplan op te stellen dat deze beschikbaarheid garandeert. Dit dient ook periodiek getest en gerapporteerd worden."/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Continuïteit van de dienstverlening: https://rosa.wikixl.nl/index.php/Id-8a674a34dc264e3b94ca51abb833e628"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

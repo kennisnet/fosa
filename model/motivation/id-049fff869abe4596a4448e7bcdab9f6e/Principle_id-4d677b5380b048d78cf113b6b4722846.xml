@@ -1,15 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="P08. Sectorvoorzieningen zijn beveiligd"
+    name="AP08. Sectorvoorzieningen zijn beveiligd"
     id="id-4d677b5380b048d78cf113b6b4722846"
-    documentation="Vertrouwelijkheid en integriteit van gegevens is geborgd">
+    documentation="Vertrouwelijkheid en integriteit van gegevens is geborgd.">
   <properties
       key="Type"
       value="principe"/>
+  <properties
+      key="Subtype"
+      value="architectuurprincipe"/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="De sectorvoorzieningen moeten voldoen aan de privacywetgeving (AVG). Een onderwijsaanbieders moet zeer zorgvuldig omgaan met de persoonlijke gegevens van studenten en medewerkers, waaronder bijvoorbeeld ook begeleidingsgegevens en leerresultaten. Daarnaast is aantoonbare integriteit van gegevens zoals diploma’s en cijfers van groot belang voor het vertrouwen in de sectorvoorzieningen."/>
+  <properties
+      key="Implicatie"
+      value="Gegevens worden zo opgeslagen en getransporteerd dat aantasting van de juistheid, volledigheid en/of tijdigheid onmogelijk worden gemaakt. Daarbij worden maatregelen genomen die passen bij de integriteitsclassificatie van die gegevens conform het '''Certificeringsschema informatiebeveiliging en privacy'''. We treffen maatregelen om, conform die classificatie de integriteit te kunnen borgen. Hierover wordt periodiek gerapporteerd en een onafhankelijk partij voert hierop periodieke audits uit. "/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Voorkom onrechtmatige toegang of verspreiding: https://rosa.wikixl.nl/index.php/Id-8771af5f7b7d4cffa7c9f764854243bf"/>
+  <properties
+      key="ROSA architectuurprincipe"
+      value="Voorkom aantasting van gegevensintegriteit: https://rosa.wikixl.nl/index.php/Id-1019fb234df1431790c567f0acf6e223"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.edustandaard.nl/standaard_afspraken/certificeringsschema-informatiebeveiliging-en-privacy-rosa/ "/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Principle>

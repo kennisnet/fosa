@@ -1,15 +1,21 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DigiToegankelijk (WDO)"
+    name="DigiToegankelijk"
     id="id-c432ccb5d18749bf884e43a4c9a081e5"
-    documentation="Ieder mens heeft het recht om te leven als ieder ander en mee te doen in de maatschappij. Gebruikmaken van de mogelijkheden die het internet, computers en smartphones ons bieden hoort daar natuurlijk bij. Juist daarom is het belangrijk dat digitale dienstverlening toegankelijk is voor iedereen.&#xD;&#xA;&#xD;&#xA;Miljoenen Nederlanders hebben één of meerdere beperkingen. Denk daarbij aan mensen die blind of slechtziend zijn of kleurenblind; doof of slechthorend; motorisch beperkt of zwakbegaafd; autistisch; laaggeletterd. En deze groep groeit. Het aantal ouderen groeit, er komen meer migranten die de Nederlandse taal niet goed machtig zijn.&#xD;&#xA;&#xD;&#xA;https://www.digitoegankelijk.nl/aanpak/wat-is-digitale-toegankelijkheid">
+    documentation="Ieder mens heeft het recht om te leven als ieder ander en mee te doen in de maatschappij. Gebruikmaken van de mogelijkheden die het internet, computers en smartphones ons bieden hoort daar natuurlijk bij. Juist daarom is het belangrijk dat digitale dienstverlening toegankelijk is voor iedereen. Miljoenen Nederlanders hebben één of meerdere beperkingen. Denk daarbij aan mensen die blind of slechtziend zijn of kleurenblind; doof of slechthorend; motorisch beperkt of zwakbegaafd; autistisch; laaggeletterd. En deze groep groeit. Het aantal ouderen groeit, er komen meer migranten die de Nederlandse taal niet goed machtig zijn.">
   <properties
       key="Type"
       value="drijfveer"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.logius.nl/onze-dienstverlening/infrastructuur/digitoegankelijk/digitoegankelijk-wat-is-het"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.digitoegankelijk.nl/aanpak/wat-is-digitale-toegankelijkheid"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Driver>

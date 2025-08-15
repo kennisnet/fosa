@@ -1,18 +1,18 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wet pseudonimisering leerlinggegevens"
+    name="Normenkader IBP"
     id="id-856faf887cfb47a49d3ec7414c1ee2ba"
-    documentation="Pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer ten behoeve van het bieden van voorzieningen in het kader van het onderwijs en de begeleiding van onderwijsdeelnemers.">
-  <properties
-      key="Externe verwijzing"
-      value="https://zoek.officielebekendmakingen.nl/stb-2017-508.html"/>
+    documentation="Het Normenkader Informatiebeveiliging en Privacy helpt scholen om de digitale veiligheid te verhogen. Zodat leerlingen, ouders en medewerkers erop kunnen rekenen dat zij leren en werken in een digitaal veilige schoolomgeving en dat hun persoonsgegevens goed worden beschermd.">
   <properties
       key="Type"
       value="drijfveer"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://normenkaderibp.kennisnet.nl/"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2020-01-01"/>
+      value="2025-08-15"/>
 </archimate:Driver>
