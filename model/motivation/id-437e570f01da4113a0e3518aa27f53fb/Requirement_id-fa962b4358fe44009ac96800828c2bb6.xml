@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen hebben een continuïteitsplan passend bij de B-classificatie"
+    id="id-fa962b4358fe44009ac96800828c2bb6"
+    documentation="Er is een continuïteitsplan dat invulling geeft aan de maatregelen passend van de B(eschikbaarheid) classificatie volgens het Certificeringsschema informatiebeveiliging en privacy ROSA.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="Edustandaard Certificeringsschema: https://www.edustandaard.nl/standaard_afspraken/certificeringsschema-informatiebeveiliging-en-privacy-rosa/"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

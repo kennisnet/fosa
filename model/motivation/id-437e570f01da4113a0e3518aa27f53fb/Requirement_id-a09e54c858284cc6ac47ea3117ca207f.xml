@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorziening geven inzicht in de mate waarin algoritmes het gedrag bepalen en wat de werking van die algoritmes is"
+    id="id-a09e54c858284cc6ac47ea3117ca207f"
+    documentation="Sectorvoorzieningen geven inzicht in de algoritmes die worden toegepast, ten minste voor zover het hoog risico AI-systemen betreft. Zie Het Algoritmeregister van de Nederlandse overheid.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="Algoritmes overheid: https://algoritmes.overheid.nl/nl"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

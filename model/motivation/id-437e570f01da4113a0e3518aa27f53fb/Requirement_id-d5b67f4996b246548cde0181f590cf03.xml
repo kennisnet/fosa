@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorziening geven inzicht in de mate waarin AI wordt toegepast"
+    id="id-d5b67f4996b246548cde0181f590cf03"
+    documentation="Sectorvoorzieningen geven inzicht in de mate waar AI wordt toegepast, conform de classificering van de AI-act van de Europese Commissie.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="AI-act Europese Commissie: https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

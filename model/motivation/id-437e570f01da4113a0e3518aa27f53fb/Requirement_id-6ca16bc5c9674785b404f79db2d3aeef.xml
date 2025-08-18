@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen zijn gebaseerd op open (internationale) standaarden"
+    id="id-6ca16bc5c9674785b404f79db2d3aeef"
+    documentation="Sectorvoorzieningen maken gebruiken van afspraken en standaarden zoals geregistreerd bij Edustandaard en Forum Standaardisatie. ">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="Edustandaard: https://www.edustandaard.nl/standaard_afspraken/ "/>
+  <properties
+      key="Externe verwijzing"
+      value="Forum Standaardisatie: https://www.forumstandaardisatie.nl/open-standaarden"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

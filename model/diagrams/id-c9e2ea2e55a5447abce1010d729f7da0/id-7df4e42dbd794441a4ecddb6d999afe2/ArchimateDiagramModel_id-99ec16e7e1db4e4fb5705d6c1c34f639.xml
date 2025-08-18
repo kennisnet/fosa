@@ -1706,8 +1706,8 @@
         height="70"/>
   </children>
   <properties
-      key="Publiceren"
-      value="Niet"/>
+      key="Type"
+      value="procesmodel"/>
   <properties
       key="Status"
       value="Verouderd"/>
@@ -1715,5 +1715,6 @@
       key="Datum"
       value="2020-01-01"/>
   <properties
-      key="Type"/>
+      key="Publiceren"
+      value="Niet"/>
 </archimate:ArchimateDiagramModel>

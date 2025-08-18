@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen zijn zo min mogelijk afhankelijk van andere sectorvoorzieningen"
+    id="id-d38570916fcc46f880cd9f8837c7032e"
+    documentation="Sectorvoorzieningen kunnen bij voorkeur niet afhankelijk van specifieke versies of implementaties van andere sectorvoorzieningen.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

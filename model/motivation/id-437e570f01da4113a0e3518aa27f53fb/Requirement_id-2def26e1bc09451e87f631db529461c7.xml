@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen zijn getoetst aan het ethisch normenkader zoals dat in de sector is afgesproken"
+    id="id-2def26e1bc09451e87f631db529461c7"
+    documentation="De sectorvoorzieningen zijn getoetst aan publieke waarden uit de WaardenWijzer en aan de doelen uit de ROSA (ROSA drivers en doelen). NB de waarden uit de WaardenWijzer zijn ook integraal opgenomen in de ROSA doelen.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="WaardenWijzer: https://www.kennisnet.nl/tools/waardenwijzer/"/>
+  <properties
+      key="Externe verwijzing"
+      value="ROSA drivers en doelen: https://rosa.wikixl.nl/index.php/Drivers_en_doelen"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

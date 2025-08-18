@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen zijn onafhankelijk van een specifiek (hardware) platform"
+    id="id-82daa69e4c314f75b79f23c1012bfac5"
+    documentation="Sectorvoorzieningen maken bij voorkeur gebruik van cloud- of virtualisatietechnologie, zodat deployment op een ander platform mogelijk is.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

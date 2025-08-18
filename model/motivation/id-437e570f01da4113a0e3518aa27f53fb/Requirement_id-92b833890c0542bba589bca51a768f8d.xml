@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen voldoen aan de WCAG-richtlijnen voor toegankelijkheid"
+    id="id-92b833890c0542bba589bca51a768f8d"
+    documentation="Sectorvoorzieningen voldoen aan de Web Content Accessibility Guidelines.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="WCAG richtlijnen: https://www.w3.org/WAI/standards-guidelines/wcag/ "/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

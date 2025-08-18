@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorvoorzieningen zijn voorzien van passende classificatie voor beschikbaarheid"
+    id="id-30380199e70d46e0a908437a4806c8a5"
+    documentation="Sectorvoorzieningen zijn voorzien van een BIV-classificatie, waarin de B(eschikbaarheid) aangeeft welk niveau van beschikbaarheid van toepassing is conform het Certificeringsschema informatiebeveiliging en privacy ROSA.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="Edustandaard Certificeringsschema: https://www.edustandaard.nl/standaard_afspraken/certificeringsschema-informatiebeveiliging-en-privacy-rosa/"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voor sectorvoorzieningen zijn de maatregelen genomen conform het Certificeringsschema"
+    id="id-a0432c4ebc2747538f2a6cf54104fa29"
+    documentation="Voor de sectorvoorzieningen is invulling gegeven aan passende maatregelen conform het Certificeringsschema van Edustandaard.">
+  <properties
+      key="Type"
+      value="ontwerpkader"/>
+  <properties
+      key="Externe verwijzing"
+      value="Edustandaard Certificeringsschema: https://www.edustandaard.nl/standaard_afspraken/certificeringsschema-informatiebeveiliging-en-privacy-rosa/"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-08-18"/>
+</archimate:Requirement>
