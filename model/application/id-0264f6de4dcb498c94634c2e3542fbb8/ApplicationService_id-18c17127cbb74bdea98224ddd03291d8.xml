@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijsdeelnamedienst"
+    name="Onderwijsdeelnamediensten"
     id="id-18c17127cbb74bdea98224ddd03291d8"
-    documentation="Verzameling van voorzieningen waarmee de administratie van verschillende aspecten van de onderwijsdeelname van een leerling kunnen worden uitgevoerd: &#xD;&#xA;- initieel inschrijven van de leerling:&#xD;&#xA;&#x9;- identificeren van de leerling, &#xD;&#xA;&#x9;- vastleggen van gegevens van de leerling, &#xD;&#xA;- vastleggen financiering, &#xD;&#xA;- vastleggen beoogde leerroute en aanpassingen daarop, inclusief de mogelijke extra ondersteuning daarbij,&#xD;&#xA;- vastleggen van aan- en afwezigheid en daaruit mogelijk voortvloeiend verzuim,&#xD;&#xA;- vastleggen van onderwijs volgen bij andere onderwijsaanbieders, stage etc.">
+    documentation="Verzameling van voorzieningen waarmee de administratie van verschillende aspecten van de onderwijsdeelname van een leerling kunnen worden uitgevoerd: &#xD;&#xA;* initieel inschrijven van de leerling:&#xD;&#xA;** identificeren van de leerling, &#xD;&#xA;** vastleggen van gegevens van de leerling, &#xD;&#xA;* vastleggen financiering, &#xD;&#xA;* vastleggen beoogde leerroute en aanpassingen daarop, inclusief de mogelijke extra ondersteuning daarbij,&#xD;&#xA;* vastleggen van aan- en afwezigheid en daaruit mogelijk voortvloeiend verzuim,&#xD;&#xA;* vastleggen van onderwijs volgen bij andere onderwijsaanbieders, stage etc.">
   <properties
       key="Type"
       value="dienst"/>
