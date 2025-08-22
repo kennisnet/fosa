@@ -696,9 +696,9 @@
           href="AggregationRelationship_id-dc803f0cd90240bcb4f6cff9eb44e3d8.xml#id-dc803f0cd90240bcb4f6cff9eb44e3d8"/>
     </sourceConnections>
     <bounds
-        x="36"
+        x="94"
         y="966"
-        width="1063"
+        width="1005"
         height="257"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -725,7 +725,7 @@
             href="ServingRelationship_id-7e94c27b7bee44aba1409eb05124431c.xml#id-7e94c27b7bee44aba1409eb05124431c"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="278"
           y="90"
           width="181"
           height="55"/>
@@ -749,16 +749,16 @@
           source="id-84f93498c0d9424e84b5f01efca8fe16"
           target="id-8102cca05e1e4dae852326b91c587a82">
         <bendpoints
-            startX="112"
-            startY="-3"
-            endX="40"
-            endY="424"/>
+            startX="114"
+            startY="-9"
+            endX="42"
+            endY="418"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-3437fa05009449b2bf0fdc2ff8cd6d8f.xml#id-3437fa05009449b2bf0fdc2ff8cd6d8f"/>
       </sourceConnections>
       <bounds
-          x="72"
+          x="14"
           y="36"
           width="181"
           height="55"/>
@@ -784,15 +784,15 @@
         <bendpoints
             startX="114"
             startY="3"
-            endX="-6"
-            endY="586"/>
+            endX="42"
+            endY="490"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-52058d84a55b45a2b3b209fef1ffa8d8.xml#id-52058d84a55b45a2b3b209fef1ffa8d8"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="192"
+          x="14"
+          y="96"
           width="181"
           height="55"/>
       <archimateElement
@@ -824,7 +824,7 @@
             href="ServingRelationship_id-c7445ed5338a4d24ad513a0cab233f6c.xml#id-c7445ed5338a4d24ad513a0cab233f6c"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="278"
           y="138"
           width="181"
           height="55"/>
@@ -857,7 +857,7 @@
             href="ServingRelationship_id-91fd50ab84cc4dfeb0549dac3a76889c.xml#id-91fd50ab84cc4dfeb0549dac3a76889c"/>
       </sourceConnections>
       <bounds
-          x="708"
+          x="650"
           y="24"
           width="181"
           height="55"/>
@@ -890,7 +890,7 @@
             href="ServingRelationship_id-fd2d3594bc584a649c02fb3273d4202a.xml#id-fd2d3594bc584a649c02fb3273d4202a"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="278"
           y="36"
           width="181"
           height="55"/>
