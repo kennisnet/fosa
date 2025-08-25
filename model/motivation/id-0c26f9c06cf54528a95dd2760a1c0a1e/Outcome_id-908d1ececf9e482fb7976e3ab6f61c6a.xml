@@ -1,10 +1,14 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RV15 Zorg voor een landelijk gestandaardiseerd TLV en een grondslag voor het verplicjt gebruik bij het aanvraag- en beoordelingsproces"
-    id="id-908d1ececf9e482fb7976e3ab6f61c6a">
+    name="RV15 Zorg voor een landelijk gestandaardiseerd TLV en een grondslag voor het verplicht gebruik bij het aanvraag- en beoordelingsproces"
+    id="id-908d1ececf9e482fb7976e3ab6f61c6a"
+    documentation="In een landelijk gestandaardiseerd TLV is vastgelegd welke gegevens daarin mogen opgenomen worden (voor verschillende situaties) en zijn die gegevens qua naamgeving, betekenis en technische invulling gedefinieerd. Ook is vastgelegd hoe om te gaan met de (minimale) verlengingstermijn, met bewaartermijnen en wat de BIV-classificatie is.&#xD;&#xA;OCW heeft eerder al een landelijk TLV laten ontwikkelen maar die is tot nu nauwelijks tot niet geïmplementeerd. Er is op 16 mei 2025 een verscherping van de maatregelen op dit gebied door OCW aangekondigd die deze randvoorwaarde in moeten gaan vullen.">
   <properties
       key="Type"
-      value="aanbeveling"/>
+      value="randvoorwaarde"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.poraad.nl/onderwijskansen/gespecialiseerd-onderwijs/staatssecretaris-kondigt-maatregelen-aan-om-tlv-aanvragen"/>
   <properties
       key="Status"
       value="Concept"/>
