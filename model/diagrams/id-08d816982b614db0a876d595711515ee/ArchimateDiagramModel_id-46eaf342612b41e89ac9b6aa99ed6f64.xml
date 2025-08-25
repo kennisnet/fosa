@@ -19,15 +19,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-13de7905b9e148a3a3a4268554d4927e"
-        source="id-a05769d2155e4d0a8f7a6f3eee98a9d7"
-        target="id-263d8563a2ca40be9fc0765126706dcd">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-289ce7f3f1d345bf9c3d6f2db9034a2d.xml#id-289ce7f3f1d345bf9c3d6f2db9034a2d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9ac99588bb044ce38d49b876d58a530e"
         source="id-a05769d2155e4d0a8f7a6f3eee98a9d7"
         target="id-effa66d8d19e402bb813d81d87da4733">
@@ -452,7 +443,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-263d8563a2ca40be9fc0765126706dcd"
-        targetConnections="id-13de7905b9e148a3a3a4268554d4927e id-e1891fde909d4608b53abd525de2cbf0 id-f9e8d5aee7bd4503ba958f81c2faf4b8"
+        targetConnections="id-e1891fde909d4608b53abd525de2cbf0 id-f9e8d5aee7bd4503ba958f81c2faf4b8"
         textPosition="1">
       <features
           name="gradient"

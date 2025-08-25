@@ -431,7 +431,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-08319eac49904e889defb64bcd2afe50"
         targetConnections="id-a3d3ba2e8c8a48f68305fc91634600fd id-d2b2427324234819902be4c6d88caf0e id-2991e8c3160741ad94b78663f206695f"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -463,7 +463,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6ce40f7dd390407fba38d1726f8d0cbb"
         targetConnections="id-89a38b55d6f44217a4402c8b85eb16e4 id-76b656e9ae63433a982f6a3aa312274a"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -481,7 +481,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0c236c9f79c44ca6894683bba3d4bbf4"
         targetConnections="id-d80fa041f5da400b8defab7704ead442 id-65f09b1179b24d909fea78691c552215 id-c844b5b24a0e49c8adbf99ea4921112d"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -511,34 +511,29 @@
             endX="189"
             endY="-111"/>
         <bendpoints
-            startX="-149"
-            startY="58"
-            endX="190"
-            endY="-74"/>
+            startX="-150"
+            startY="93"
+            endX="189"
+            endY="-39"/>
         <bendpoints
-            startX="-149"
-            startY="130"
-            endX="190"
-            endY="-2"/>
+            startX="-150"
+            startY="129"
+            endX="189"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-1913a07769e14776a1a3eb1697d9b021.xml#id-1913a07769e14776a1a3eb1697d9b021"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7c4c6515b21e4bbea4ac4c6ee8639dd0"
+          id="id-5352bf16b56f45bd8701d554c074a9be"
           source="id-0c236c9f79c44ca6894683bba3d4bbf4"
-          target="id-b0ec1838824c416ebc2936f71b9313ea">
+          target="id-aac7793382924ae5b3b4ad69ff5578ce">
         <bendpoints
-            startX="-77"
-            startY="166"
-            endX="444"
-            endY="-213"/>
-        <bendpoints
-            startX="-149"
-            startY="166"
-            endX="372"
-            endY="-213"/>
+            startX="-78"
+            startY="201"
+            endX="-36"
+            endY="-214"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-bff791369908411eaf05f646d8293402.xml#id-bff791369908411eaf05f646d8293402"/>
@@ -575,7 +570,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e18d8ddb47974e3da6e7e3491d692444"
         targetConnections="id-0d56fcfce39a4bd1892988066546b27b id-d6181b30a56140ee9b683002f269c191"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -616,7 +611,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a446fbf0f7184a3685aae9a02cc2ab28"
         targetConnections="id-6d92ae853c574c10ad43ca2b0444d36f"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -655,7 +650,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-98f82c679df54ab29031abb163e33cfa"
         targetConnections="id-ba6098536c1d4892bc4e08d04ff1a980 id-c94d1e64b4094649bd8420e88cd2d5c7 id-474b8b24ff7845b59cad2ee9c21fdd4d"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -673,20 +668,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-93731903fbc34975a096387163533b46.xml#id-93731903fbc34975a096387163533b46"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-76b656e9ae63433a982f6a3aa312274a"
-          source="id-98f82c679df54ab29031abb163e33cfa"
-          target="id-6ce40f7dd390407fba38d1726f8d0cbb">
-        <bendpoints
-            startX="240"
-            startY="9"
-            endX="48"
-            endY="-135"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-3522bbb64bc7452297cd0b68ed6fc8d0.xml#id-3522bbb64bc7452297cd0b68ed6fc8d0"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -716,6 +697,20 @@
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-e6301e04c928440a907d7ca1daef1f4c.xml#id-e6301e04c928440a907d7ca1daef1f4c"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-76b656e9ae63433a982f6a3aa312274a"
+          source="id-98f82c679df54ab29031abb163e33cfa"
+          target="id-6ce40f7dd390407fba38d1726f8d0cbb">
+        <bendpoints
+            startX="240"
+            startY="9"
+            endX="48"
+            endY="-135"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-3522bbb64bc7452297cd0b68ed6fc8d0.xml#id-3522bbb64bc7452297cd0b68ed6fc8d0"/>
+      </sourceConnections>
       <bounds
           x="336"
           y="12"
@@ -729,7 +724,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-709e323e23004151bd257edb20c4266d"
         targetConnections="id-7246a325089e40e2a282868c67d84e4d id-2a0deb17026740a38e3513c1ec88afb5 id-d288e84063e74d50915725f5f9a19a60"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -777,10 +772,15 @@
           source="id-709e323e23004151bd257edb20c4266d"
           target="id-b0ec1838824c416ebc2936f71b9313ea">
         <bendpoints
-            startX="108"
-            startY="22"
-            endX="-156"
-            endY="-297"/>
+            startX="-108"
+            startY="9"
+            endX="-102"
+            endY="-310"/>
+        <bendpoints
+            startX="-108"
+            startY="141"
+            endX="-102"
+            endY="-178"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-65767839399f48d3851885215f3ae54d.xml#id-65767839399f48d3851885215f3ae54d"/>
@@ -798,7 +798,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2fe64d6fe49e4d59a6f95596349e3a1c"
         targetConnections="id-8c4e97e9fa004001b825cda460a7b553 id-2e93648316db45bc9224d54b07dd6e52"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -825,7 +825,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3b8cbf7aa3394164a7c18dd22a556aa9"
         targetConnections="id-a178c05fffe84b83bde6fe08bd704354 id-f9562337449f4c979b20599613175d26"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -843,7 +843,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c82b825070d544f8b14fe7883be9cfa6"
         targetConnections="id-945fd6b33efd4c83abca5af23d62a920 id-4817663d31f7434aa5a73e5c45987b54"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -889,16 +889,16 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6405bd065eda4bb8a6e5bdd81b48fb87"
         targetConnections="id-86f4830900224e8bbfc0b62e88415527 id-63e03e3179784fa88c8026bce50f4cb0"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
           value="0"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-3bc1a2abcbbc42d090335739e25fcef9"
+          id="id-121f9437cb5a4822b363a09e6ede4dcf"
           source="id-6405bd065eda4bb8a6e5bdd81b48fb87"
-          target="id-eaa664d41be94689bddc6c364a0fd1c4">
+          target="id-2e4bfdc220d3492584915f2cdc30f687">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-62c18aeb069a403982f013732319510f.xml#id-62c18aeb069a403982f013732319510f"/>
@@ -916,7 +916,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fc1eb06c60564d6a9191b1dee47f8488"
         targetConnections="id-1ca9592cc2ad491e85208745630e3541 id-b46dc4871e5e40678daad468d6c34009 id-101b674cf2f2400591ec9d4b0fc74acb"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -957,7 +957,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2aab52e9568b49928d939ec6d9cbf852"
         targetConnections="id-6bf12f17a03741fca6c7220e2160630a id-ab264d60a24341429fc8554b06eb436f id-a8d5554b760a43f2a8ade13e122969ad"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -988,7 +988,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6f3fbdd2e7ef48808bbd2532cf065eaf"
         targetConnections="id-1aad561016b64f57ae0b2f1d24c0d5d8 id-1f2e413ae0ab43f19280452d2db83841 id-5a21bf5d382a4d058ba24eb978a80924"
-        fillColor="#c8d2e0"
+        fillColor="#ffffb5"
         textPosition="1">
       <features
           name="gradient"
@@ -1049,6 +1049,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-c7c21329d20245e2bbc8e0755b0d2179.xml#id-c7c21329d20245e2bbc8e0755b0d2179"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f338e883255e43ea965dfc4047d238e9"
+        source="id-53b9550a4ceb487eba385296de741acc"
+        target="id-aac7793382924ae5b3b4ad69ff5578ce">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-243e5e0559aa40c5b1e379d0f2498218.xml#id-243e5e0559aa40c5b1e379d0f2498218"/>
+    </sourceConnections>
     <bounds
         x="240"
         y="739"
@@ -1064,9 +1073,9 @@
           name="gradient"
           value="0"/>
       <bounds
-          x="1980"
-          y="36"
-          width="217"
+          x="2040"
+          y="12"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -1075,7 +1084,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b0ec1838824c416ebc2936f71b9313ea"
-        targetConnections="id-7c4c6515b21e4bbea4ac4c6ee8639dd0 id-9c8ab4254a3c4bcf9cab31f10b59447a id-ee1f894428d04b98bdf6181b216c0275"
+        targetConnections="id-9c8ab4254a3c4bcf9cab31f10b59447a id-ee1f894428d04b98bdf6181b216c0275"
         fillColor="#fe8e91"
         textPosition="1">
       <features
@@ -1084,7 +1093,25 @@
       <bounds
           x="1164"
           y="36"
-          width="769"
+          width="229"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-6780221edb6a445ba0dfe8b27ffbf362.xml#id-6780221edb6a445ba0dfe8b27ffbf362"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-aac7793382924ae5b3b4ad69ff5578ce"
+        targetConnections="id-f338e883255e43ea965dfc4047d238e9 id-5352bf16b56f45bd8701d554c074a9be"
+        fillColor="#fe8e91"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <bounds
+          x="1968"
+          y="72"
+          width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -1123,7 +1150,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ed402122489458ea962425c6502a767"
-      fillColor="#c8d2e0"
+      fillColor="#ffffb5"
       textPosition="1">
     <features
         name="gradient"
@@ -1188,6 +1215,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-2ff70e0dd6444a9bb5b46e412865d437.xml#id-2ff70e0dd6444a9bb5b46e412865d437"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-09e5c1c64a6d48d9bd803d1517918fc6"
+        source="id-e71d693aaaf44ea2b242aab775793a15"
+        target="id-2e4bfdc220d3492584915f2cdc30f687">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c5ff89aaa9f84577a814eea489a350d8.xml#id-c5ff89aaa9f84577a814eea489a350d8"/>
+    </sourceConnections>
     <bounds
         x="240"
         y="600"
@@ -1227,7 +1263,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-eaa664d41be94689bddc6c364a0fd1c4"
-        targetConnections="id-3bc1a2abcbbc42d090335739e25fcef9"
         fillColor="#ffdbc5"
         textPosition="1">
       <features
@@ -1235,36 +1270,64 @@
           value="0"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e9eff4ff60e84e15b9b1da748f79d928"
-          source="id-eaa664d41be94689bddc6c364a0fd1c4"
-          target="id-91085ba03e164a5abf1a6f7ea649b717">
-        <bendpoints
-            startX="660"
-            startY="-183"
-            endX="36"
-            endY="183"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-ab695cfc0c9f4afbba620156e1c097ea.xml#id-ab695cfc0c9f4afbba620156e1c097ea"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-55457e2265f44fe3abe4fe30cb95b660"
           source="id-eaa664d41be94689bddc6c364a0fd1c4"
           target="id-b2eb6e18abc4449199f39015f0a1ba00">
         <bendpoints
-            startX="-24"
-            startY="-194"
-            endX="-96"
-            endY="172"/>
+            startX="-138"
+            startY="-147"
+            endX="132"
+            endY="219"/>
+        <bendpoints
+            startX="-138"
+            startY="-255"
+            endX="132"
+            endY="111"/>
+        <bendpoints
+            startX="-174"
+            startY="-255"
+            endX="72"
+            endY="111"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-cf5fbc730991467bb5005c9b70986977.xml#id-cf5fbc730991467bb5005c9b70986977"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e9eff4ff60e84e15b9b1da748f79d928"
+          source="id-eaa664d41be94689bddc6c364a0fd1c4"
+          target="id-91085ba03e164a5abf1a6f7ea649b717">
+        <bendpoints
+            startX="342"
+            startY="-195"
+            endX="36"
+            endY="171"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-ab695cfc0c9f4afbba620156e1c097ea.xml#id-ab695cfc0c9f4afbba620156e1c097ea"/>
+      </sourceConnections>
       <bounds
-          x="504"
+          x="1188"
           y="36"
-          width="1369"
+          width="685"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-207b288df981495eaae3d5972cb5191c.xml#id-207b288df981495eaae3d5972cb5191c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2e4bfdc220d3492584915f2cdc30f687"
+        targetConnections="id-121f9437cb5a4822b363a09e6ede4dcf id-09e5c1c64a6d48d9bd803d1517918fc6"
+        fillColor="#ffdbc5"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <bounds
+          x="528"
+          y="36"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
