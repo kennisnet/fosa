@@ -146,19 +146,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-3013c8da3cec47eeb93dfac44200e496"
-          source="id-e4053e4df49d45cf990b7c28c92c71ab"
-          target="id-ee01247a27c24a8fbc9fa77d72e947f5">
-        <bendpoints
-            startX="-30"
-            startY="-342"
-            endX="150"/>
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-09c9ea1ff8e0416bafc90239df54d0d3.xml#id-09c9ea1ff8e0416bafc90239df54d0d3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-50c89a666cf1456b9556029f4a6f35cb"
           source="id-e4053e4df49d45cf990b7c28c92c71ab"
           target="id-dd9e4dae2f714534af8435da0d5819b3">
@@ -297,19 +284,6 @@
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_id-cd703c9bacd34b23a864f75bfba4c2ff.xml#id-cd703c9bacd34b23a864f75bfba4c2ff"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-3a2568a1904c46649d28d2d5c349629f"
-          source="id-0eb06795148b45a495ef6074b89de45b"
-          target="id-ee01247a27c24a8fbc9fa77d72e947f5">
-        <bendpoints
-            startX="-18"
-            startY="-342"
-            endX="-162"/>
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-5f5455a0c31d439381a9e00c5cac22cb.xml#id-5f5455a0c31d439381a9e00c5cac22cb"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -538,7 +512,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ee01247a27c24a8fbc9fa77d72e947f5"
-      targetConnections="id-3013c8da3cec47eeb93dfac44200e496 id-3a2568a1904c46649d28d2d5c349629f"
       textPosition="1">
     <features
         name="gradient"
