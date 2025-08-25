@@ -1,0 +1,19 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-381171cb8df04e3b9d3fd0c16ddd5274">
+  <properties
+      key="Type"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-04-30"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c9f19664cf64478b8c9837d0fcc92a63.xml#id-c9f19664cf64478b8c9837d0fcc92a63"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-55fc4048fca94ca9991060d6eab2b1e6.xml#id-55fc4048fca94ca9991060d6eab2b1e6"/>
+</archimate:AggregationRelationship>
