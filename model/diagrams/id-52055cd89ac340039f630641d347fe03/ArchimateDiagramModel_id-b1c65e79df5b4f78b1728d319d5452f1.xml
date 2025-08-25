@@ -521,7 +521,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-70475e2f7f544e1dad99002d05176802">
+      id="id-70475e2f7f544e1dad99002d05176802"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e34cba486fea4f51a898f045bf352280"
@@ -539,6 +543,48 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-b3de60cc794f4623afcbb013e035fc62.xml#id-b3de60cc794f4623afcbb013e035fc62"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-41316dadcfed4339880847bb2b8c4a88"
+      targetConnections="id-cc2b376f8ff34306a6b94c2e9b1a5125"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="720"
+        y="550"
+        width="277"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-1a7e69c95b4140a6bb67f7f17f5ea710.xml#id-1a7e69c95b4140a6bb67f7f17f5ea710"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-322e630eec4a402291820be59c31a686"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cc2b376f8ff34306a6b94c2e9b1a5125"
+        source="id-322e630eec4a402291820be59c31a686"
+        target="id-41316dadcfed4339880847bb2b8c4a88">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-abfb886af70648119c6f5c5f2b3247fd.xml#id-abfb886af70648119c6f5c5f2b3247fd"/>
+    </sourceConnections>
+    <bounds
+        x="1092"
+        y="560"
+        width="241"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_id-908d1ececf9e482fb7976e3ab6f61c6a.xml#id-908d1ececf9e482fb7976e3ab6f61c6a"/>
   </children>
   <properties
       key="Status"
