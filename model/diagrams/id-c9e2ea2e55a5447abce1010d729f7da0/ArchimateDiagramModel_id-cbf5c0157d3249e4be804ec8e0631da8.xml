@@ -469,9 +469,9 @@
           name="gradient"
           value="0"/>
       <bounds
-          x="756"
+          x="576"
           y="151"
-          width="217"
+          width="121"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -680,25 +680,10 @@
           source="id-98f82c679df54ab29031abb163e33cfa"
           target="id-6ce40f7dd390407fba38d1726f8d0cbb">
         <bendpoints
-            startX="192"
-            startY="10"
-            endX="-228"
-            endY="-129"/>
-        <bendpoints
-            startX="288"
-            startY="10"
-            endX="-132"
-            endY="-129"/>
-        <bendpoints
-            startX="288"
-            startY="81"
-            endX="-132"
-            endY="-58"/>
-        <bendpoints
-            startX="288"
-            startY="141"
-            endX="-132"
-            endY="2"/>
+            startX="240"
+            startY="9"
+            endX="48"
+            endY="-135"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-3522bbb64bc7452297cd0b68ed6fc8d0.xml#id-3522bbb64bc7452297cd0b68ed6fc8d0"/>
@@ -723,12 +708,7 @@
           source="id-98f82c679df54ab29031abb163e33cfa"
           target="id-2fe64d6fe49e4d59a6f95596349e3a1c">
         <bendpoints
-            startX="84"
-            startY="34"
-            endX="-48"
-            endY="-38"/>
-        <bendpoints
-            startX="84"
+            startX="60"
             startY="33"
             endX="-48"
             endY="-39"/>
@@ -833,7 +813,7 @@
             href="TriggeringRelationship_id-02eb25f328304fcb9d29b0342e6d4113.xml#id-02eb25f328304fcb9d29b0342e6d4113"/>
       </sourceConnections>
       <bounds
-          x="468"
+          x="444"
           y="84"
           width="217"
           height="55"/>
@@ -924,9 +904,9 @@
             href="TriggeringRelationship_id-62c18aeb069a403982f013732319510f.xml#id-62c18aeb069a403982f013732319510f"/>
       </sourceConnections>
       <bounds
-          x="432"
-          y="150"
-          width="217"
+          x="408"
+          y="151"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
