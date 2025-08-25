@@ -649,7 +649,7 @@
             startX="-227"
             startY="-3"
             endX="54"
-            endY="318"/>
+            endY="366"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-c48203fa622241858ee53d6fcd043d52.xml#id-c48203fa622241858ee53d6fcd043d52"/>
@@ -1064,7 +1064,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a37100cda1934118beae6f822002e132"
-        targetConnections="id-0d21fc1c2700425ba4f8d30d7ddd30c0 id-692023b698034dc0a34bc78a8339d426 id-80da0c209d4345a380d263e4e531be65 id-7a263ada84f340ba856f28ee20fa3886 id-e232beea003e4fab8b3e1824dff1088e id-5b2afd050f52443dbc31bdd6de1fd3b7 id-ff899d22f7b14882a3a286177d683e68 id-4dcf24b417fb44069669f0f7affbaa94 id-188553ba84094263b17375042b50121b id-4a8784745d5d4e7c8a90aafb24cf7eb4"
+        targetConnections="id-0d21fc1c2700425ba4f8d30d7ddd30c0 id-692023b698034dc0a34bc78a8339d426 id-80da0c209d4345a380d263e4e531be65 id-e232beea003e4fab8b3e1824dff1088e id-5b2afd050f52443dbc31bdd6de1fd3b7 id-ff899d22f7b14882a3a286177d683e68 id-4dcf24b417fb44069669f0f7affbaa94 id-188553ba84094263b17375042b50121b id-4a8784745d5d4e7c8a90aafb24cf7eb4 id-7a263ada84f340ba856f28ee20fa3886"
         textPosition="1">
       <features
           name="gradient"
