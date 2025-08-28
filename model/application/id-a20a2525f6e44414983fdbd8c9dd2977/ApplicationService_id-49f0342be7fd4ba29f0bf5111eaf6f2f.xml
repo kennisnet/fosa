@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijswalletdiensten"
+    name="Onderwijswallet"
     id="id-49f0342be7fd4ba29f0bf5111eaf6f2f"
-    documentation="Voorziening of verzameling van voorzieningen waarmee onderwijsbetrokkenen hun onderwijsidentiteit kunnen beheren, hun gegevens op één plek kunnen inzien en deze eenvoudig, snel en betrouwbaar kunnen delen bijvoorbeeld ten behoeve van toegang tot andere diensten. ">
+    documentation="De onderwijswallet biedt onderwijsbetrokkenen gemak doordat ze hun gegevens op één plek kunnen inzien en deze eenvoudig, snel en betrouwbaar kunnen delen. Ze kunnen met de functies hun onderwijsidentiteit beheren. De wallet ondersteunt de volgende generieke functies:&#xD;&#xA;*&#x9;toegang tot een digitale dienst;&#xD;&#xA;*&#x9;regie over onderwijsidentiteit;&#xD;&#xA;*&#x9;vertegenwoordiging;&#xD;&#xA;*&#x9;ondertekenen.&#xD;&#xA;">
   <properties
       key="Type"
       value="dienst"/>

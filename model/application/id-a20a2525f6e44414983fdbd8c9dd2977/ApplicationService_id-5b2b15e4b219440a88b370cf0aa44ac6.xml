@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registratiediensten onderwijsidentiteit"
+    name="Registratiedienst (registratie basisgegevens en uitgifte wallet)"
     id="id-5b2b15e4b219440a88b370cf0aa44ac6"
-    documentation="Voorziening of verzameling van voorzieningen waarmee van de basisgegevens van de onderwijsidentiteit kunnen worden geregistreerd. De basisgegevens bestaan uit betrouwbare persoonsgegevens. Met de betrouwbare persoonsgegevens kan de onderwijsidentiteit, wanneer dit nodig is, herleid worden naar een natuurlijk persoon. Het zorgt er ook voor dat authenticatie- en identiteitsverklaringen van een hoger betrouwbaarheidsniveau kunnen zijn. ">
+    documentation="Verzameling van voorzieningen waarmee de basisgegevens van de onderwijsidentiteit kunnen worden geregistreerd. De basisgegevens bestaan uit betrouwbare persoonsgegevens. Met de betrouwbare persoonsgegevens kan de onderwijsidentiteit, wanneer dit nodig is, herleid worden naar een natuurlijk persoon. Het zorgt er ook voor dat authenticatie- en identiteitsverklaringen van een hoger betrouwbaarheidsniveau kunnen zijn. Ook de uitgifte van de wallet is een verantwoordelijkheid van de registratiedienst. Bij de uitgifte van de wallet moet een betrouwbare identiteitsverificatie uitgevoerd worden. ">
   <properties
       key="Type"
       value="dienst"/>

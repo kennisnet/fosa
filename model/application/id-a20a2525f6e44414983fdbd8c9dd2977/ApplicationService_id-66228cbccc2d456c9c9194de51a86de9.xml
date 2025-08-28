@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Federatieve hub"
     id="id-66228cbccc2d456c9c9194de51a86de9"
-    documentation="Voorziening of verzameling van voorzieningen waarmee de federatie van identiteitsgegevens via een gedelegeerde identiteitsprovider geregeld wordt. De hub functioneert als een intermediair tussen authenticatiediensten, de identiteitsprovider en de diensten van dienstverleners. Wallets kunnen identiteitsverklaringen of identificerende attributen bevatten en deze verstrekken zonder actieve tussenkomst van een identiteitsprovider.  Dit kan in combinatie met een federatie: dan worden de identiteitsverklaringen uit de wallet doorgegeven en/of getransformeerd door de hub. Dit kan ook in een scenario zonder federatie: alle diensten begrijpen en vertrouwen dan de verklaringen die vanuit de wallet worden verstrekt. ">
+    documentation="De federatieve hub  zorgt voor ontkoppeling van toegangsdienst (onderwijswallet) en digitale diensten waar onderwijsbetrokkene gebruik van maken. Het biedt de onderwijsbetrokkene een Single Sign-On (SSO) ervaring. Partijen die met hun diensten aansluiten op de hub vertrouwen  de verklaringen van de onderwijswallets en de hub die ze doorstuurt. &#xD;&#xA;De federatieve hub ondersteunt de volgende generieke functies:&#xD;&#xA;*&#x9;wallet in federatief stelsel.&#xD;&#xA;">
   <properties
       key="Type"
       value="dienst"/>
