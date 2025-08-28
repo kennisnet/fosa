@@ -1,8 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leermateriaalgebruikdiensten"
+    name="Leermiddelgebruikdiensten"
     id="id-94b7bc59f6d0458199fb2ad3e8d38df5"
-    documentation="Verzameling van voorzieningen waarin informatie over het gebruik van een digitaal leermateriaal door een eindgebruiker (bijvoorbeeld frequentie van gebruik, laatste keer gebruikt etc) beschikbaar is.&#xD;&#xA;">
+    documentation="Verzameling van voorzieningen waarin informatie over het gebruik van een digitale leermiddelen door een eindgebruiker (bijvoorbeeld frequentie van gebruik, laatste keer gebruikt etc) beschikbaar is.&#xD;&#xA;">
   <properties
       key="Type"
       value="dienst"/>
