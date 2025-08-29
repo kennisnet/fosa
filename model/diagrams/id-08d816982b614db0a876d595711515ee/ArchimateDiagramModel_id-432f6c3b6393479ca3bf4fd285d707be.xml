@@ -1192,22 +1192,6 @@
         href="Assessment_id-a948d52df5a74d5d8e76f294d4e51bfb.xml#id-a948d52df5a74d5d8e76f294d4e51bfb"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-02cd2fb904d445b28f75c9d39f8f41bb"
-      textAlignment="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <features
-        name="labelExpression"
-        value="Auteur: $view{property:Auteur}&#xA;Status: $view{property:Status}&#xA;Datum: $view{property:Datum}&#xA;"/>
-    <bounds
-        x="48"
-        y="24"
-        width="200"
-        height="70"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c18069fa5238462594b22839fe9092ac"
       targetConnections="id-39a05d5f7d8042a5a7f8944a1fed3938 id-8b860aac7d104002a9f0b0818268ad00"
