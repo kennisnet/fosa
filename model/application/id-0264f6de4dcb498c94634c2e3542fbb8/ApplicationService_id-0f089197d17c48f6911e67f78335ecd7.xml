@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosterdiensten"
+    id="id-0f089197d17c48f6911e67f78335ecd7"
+    documentation="Verzameling van voorzieningen die het proces van roosteren ondersteunen zowel binnen een onderwijsaanbieder als over meerdere onderwijsaanbieders (al of niet behorend tot eenzelfde onderwijsbestuur), daarbij rekening houdend met diverse vormen van flexibele leerroutes. ">
+  <properties
+      key="Type"
+      value="dienst"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-09-10"/>
+</archimate:ApplicationService>

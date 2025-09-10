@@ -1169,6 +1169,15 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-d18c9123524148edb7f4db35a26fbe77.xml#id-d18c9123524148edb7f4db35a26fbe77"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9aa5c270859f459aa66b17c581bba40e"
+        source="id-908b0a4e01424978ad3199250e1d58db"
+        target="id-8b83da5fb3c94ae78a133669bdc4207e">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-4354e590471e4983b1b99d2fa4e4ce59.xml#id-4354e590471e4983b1b99d2fa4e4ce59"/>
+    </sourceConnections>
     <bounds
         x="96"
         y="852"
@@ -1246,6 +1255,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c07c4122c2274b59bc1a5bbc4b0e8fea"
         targetConnections="id-d53dc630893b489bb79fb1855dae430e"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
       <features
           name="gradient"
@@ -1280,7 +1290,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a2e0c7131d264bc18e64ff395d9c1d54"
         targetConnections="id-838a8cceecd041fd85e76df484115010"
-        font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
       <features
           name="gradient"
@@ -1379,6 +1389,24 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-689f0fe2bda24080a350d6e0d889fcbf.xml#id-689f0fe2bda24080a350d6e0d889fcbf"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8b83da5fb3c94ae78a133669bdc4207e"
+        targetConnections="id-9aa5c270859f459aa66b17c581bba40e"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="0"/>
+      <bounds
+          x="1164"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-0f089197d17c48f6911e67f78335ecd7.xml#id-0f089197d17c48f6911e67f78335ecd7"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
