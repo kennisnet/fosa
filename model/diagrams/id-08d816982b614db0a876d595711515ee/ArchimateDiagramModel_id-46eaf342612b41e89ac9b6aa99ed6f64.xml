@@ -43,7 +43,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5a5af001bfad4ac49c6fb0025f437307"
-        targetConnections="id-0474f388640d4805a691f93e7d0307a6 id-e7270804592846c1b29a0633d3f2c5da id-f98c2009d7c5464e81dfc333a14b74c6 id-9373c24082454a4e95048030071f97c8"
+        targetConnections="id-0474f388640d4805a691f93e7d0307a6 id-f98c2009d7c5464e81dfc333a14b74c6 id-9373c24082454a4e95048030071f97c8"
         textPosition="1">
       <features
           name="gradient"
@@ -945,15 +945,6 @@
       fillColor="#f4c6aa">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bde841f989c441459b5aadd1507403a7"
-        source="id-5039782340f84d3389a1e5340ee61a0d"
-        target="id-61c6eafdc903454db5e0db59d67a0e10">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-838a5e7496f14402af39c1c8db5c4bbb.xml#id-838a5e7496f14402af39c1c8db5c4bbb"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-aac23b44831d4d0093b12bd882ee9db0"
         source="id-5039782340f84d3389a1e5340ee61a0d"
         target="id-abbe489a191c4a218929aa60eaae727e">
@@ -996,24 +987,6 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-0f7915fb8ae748b9b6922677c73de449.xml#id-0f7915fb8ae748b9b6922677c73de449"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a3bd32b385794cd7a89a9f733afb21de"
-        source="id-5039782340f84d3389a1e5340ee61a0d"
-        target="id-b9e65b2baac6494b909967ac3d40dff3">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-6c8d462337194a548060d866a7348b53.xml#id-6c8d462337194a548060d866a7348b53"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-696c6336ad7747af9df818fe5962da45"
-        source="id-5039782340f84d3389a1e5340ee61a0d"
-        target="id-c5c15cb556b646fe9b5a118ff086d085">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-838a5e7496f14402af39c1c8db5c4bbb.xml#id-838a5e7496f14402af39c1c8db5c4bbb"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1077,27 +1050,12 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-61c6eafdc903454db5e0db59d67a0e10"
-        targetConnections="id-bde841f989c441459b5aadd1507403a7"
         font="1|Segoe UI|9.0|3|WINDOWS|1|-12|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
         lineWidth="3"
         textPosition="1">
       <features
           name="gradient"
           value="0"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e7270804592846c1b29a0633d3f2c5da"
-          source="id-61c6eafdc903454db5e0db59d67a0e10"
-          target="id-5a5af001bfad4ac49c6fb0025f437307">
-        <bendpoints
-            startX="131"
-            startY="-3"
-            endX="6"
-            endY="351"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-246a44f2efaf40b6bc6f3a62c3f356d7.xml#id-246a44f2efaf40b6bc6f3a62c3f356d7"/>
-      </sourceConnections>
       <bounds
           x="24"
           y="36"
@@ -1233,7 +1191,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c5c15cb556b646fe9b5a118ff086d085"
-        targetConnections="id-696c6336ad7747af9df818fe5962da45"
         font="1|Segoe UI|9.0|3|WINDOWS|1|-12|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
         lineWidth="3"
         textPosition="1">
@@ -1266,7 +1223,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b9e65b2baac6494b909967ac3d40dff3"
-        targetConnections="id-a3bd32b385794cd7a89a9f733afb21de"
         textPosition="1">
       <features
           name="gradient"
