@@ -74,10 +74,10 @@
           href="AggregationRelationship_id-349be8de68504c18b461a7d1d584900b.xml#id-349be8de68504c18b461a7d1d584900b"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="288"
-        width="1477"
-        height="685"/>
+        x="72"
+        y="300"
+        width="1441"
+        height="649"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-db2d4985fb5b4b17ac238ccf7e3cec83"
@@ -86,10 +86,10 @@
         textAlignment="1"
         fillColor="#ecabef">
       <bounds
-          x="24"
-          y="36"
+          x="12"
+          y="24"
           width="193"
-          height="625"/>
+          height="613"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e3952e7520b349bb98603f90a1aef493"
@@ -109,7 +109,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="336"
+            y="324"
             width="169"
             height="67"/>
         <archimateElement
@@ -128,10 +128,10 @@
         textAlignment="1"
         fillColor="#cab6da">
       <bounds
-          x="228"
-          y="36"
+          x="216"
+          y="24"
           width="193"
-          height="625"/>
+          height="613"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-cab2992e2a194cf3a94a1f1e986ff961"
@@ -151,7 +151,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="336"
+            y="324"
             width="169"
             height="67"/>
         <archimateElement
@@ -170,10 +170,10 @@
         textAlignment="1"
         fillColor="#ffaaaa">
       <bounds
-          x="432"
-          y="34"
+          x="420"
+          y="22"
           width="193"
-          height="627"/>
+          height="615"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0b11936e1b33424da63bd93f55efad1c"
@@ -193,7 +193,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="48"
+            y="36"
             width="169"
             height="67"/>
         <archimateElement
@@ -219,7 +219,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="120"
+            y="108"
             width="169"
             height="67"/>
         <archimateElement
@@ -245,7 +245,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="264"
+            y="252"
             width="169"
             height="67"/>
         <archimateElement
@@ -271,7 +271,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="192"
+            y="180"
             width="169"
             height="67"/>
         <archimateElement
@@ -297,7 +297,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="408"
+            y="396"
             width="169"
             height="67"/>
         <archimateElement
@@ -323,7 +323,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="480"
+            y="468"
             width="169"
             height="67"/>
         <archimateElement
@@ -340,7 +340,7 @@
             value="0"/>
         <bounds
             x="12"
-            y="552"
+            y="540"
             width="169"
             height="67"/>
         <archimateElement
@@ -357,7 +357,7 @@
             value="0"/>
         <bounds
             x="12"
-            y="336"
+            y="324"
             width="169"
             height="67"/>
         <archimateElement
@@ -376,10 +376,10 @@
         textAlignment="1"
         fillColor="#dac2b8">
       <bounds
-          x="636"
-          y="36"
+          x="624"
+          y="24"
           width="193"
-          height="625"/>
+          height="613"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5f58f81cc59b4db4b658e0e5a2ca9910"
@@ -399,7 +399,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="192"
+            y="180"
             width="169"
             height="67"/>
         <archimateElement
@@ -425,7 +425,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="408"
+            y="396"
             width="169"
             height="67"/>
         <archimateElement
@@ -451,7 +451,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="480"
+            y="468"
             width="169"
             height="67"/>
         <archimateElement
@@ -477,7 +477,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="552"
+            y="540"
             width="169"
             height="67"/>
         <archimateElement
@@ -496,10 +496,10 @@
         textAlignment="1"
         fillColor="#baffb0">
       <bounds
-          x="840"
-          y="36"
+          x="828"
+          y="24"
           width="193"
-          height="625"/>
+          height="613"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d73217a26eff4665b4985fff5cb8fd7f"
@@ -519,7 +519,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="48"
+            y="36"
             width="169"
             height="67"/>
         <archimateElement
@@ -545,7 +545,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="120"
+            y="108"
             width="169"
             height="67"/>
         <archimateElement
@@ -571,7 +571,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="264"
+            y="252"
             width="169"
             height="67"/>
         <archimateElement
@@ -590,10 +590,10 @@
         textAlignment="1"
         fillColor="#c4c4ff">
       <bounds
-          x="1044"
-          y="36"
+          x="1032"
+          y="24"
           width="193"
-          height="625"/>
+          height="613"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-463631782b0f4d47a9910230bdc39b9c"
@@ -613,7 +613,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="48"
+            y="36"
             width="169"
             height="67"/>
         <archimateElement
@@ -639,7 +639,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="120"
+            y="108"
             width="169"
             height="67"/>
         <archimateElement
@@ -665,7 +665,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="264"
+            y="252"
             width="169"
             height="67"/>
         <archimateElement
@@ -684,10 +684,10 @@
         textAlignment="1"
         fillColor="#ffcdb5">
       <bounds
-          x="1248"
-          y="36"
+          x="1236"
+          y="24"
           width="193"
-          height="625"/>
+          height="613"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f5338a7709a245cda1d1e6bb64c2790d"
@@ -707,7 +707,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="48"
+            y="36"
             width="169"
             height="67"/>
         <archimateElement
@@ -733,7 +733,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="120"
+            y="108"
             width="169"
             height="67"/>
         <archimateElement
@@ -759,7 +759,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="192"
+            y="180"
             width="169"
             height="67"/>
         <archimateElement
@@ -785,7 +785,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="264"
+            y="252"
             width="169"
             height="67"/>
         <archimateElement
@@ -811,7 +811,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="408"
+            y="396"
             width="169"
             height="67"/>
         <archimateElement
@@ -837,7 +837,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="480"
+            y="468"
             width="169"
             height="67"/>
         <archimateElement
