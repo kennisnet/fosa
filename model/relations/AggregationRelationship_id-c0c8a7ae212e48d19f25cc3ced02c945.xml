@@ -1,18 +1,10 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-0084007481bb4a24a95e083d8ae3905e">
-  <properties
-      key="Type"/>
-  <properties
-      key="Status"
-      value="Concept"/>
-  <properties
-      key="Datum"
-      value="2025-06-25"/>
+    id="id-c0c8a7ae212e48d19f25cc3ced02c945">
   <source
       xsi:type="archimate:Grouping"
-      href="Grouping_id-2626a75467fe4edc8db6836466265a53.xml#id-2626a75467fe4edc8db6836466265a53"/>
+      href="Grouping_id-925d7d1fd67f410c9b0cf49809df2793.xml#id-925d7d1fd67f410c9b0cf49809df2793"/>
   <target
       xsi:type="archimate:Assessment"
       href="Assessment_id-898569860f18411f882e77ec49276098.xml#id-898569860f18411f882e77ec49276098"/>

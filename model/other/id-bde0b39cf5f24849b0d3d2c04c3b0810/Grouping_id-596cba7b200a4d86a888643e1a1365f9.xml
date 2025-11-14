@@ -1,4 +1,17 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwerpprincipes"
-    id="id-596cba7b200a4d86a888643e1a1365f9"/>
+    id="id-596cba7b200a4d86a888643e1a1365f9">
+  <properties
+      key="Type"
+      value="architectuurkader"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Status"
+      value="Concept"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Grouping>

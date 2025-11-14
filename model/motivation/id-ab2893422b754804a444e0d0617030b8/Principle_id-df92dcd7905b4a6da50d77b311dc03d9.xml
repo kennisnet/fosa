@@ -1,15 +1,18 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Principe"
+    name="Architectuurkaders"
     id="id-df92dcd7905b4a6da50d77b311dc03d9"
-    documentation="Richtinggevende en bindende uitspraak die gebruikt wordt bij beslissingen over de inrichting van het informatielandschap. &#xD;&#xA;Principes van FOSA zijn afkomstig uit ROSA, geselecteerd en (in formulering, motivatie, gevolgen) toegespitst op de doelstellingen van FOSA.">
+    documentation="Het geheel van drivers, kernwaarden, kwaliteitsdoelen, architectuurprincipes, ontwerpprincipes en ontwerpkaders dat normatief is voor de implementatie van ketensamenwerkingen en voorzieningen.&#xD;&#xA;">
   <properties
       key="Type"
-      value="principe"/>
+      value="architectuurkader"/>
+  <properties
+      key="Toelichting"
+      value="Architectuurkaders van de FOSA zijn grotendeels afkomstig uit ROSA, geselecteerd en (in formulering, motivatie, gevolgen) toegespitst op de doelstellingen van FOSA."/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-06-25"/>
+      value="2025-11-14"/>
 </archimate:Principle>
