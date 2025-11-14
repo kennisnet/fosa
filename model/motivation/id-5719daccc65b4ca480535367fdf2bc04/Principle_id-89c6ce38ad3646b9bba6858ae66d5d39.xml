@@ -1,4 +1,21 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP07. Veilig"
-    id="id-89c6ce38ad3646b9bba6858ae66d5d39"/>
+    name="OP07. Identiteits- en authenticatieverklaringen zijn gebaseerd op een normenkader betrouwbaarheidsniveaus "
+    id="id-89c6ce38ad3646b9bba6858ae66d5d39"
+    documentation="De onderwijsidentiteit en de digitale diensten waar onderwijsbetrokkenen gebruik van maken moeten veilig en betrouwbaar zijn. Een dienst die bijvoorbeeld hun persoonsgegevens verwerkt moet veilig zijn en alleen bevoegden toegang geven tot de dienst. Hierbij is het van belang dat de dienst een bepaalde mate van zekerheid heeft dat degene die zich heeft geauthenticeerd ook daadwerkelijk die persoon is. Binnen het funderend onderwijs wordt er al op gestuurd om de onderwijsprocessen veiliger en privacy-bestendig te maken, maar een normenkader betrouwbaarheidsniveaus ontbreekt nog. Een normenkader betrouwbaarheidsniveaus zorgt ervoor dat er uniformiteit is hoe vastgesteld wordt dat degene die zich authenticeert ook daadwerkelijk die persoon is. Een bepaald betrouwbaarheidsniveau (bijvoorbeeld ‘substantieel’ of ‘hoog’) hangt samen met specifieke maatregelen. Een dienst die persoonsgegevens verwerkt bepaalt op basis van een risicoanalyse het vereiste betrouwbaarheidsniveau van de identiteits- en authenticatieverklaring. ">
+  <properties
+      key="Type"
+      value="principe"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Veiligheid"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Integriteit"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Principle>

@@ -1,4 +1,21 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP09. Doelmatig"
-    id="id-37a2e09cd7524102a7a949cfdc935e60"/>
+    name="OP09. Het identiteitsstelsel ontlast de hele onderwijssector"
+    id="id-37a2e09cd7524102a7a949cfdc935e60"
+    documentation="Het is inefficiënt als elke organisatie of onderwijssector voor zich oplossingen rond digitale identiteiten gaat invullen. Dit document sluit aan op visies uit andere onderwijssectoren en zorgt voor een efficiënte en doelgerichte doorontwikkeling van digitale identiteit binnen het onderwijs. Onderwijsbetrokkenen en diensten zullen meer flexibiliteit ervaren. Onderwijsbetrokkenen hoeven ook met toepassing van betrouwbaarheidsniveaus over het algemeen maar één keer te authentiseren (SSO, zolang de gebruikte diensten een gelijkwaardig betrouwbaarheidsniveau vereisen, anders wordt er een step-up optie geboden) om gebruik te maken van verschillende diensten. Zij kunnen hun bevoegdheden die zij van onderwijsorganisaties hebben gekregen aantonen of bijvoorbeeld een diploma of een adres delen. Het uiteindelijke identiteitsstelsel zal dienstaanbieders duidelijkheid bieden rond de rol waarin zij acteren en de verantwoordlijkheden die hiermee samenhangen. ">
+  <properties
+      key="Type"
+      value="principe"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Doelmatigheid"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Efficiëntie"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Principle>

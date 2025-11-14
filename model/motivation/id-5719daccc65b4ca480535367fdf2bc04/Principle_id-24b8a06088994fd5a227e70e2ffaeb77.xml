@@ -1,4 +1,21 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP08. Toekomstgericht"
-    id="id-24b8a06088994fd5a227e70e2ffaeb77"/>
+    name="OP08. Het identiteitsstelsel is toekomstbestendig en adaptief"
+    id="id-24b8a06088994fd5a227e70e2ffaeb77"
+    documentation="Digitale identiteiten en bijbehorende technologieën ontwikkelen zich snel. Ook wet- en regelgeving rond privacy en gegevensbescherming zien we in de nabije toekomst veranderen. Het identiteitsstelsel moet flexibel zijn en zich kunnen aanpassen op deze ontwikkelingen. Het identiteitsstelsel ondersteunt een breed toepasbare onderwijsidentiteit zonder afbreuk aan privacy, veiligheid of andere publieke waarden. ">
+  <properties
+      key="Type"
+      value="principe"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Toekomstgerichtheid"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Wendbaarheid"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Principle>

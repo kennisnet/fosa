@@ -150,7 +150,7 @@
         id="id-8d562dc279d64a7098195160b590e89b"
         targetConnections="id-acd8e5def46b4ca08b1f9677110dae60">
       <bounds
-          x="36"
+          x="24"
           y="180"
           width="169"
           height="79"/>
@@ -163,7 +163,7 @@
         id="id-6d6381b4aea947ac9fedfdac7f16a130"
         targetConnections="id-010d528868114c10bcc6d8ec4f0dd5c9">
       <bounds
-          x="216"
+          x="564"
           y="180"
           width="169"
           height="79"/>
@@ -176,7 +176,7 @@
         id="id-73015de49928449da26d9fd2125cfa00"
         targetConnections="id-433752726aa74820ad3c5fd40688d45f">
       <bounds
-          x="576"
+          x="744"
           y="180"
           width="169"
           height="79"/>
@@ -189,9 +189,9 @@
         id="id-d1294a699bff4ad0bc36d27f181e2702"
         targetConnections="id-6b48fcf5f74a4b758681eeac4fcdeaf2">
       <bounds
-          x="396"
+          x="204"
           y="180"
-          width="169"
+          width="229"
           height="79"/>
       <archimateElement
           xsi:type="archimate:Principle"
