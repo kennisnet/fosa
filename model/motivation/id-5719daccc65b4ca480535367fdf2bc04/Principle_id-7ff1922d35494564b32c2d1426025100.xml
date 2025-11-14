@@ -1,4 +1,21 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP06. Vertrouwen - Biometrie"
-    id="id-7ff1922d35494564b32c2d1426025100"/>
+    name="OP06. Biometrie wordt terughoudend (niet, tenzij) toegepast"
+    id="id-7ff1922d35494564b32c2d1426025100"
+    documentation="De toepassing van biometrie is privacygevoelig en vereist passende maatregelen. De basis van de onderwijsidentiteit bestaat uit betrouwbare persoonsgegevens uit het overheidsdomein. Bij het registratieproces binnen het overheidsdomein wordt waarschijnlijk biometrie toegepast. Biometrie kan dus ingezet worden daar waar het echt nodig is. Een bredere toepassing (bijvoorbeeld voor authenticatie) kan echter alleen als het na een zorgvuldige afweging noodzakelijk is gebleken (niet, tenzij). ">
+  <properties
+      key="Type"
+      value="principe"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Vertrouwen"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Transparantie"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Principle>

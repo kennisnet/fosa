@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP02. Identiteiten zijn niet gebonden aan grenzen"
+    name="OP02. Identiteiten zijn niet gebonden aan organisatie- en sectorgrenzen"
     id="id-a7fe6ce83661408fb7d0b3d79a41f44d"
-    documentation="Het identiteitsstelsel faciliteert gebruikersregie en uitwisseling van de onderwijsidentiteit over de grenzen van individuele organisaties en sectoren.">
+    documentation="Leerlingen, medewerkers en gasten zullen over de (traditionele) organisatie- en sectorgrenzen heen hun onderwijsidentiteit gebruiken en digitale diensten afnemen. Tussen onderwijsorganisaties zal er meer samenwerking zijn en onderwijs en de begeleiding van leerlingen zal zich in toenemende mate buiten de muren van de “eigen” onderwijsorganisatie afspelen. Het is dus essentieel dat ook de onderwijsidentiteit over de grenzen van onderwijsorganisaties en sectoren heen beschikbaar is voor onderwijsbetrokkene. Dit vermindert koppelcomplexiteit, verbetert ketensamenwerking en zorgt ervoor dat alleen actuele en noodzakelijke gegevens circuleren. Regie over de onderwijsidentiteit betekent dat onderwijsbetrokkenen hun onderwijsidentiteit voor toegang kunnen gebruiken en deze ook kunnen verrijken met allerlei onderwijsgegevens en deze kunnen delen. Het betekent niet dat alle onderwijsbetrokkenen altijd volledige zelfbeschikking over de onderwijsidentiteit hebben. Gedurende het funderend onderwijs geldt de leerplicht voor leerlingen en dit samen met hun minderjarigheid maakt dat er specifieke gevallen zullen zijn waar de onderwijsorganisatie vanuit hun wettelijke taak handelen en regie voeren over de onderwijsidentiteit. ">
   <properties
       key="Type"
       value="principe"/>
@@ -10,8 +10,17 @@
       key="Subtype"
       value="ontwerpprincipe"/>
   <properties
+      key="Relatie met kernwaarde"
+      value="Vertrouwen"/>
+  <properties
       key="Relatie met kwaliteitsdoel"
+      value="Privacy"/>
+  <properties
+      key="Relatie met kernwaarde"
       value="Autonomie"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Zelfbeschikking"/>
   <properties
       key="Datum"
       value="2025-11-14"/>

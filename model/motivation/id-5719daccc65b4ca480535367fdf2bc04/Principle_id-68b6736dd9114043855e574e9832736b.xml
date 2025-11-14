@@ -1,4 +1,27 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP05. Vertrouwen - Onderwijsidentiteit"
-    id="id-68b6736dd9114043855e574e9832736b"/>
+    name="OP05. De onderwijsbetrokkene voert zelf regie over de onderwijsidentiteit"
+    id="id-68b6736dd9114043855e574e9832736b"
+    documentation="Het beheer van de onderwijsidentiteit wordt niet meer door de onderwijsorganisatie uitgevoerd voor de duur van een opleiding of contract. De onderwijsbetrokkene komt centraal te staan en voert zelf regie over de onderwijsidentiteit die bestaat zolang als de onderwijsbetrokkene wenselijk acht. De basis van de onderwijsidentiteit is betrouwbaar doordat deze gecreëerd wordt vanuit dezelfde bron als waar DUO gebruik van maakt voor de identiteitsverificatie. De onderwijsidentiteit moet betrouwbaar zijn zodat partijen hierop kunnen vertrouwen. Ook kunnen er afgeleide gegevens gedeeld worden, bijvoorbeeld ‘ouder dan 18 jaar’. De processen en diensten van de onderwijsorganisatie moeten met deze nieuwe situatie om kunnen gaan. ">
+  <properties
+      key="Type"
+      value="principe"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Vertrouwen"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Betrouwbaarheid"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Autonomie"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Zelfbeschikking"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Principle>

@@ -1,4 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OP04. Vertrouwen - Gegevensuitwisseling"
-    id="id-1b590b40e0a04feface8ed8b2e55022a"/>
+    name="OP04. Het identiteitsstelsel zorgt voor beheersbare gegevensuitwisseling"
+    id="id-1b590b40e0a04feface8ed8b2e55022a"
+    documentation="Het identiteitsstelsel zorgt voor contextafhankelijke, veilig en proportionele gegevensuitwisseling. Bij het delen van persoonsgegevens is het van belang dat de privacy is geborgd. Onderwijsbetrokkenen moeten bij het toegangsproces niet om meer gegevens gevraagd worden dan nodig, of deze zelf delen. ">
+  <properties
+      key="Type"
+      value="principe"/>
+  <properties
+      key="Subtype"
+      value="ontwerpprincipe"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Vertrouwen"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Privacy"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Veiligheid"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Vertrouwelijkheid"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Doelmatigheid"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Noodzakelijkheid"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:Principle>
