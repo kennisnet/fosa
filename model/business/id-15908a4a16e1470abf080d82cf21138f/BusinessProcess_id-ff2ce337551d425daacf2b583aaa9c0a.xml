@@ -1,4 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren authenticatiemiddelen"
-    id="id-ff2ce337551d425daacf2b583aaa9c0a"/>
+    id="id-ff2ce337551d425daacf2b583aaa9c0a">
+  <properties
+      key="Type"
+      value="proces"/>
+  <properties
+      key="Subtype"
+      value="generieke functie"/>
+  <properties
+      key="Datum"
+      value="2025-11-14"/>
+</archimate:BusinessProcess>
