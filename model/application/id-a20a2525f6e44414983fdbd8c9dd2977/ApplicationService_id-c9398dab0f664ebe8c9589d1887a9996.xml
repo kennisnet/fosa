@@ -7,9 +7,15 @@
       key="Type"
       value="dienst"/>
   <properties
+      key="Subtype"
+      value="generieke functie"/>
+  <properties
+      key="IV-domein"
+      value="gegevensuitwisseling"/>
+  <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
-      value="2025-06-25"/>
+      value="2025-11-18"/>
 </archimate:ApplicationService>
