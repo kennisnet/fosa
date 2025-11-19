@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OP01. Alle onderwijsbetrokkenen hebben een onderwijsidentiteit"
     id="id-19df9e7fc9bc425dab68b11b12f82685"
-    documentation="Onderwijsbetrokkenen kunnen beschikken over een onderwijsidentiteit waarmee ze toegang kunnen krijgen tot digitale diensten en gegevens kunnen delen.">
+    documentation="Onderwijsbetrokkenen kunnen beschikken over een onderwijsidentiteit waarmee ze toegang kunnen krijgen tot digitale diensten en gegevens kunnen delen. De digitalisering binnen het onderwijs neemt toe en hierin staat de digitale identiteit van onderwijsbetrokkenen centraal. Het is dus belangrijk dat alle onderwijsbetrokkenen kunnen beschikken over een betrouwbare onderwijsidentiteit die zij ook kunnen gebruiken. We weten dat er onderwijsbetrokkenen zullen zijn die extra ondersteuning nodig hebben in het digitale domein. Bijvoorbeeld een leerling met een taalachterstand of een medewerker met een bepaalde persoonlijke omstandigheid. We willen voorkomen dat een deel van de onderwijsbetrokkenen wordt uitgesloten of onnodige obstakels ervaren in het digitale domein. ">
   <properties
       key="Type"
       value="principe"/>
@@ -15,6 +15,12 @@
   <properties
       key="Relatie met kwaliteitsdoel"
       value="Inclusiviteit"/>
+  <properties
+      key="Relatie met kernwaarde"
+      value="Rechtvaardigheid"/>
+  <properties
+      key="Relatie met kwaliteitsdoel"
+      value="Toegankelijkheid"/>
   <properties
       key="Datum"
       value="2025-11-14"/>

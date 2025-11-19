@@ -1399,24 +1399,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-99d90031632d4ac796d325a5b9195869"
-        font="1|Segoe UI|9.0|3|WINDOWS|1|-12|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
-        lineWidth="3"
-        textPosition="1">
-      <features
-          name="gradient"
-          value="0"/>
-      <bounds
-          x="641"
-          y="228"
-          width="181"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-bd7be1ccc9b34f859d586d2f1f2652db.xml#id-bd7be1ccc9b34f859d586d2f1f2652db"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5cd7c14930de489a8245995b2ed98d5a"
         targetConnections="id-40a662dd311a4aafb879268dbf16dd8d"
         font="1|Segoe UI|9.0|3|WINDOWS|1|-12|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
