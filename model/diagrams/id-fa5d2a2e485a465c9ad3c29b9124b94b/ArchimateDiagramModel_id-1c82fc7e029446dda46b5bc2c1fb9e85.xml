@@ -419,24 +419,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4b22d48ee5c247ec9fb3834891e5532b"
-        targetConnections="id-1be89e9fbe0e445e8fad9e5aade09d38"
-        fillColor="#fe8e91"
-        textPosition="1">
-      <features
-          name="gradient"
-          value="0"/>
-      <bounds
-          x="264"
-          y="264"
-          width="157"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-36b3eeabbc084b009c2357d85ef8244c.xml#id-36b3eeabbc084b009c2357d85ef8244c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-71d31d26fa954f9696b67ec6fc558abe"
         targetConnections="id-9c981ea6e64548359db205eb16eb8aab"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
@@ -457,15 +439,6 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-7138353914a84906bb28910310020334.xml#id-7138353914a84906bb28910310020334"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-1be89e9fbe0e445e8fad9e5aade09d38"
-          source="id-71d31d26fa954f9696b67ec6fc558abe"
-          target="id-4b22d48ee5c247ec9fb3834891e5532b">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-a953b9f3d75344bdbb6f92274e6f7d53.xml#id-a953b9f3d75344bdbb6f92274e6f7d53"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
