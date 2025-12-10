@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Internationale portalen"
-    id="id-56a76e128dc049c1924e65537420c76c"/>
+    id="id-56a76e128dc049c1924e65537420c76c">
+  <properties
+      key="Type"
+      value="portaal"/>
+</archimate:ApplicationComponent>
