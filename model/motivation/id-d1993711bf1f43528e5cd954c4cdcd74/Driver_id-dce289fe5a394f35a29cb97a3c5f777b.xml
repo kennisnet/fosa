@@ -2,14 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leven lang ontwikkelen"
     id="id-dce289fe5a394f35a29cb97a3c5f777b"
-    documentation="Het onderwijssysteem in Nederland is gestructureerd in verschillende sectoren. Elke sector kent een unieke wetgeving, financiering en organisatievorm. Onderwijsdeelnemers stappen tijdens hun onderwijsloopbaan van de ene sector over naar een volgende onderwijssector en uiteindelijk ook naar werk. Het is vanuit het oogpunt van de kwaliteit en effectiviteit van ons onderwijssysteem van groot belang dat onderwijsprocessen in verschillende sectoren goed op elkaar aansluiten. Dan kunnen onderwijsdeelnemers soepel de best bij hen passende route door het systeem volgen en kunnen zij zo goed mogelijk worden ondersteund in hun ontwikkeling en groei.">
+    documentation="Gedurende het hele leven (pro)actief ontplooien van kwaliteiten op basis van eigen interesses en waarden voor een duurzame bijdrage aan de samenleving, eigen gezondheid en geluk.">
   <properties
       key="Type"
       value="drijfveer"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Het onderwijssysteem in Nederland is gestructureerd in verschillende sectoren. Elke sector kent een unieke wetgeving, financiering en organisatievorm. Onderwijsdeelnemers stappen tijdens hun onderwijsloopbaan van de ene sector over naar een volgende onderwijssector en uiteindelijk ook naar werk. Het is vanuit het oogpunt van de kwaliteit en effectiviteit van ons onderwijssysteem van groot belang dat onderwijsprocessen in verschillende sectoren goed op elkaar aansluiten. Dan kunnen onderwijsdeelnemers soepel de best bij hen passende route door het systeem volgen en kunnen zij zo goed mogelijk worden ondersteund in hun ontwikkeling en groei."/>
   <properties
-      key="Datum"
-      value="2025-08-15"/>
+      key="Externe verwijzing"
+      value="https://www.scienceguide.nl/2019/05/een-loopbaanperspectief-op-leven-lang-ontwikkelen/"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.rijksoverheid.nl/onderwerpen/leven-lang-ontwikkelen"/>
 </archimate:Driver>

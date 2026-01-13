@@ -2,17 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lerarentekort"
     id="id-b5501ba1d5874c00a5087f968737e0e4"
-    documentation="Er zijn te weinig leraren in het basisonderwijs, voortgezet onderwijs en middelbaar beroepsonderwijs. Ook is er een tekort aan schoolleiders (directeuren) in het basisonderwijs. Dat komt omdat veel oudere leraren met pensioen gaan, omdat er niet genoeg nieuwe leraren bij komen om de vergrijzing te compenseren en omdat er krapte is op de arbeidsmarkt en er veel alternatieve banen zijn. Vanuit het funderend onderwijs wordt benadrukt dat de huidige aanpak om personeel te behouden en aan te trekken belangrijk is, maar niet voldoende. ">
+    documentation="Het lerarentekort is een landelijk probleem, veroorzaakt door vergrijzing, een gebrek aan nieuwe instroom en krapte op de arbeidsmarkt waardoor er te weinig onderwijsprofessionals zijn.">
   <properties
       key="Type"
       value="drijfveer"/>
   <properties
+      key="Toelichting"
+      value="Er zijn te weinig leraren in het basisonderwijs, voortgezet onderwijs en middelbaar beroepsonderwijs. Ook is er een tekort aan schoolleiders (directeuren) in het basisonderwijs. Dat komt omdat veel oudere leraren met pensioen gaan, omdat er niet genoeg nieuwe leraren bij komen om de vergrijzing te compenseren en omdat er krapte is op de arbeidsmarkt en er veel alternatieve banen zijn. Vanuit het funderend onderwijs wordt benadrukt dat de huidige aanpak om personeel te behouden en aan te trekken belangrijk is, maar niet voldoende. "/>
+  <properties
       key="Externe verwijzing"
       value="https://www.vo-raad.nl/nieuws/tekort-onderwijspersoneel-is-en-blijft-groot"/>
-  <properties
-      key="Status"
-      value="Concept"/>
-  <properties
-      key="Datum"
-      value="2025-08-15"/>
 </archimate:Driver>
