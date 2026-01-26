@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Efficiëntie"
     id="id-33a8fd0b9fc845b59d82f54149e5c201"
-    documentation="De mate waarin met de beschikbare middelen een zo goed mogelijk resultaat wordt bereikt.">
+    documentation="De mate waarin met een dienst met de beschikbare middelen een zo goed mogelijk resultaat wordt bereikt. In geval van ketensamenwerkingen worden er geen overlappende verwerkingen uitgevoerd en zo onnodige kosten voor andere ketenpartners (dienstverleners en afnemers) vermeden. ">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Betere dienstverlening door digitalisering gaat in veel gevallen gepaard met een efficiëntere bedrijfsvoering en daarmee met lagere kosten voor dienstverleners en afnemers. Dienstverleners en afnemers verwachten een juist gebruik van middelen, dus zonder verspilling, en dat juist gebruik van middelen ook regelmatig wordt gecontroleerd."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-238e9c509166465aab84e37d699d8a29"/>
 </archimate:Value>
