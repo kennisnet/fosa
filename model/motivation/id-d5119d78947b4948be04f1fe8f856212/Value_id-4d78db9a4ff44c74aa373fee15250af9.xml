@@ -2,4 +2,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verantwoordbaarheid"
     id="id-4d78db9a4ff44c74aa373fee15250af9"
-    documentation="De mate waarin de keuzes die ten grondslag liggen aan de inrichting van de dienstverlening inzichtelijk zijn. "/>
+    documentation="De mate waarin de keuzes die ten grondslag liggen aan de inrichting van de dienstverlening inzichtelijk zijn. ">
+  <properties
+      key="Type"
+      value="kwaliteitsdoel"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Externe verwijzing"/>
+</archimate:Value>

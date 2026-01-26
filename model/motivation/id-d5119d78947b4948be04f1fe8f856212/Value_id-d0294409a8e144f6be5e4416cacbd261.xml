@@ -5,11 +5,17 @@
     documentation="De mate waarin afnemers en hun gebruikers informatie over diensten en producten vinden op de plaatsen waar ze die verwachten. ">
   <properties
       key="Type"
-      value="Kwaliteitsdoel"/>
+      value="kwaliteitsdoel"/>
   <properties
       key="Toelichting"
       value="In geval van ketensamenwerking verwijst de dienstverlener zo nodig door naar andere dienstverleners. De dienstverlening is alleen doelmatig als de afnemer de dienst kan vinden en ook de onderdelen van de dienst die voor de afnemers en hun gebruikers relevant zijn."/>
   <properties
       key="Externe verwijzing"
       value="https://www.noraonline.nl/wiki/Vindbaar_(Doel)"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Externe verwijzing"/>
 </archimate:Value>

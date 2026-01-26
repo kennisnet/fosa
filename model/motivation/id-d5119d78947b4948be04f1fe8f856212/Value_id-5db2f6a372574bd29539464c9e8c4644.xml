@@ -5,11 +5,17 @@
     documentation="De mate waarin ontwikkelingen in het onderwijsdomein onderling samenhangen.">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
       value="2020-01-01"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Externe verwijzing"/>
 </archimate:Value>

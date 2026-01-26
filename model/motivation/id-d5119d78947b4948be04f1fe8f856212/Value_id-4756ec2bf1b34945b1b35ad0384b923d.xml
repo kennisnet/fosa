@@ -5,11 +5,17 @@
     documentation="De mate waarin informatie alleen toegankelijk is voor degenen die hiertoe zijn geautoriseerd. Met 'toegang hebben tot' wordt zowel het raadplegen als het muteren, toevoegen en/of vernietigen van informatie bedoeld.">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
       value="2020-01-01"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Externe verwijzing"/>
 </archimate:Value>

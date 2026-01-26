@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betrouwbaarheid"
     id="id-cf0de27215334b0f8239fbae2a021b7e"
-    documentation="De mate waarin wordt voldaan aan vooraf bepaalde normen en informatie tijdig wordt verstrekt en correct, compleet en actueel is.&#xD;&#xA;&#xD;&#xA;--&#xD;&#xA;implicaties: Dit raakt inhoud en proces (en daarmee (ook) diensten). (Onderscheid inhoud / proces is hier van belang)">
+    documentation="De mate waarin wordt voldaan aan vooraf bepaalde normen en waarin informatie tijdig wordt verstrekt en correct, compleet en actueel is. ">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Afnemers kunnen er vanuit gaan dat dienstverleners betrouwbaar en voorspelbaar zijn in het leveren van hun diensten. De kwaliteit geleverde diensten voldoet aan vooraf bepaalde normen. Dienstverleners op hun beurt kunnen bij ketensamenwerkingen van elkaar uitgaan dat ze acteren als betrouwbare en voorspelbare ketenpartners. De monitoring en verantwoording hierop, alsmede de verbeteringen die hieruit voortvloeien zijn verankerd in onderlinge afspraken en in de eigen processen van ketenpartners. Deze worden zo continu verbeterd."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-8201e97053814fe0ae49b7c12aaa3a04"/>
 </archimate:Value>

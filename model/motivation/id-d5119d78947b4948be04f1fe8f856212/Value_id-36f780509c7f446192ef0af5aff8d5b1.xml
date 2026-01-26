@@ -5,11 +5,17 @@
     documentation="Kwaliteitsdoelen die door FOSA worden geadresserd. Hiermee sluit FOSA aan bij de indeling die ROSA en NORA hanteren. PRincipes en requirements van FOSA voegen waarde toe aan een of meer waarden.&#xD;&#xA;">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
       key="Status"
       value="Concept"/>
   <properties
       key="Datum"
       value="2025-06-25"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Externe verwijzing"/>
 </archimate:Value>
