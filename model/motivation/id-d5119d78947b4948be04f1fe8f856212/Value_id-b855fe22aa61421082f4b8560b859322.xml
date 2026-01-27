@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gezondheid en welzijn"
     id="id-b855fe22aa61421082f4b8560b859322"
-    documentation="De mate waarin de gezondheid en het welzijn van onderwijsdeelnemers en/of -medewerkers wordt gewaarborgd&#xD;&#xA;&#xD;&#xA;Duiding: Gezondheid en welzijn betreft de fysieke en mentale gesteldheid van onderwijsdeelnemers en medewerkers.&#xD;&#xA;">
+    documentation="De mate waarin binnen diensten de gezondheid en het welzijn van gebruikers wordt gewaarborgd.">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Gezondheid en welzijn betreft de fysieke en mentale gesteldheid van onderwijsdeelnemers, ondewijsmedewerkers en andere gebruikers die gebruikmaken van de diensten van dienstverleners en/of betrokken zijn bij de uitvoering van processen in ketensamenwerkingen."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-b73c0a7ef7354436a686ffb04293971f"/>
 </archimate:Value>

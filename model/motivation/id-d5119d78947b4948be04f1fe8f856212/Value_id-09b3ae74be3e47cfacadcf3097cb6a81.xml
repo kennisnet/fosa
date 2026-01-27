@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Noodzakelijkheid"
     id="id-09b3ae74be3e47cfacadcf3097cb6a81"
-    documentation="De mate waarin het inwinnen of uitwisselen van informatie beperkt is tot die situaties waarin en waarvoor die informatie nodig is">
+    documentation="De mate waarin het inwinnen of uitwisselen van informatie beperkt is tot die situaties waarin en waarvoor die informatie nodig is. ">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Dienstverleners hergebruiken informatie die bekend is, bij zichzelf of bij andere dienstverleners. De dienstverlener stelt als dat nodig is in geval van ketensamenwerkingen informatie beschikbaar aan andere ketenpartners, op basis van verantwoord gegevensgebruik. Ketenpartners hebben binnen ketensamenwerkingen expliciet vastgelegd welke afspraken zij gemaakt hebben om hieraan invulling te geven. Het onnodig opvragen of leveren van informatie kost tijd, wekt irritatie op en verhoogt de kans op fouten."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-ed50691e915e47828c74a68dccad5087"/>
 </archimate:Value>

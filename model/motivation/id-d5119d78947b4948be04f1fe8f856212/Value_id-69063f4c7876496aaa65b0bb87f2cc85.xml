@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onafhankelijkheid van onderwijs"
     id="id-69063f4c7876496aaa65b0bb87f2cc85"
-    documentation="De mate waarin de onafhankelijkheid van onderwijsinstellingen is gewaarborgd&#xD;&#xA;&#xD;&#xA;Duiding: Het onderwijs kent een pluriforme inrichting waarin onderwijsinstellingen zelf een grote mate van vrijheid hebben om, binnen de door de wet gestelde kaders, eigenstandige beslissingen te nemen.">
+    documentation="De mate waarin onderwijsorganisaties hun onderwijs vrij van externe beïnvloeding kunnen vormgeven. ">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Onderwijsorganisaties hebben nemen eigenstandige beslissingen ten aanzien van de inhoud en de vorm van het onderwijs dat zij willen verzorgen. Diensten en daaraan gerelateerde ketensamenwerkingen ondersteunen die beslissingen en werpen hier geen belemmeringen voor op."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-a3ba747c59fb4fd3a4c15571e00704cd"/>
 </archimate:Value>

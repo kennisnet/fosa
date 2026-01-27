@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integriteit"
     id="id-d572edac85e34a508d158a46c618bbf3"
-    documentation="De mate waarin de juistheid, volledigheid en tijdigheid van informatie. Informatie&#xD;&#xA;waarvoor de integriteit op orde is, is dus informatie die 'klopt'. Merk op dat een aantasting van vertrouwelijkheid (waardoor onbevoegden bijvoorbeeld mutaties kunnen doorvoeren) kan leiden tot een aantasting van integriteit.&#xD;&#xA;">
+    documentation="De mate waarin de juistheid, volledigheid en tijdigheid van informatie zijn gewaarborgd. &#xD;&#xA;">
   <properties
       key="Type"
-      value="kernwaarde"/>
+      value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="De informatie die door dienstverleners wordt gebruikt en verstrekt is - binnen afgesproken kwaliteitscriteria - in overeenstemming met de werkelijkheid. Bij ketensamenwerkingen is de gebruikte en verstrekte informatie is onderling consistent."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-4110fe404ca2482c8a956c7535f539ab"/>
 </archimate:Value>
