@@ -2,20 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertrouwelijkheid"
     id="id-4756ec2bf1b34945b1b35ad0384b923d"
-    documentation="De mate waarin informatie alleen toegankelijk is voor degenen die hiertoe zijn geautoriseerd. Met 'toegang hebben tot' wordt zowel het raadplegen als het muteren, toevoegen en/of vernietigen van informatie bedoeld.">
+    documentation="De mate waarin informatie alleen toegankelijk is voor degenen die hiertoe zijn geautoriseerd.">
   <properties
       key="Type"
       value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Vertrouwelijke informatie is afdoende afgeschermd voor onbevoegden door passende technische en organisatorische maatregelen. Bekend is wie zeggenschappen heeft over de informatie inzake creëren, lezen, kopiëren, wijzigen en vernietigen, en wanneer de bevoegdheden voortkomend uit deze zeggenschappen zijn gebruikt."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
-  <properties
-      key="Type"/>
-  <properties
-      key="Toelichting"/>
-  <properties
-      key="Externe verwijzing"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-090731452f944cfdb4c612cbcb3e05a4"/>
 </archimate:Value>

@@ -2,20 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoerbaarheid"
     id="id-3e1b431b79874efa8cae07d8f5646e02"
-    documentation="De mate waarin afgesproken of opgelegde verantwoordelijkheden door betrokken partijen kan worden uitgevoerd.">
+    documentation="De mate waarin afgesproken of opgelegde verantwoordelijkheden door alle betrokken partijen kan worden uitgevoerd waarbij het streven is dat de kosten in verhouding staan tot de opbrengsten. ">
   <properties
       key="Type"
       value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Digitalisering gaat in veel gevallen gepaard met een efficiëntere bedrijfsvoering en daarmee met lagere kosten voor dienstverleners en afnemers. Afnemers verwachten een juist gebruik van middelen, dus zonder verspilling en overbodige functionaliteit, en dat juist gebruik van middelen ook regelmatig wordt gecontroleerd."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
-  <properties
-      key="Type"/>
-  <properties
-      key="Toelichting"/>
-  <properties
-      key="Externe verwijzing"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-9677c5ba08eb44e48870093b5a0b163c"/>
 </archimate:Value>

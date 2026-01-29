@@ -2,20 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wendbaarheid"
     id="id-4f38b69261e346e4aa9bd5855d8be4e7"
-    documentation="De mate waarin het onderwijs in kan spelen op veranderende omstandigheden.">
+    documentation="De mate waarin dienstverleners in het onderwijs in kunnen spelen op veranderende omstandigheden. ">
   <properties
       key="Type"
       value="kwaliteitsdoel"/>
   <properties
-      key="Status"
-      value="Concept"/>
+      key="Toelichting"
+      value="Dienstverlening moet zich kunnen aanpassen aan veranderende omstandigheden. Om dit mogelijk te maken zijn (publieke en private) diensten, processen, en systemen duidelijk afgebakend en modulair opgebouwd. De positionering van verschillende onderdelen is duidelijk evenals de afspraken die gelden. Hierdoor kunnen gedeelde functies gemakkelijk door afnemers over dienstverleners heen gebruikt worden en zijn ketensamenwerkingen relatief eenvoudig te realiseren."/>
   <properties
-      key="Datum"
-      value="2020-01-01"/>
-  <properties
-      key="Type"/>
-  <properties
-      key="Toelichting"/>
-  <properties
-      key="Externe verwijzing"/>
+      key="Externe verwijzing"
+      value="https://rosa.wikixl.nl/index.php/Id-3d240e50f4314834b8534bdb280acc3a"/>
 </archimate:Value>
