@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzuimrapportages"
+    id="id-72ddf425f30d4089806242ba7f104c22"
+    documentation="DUO zorgt voor verschillende rapportages. Deze rapportages ondersteunen de instelling en de leerplichtambtenaar bij hun werk.">
+  <properties
+      key="Afkorting"/>
+  <properties
+      key="Alternatieve zoekterm"
+      value="Verzuimloket"/>
+  <properties
+      key="Toelichting"
+      value="Leerplichtambtenaren bij gemeentes en onderwijsinstellingen kunnen via deze voorziening rapportages krijgen over absoluut verzuim. De rapportages worden samengesteld op basis van verzuimmeldingen die onderwijsaanbieders doen aan DUO in het Register Onderwijsdeelnemers. "/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+  <properties
+      key="Werkingsgebied"
+      value="po"/>
+  <properties
+      key="Werkingsgebied"
+      value="vo"/>
+  <properties
+      key="Werkingsgebied"
+      value="bve"/>
+  <properties
+      key="Herkomst beschrijving"
+      value="Omschrijving afkomstig van DUO Zakelijk"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.duo.nl/zakelijk/verzuim/verzuim/gegevensleveringen.jsp"/>
+  <properties
+      key="Wettelijke basis"
+      value="https://wetten.overheid.nl/BWBR0042012/2021-10-01"/>
+  <properties
+      key="Eigenaar"
+      value="Ministerie van OCW"/>
+  <properties
+      key="Beheerder"
+      value="DUO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Statusdatum"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="12-07-2022"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Nieuwe naam voor de voorziening en properties aangepast aan nieuw sjabloon"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs serviceregister"
+    id="id-911fac02d2db483487b396090ba94157"
+    documentation="Landelijk register voor het vastleggen en opvragen van mandaterings- en routeringsinformatie voor berichtuitwisseling binnen het onderwijs.">
+  <properties
+      key="Afkorting"
+      value="OSR"/>
+  <properties
+      key="Alternatieve zoekterm"
+      value="serviceregister"/>
+  <properties
+      key="Toelichting"
+      value="Met OSR leggen onderwijsbesturen op één centrale plek mandaten vast. Hiermee geven zij aan welke leveranciers met welke systemen voor bepaalde diensten namens de instellingen die tot het bestuur behoren gegevens mogen uitwisselen. De leveranciers van de systemen leggen vervolgens de technische afleveradressen vast zodat berichten voor een instelling op de juiste plek (administratie) kunnen worden afgeleverd."/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+  <properties
+      key="Werkingsgebied"
+      value="vo"/>
+  <properties
+      key="Werkingsgebied"
+      value="po"/>
+  <properties
+      key="Herkomst beschrijving"
+      value="Omschrijving gebaseerd op website Kennisnet"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.kennisnet.nl/onderwijs-service-register/"/>
+  <properties
+      key="Wettelijke basis"
+      value="-"/>
+  <properties
+      key="Eigenaar"
+      value="Kennisnet"/>
+  <properties
+      key="Beheerder"
+      value="Kennisnet"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="15-07-2022"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Properties aangepast aan nieuw sjabloon. Nieuwe omschrijving"/>
+</archimate:ApplicationComponent>

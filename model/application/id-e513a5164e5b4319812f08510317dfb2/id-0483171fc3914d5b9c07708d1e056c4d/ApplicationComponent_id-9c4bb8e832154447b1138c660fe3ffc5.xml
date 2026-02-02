@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorziening Centraal Aanmelden"
+    id="id-9c4bb8e832154447b1138c660fe3ffc5"
+    documentation="Een landelijk digitaal portaal voor het mbo waar een aspirant-student zich voor een opleiding kan aanmelden. Het is een generieke voorziening, dus niet instellingsspecifiek. Afkorting CAMBO">
+  <properties
+      key="Afkorting"
+      value="CAMBO"/>
+  <properties
+      key="Alternatieve zoekterm"/>
+  <properties
+      key="Toelichting"
+      value="Het portaal zorgt voor eenduidig ontsluiten van opleidingen, voor identificatie, het inwinnen van standaardgegevens bij DUO en vult deze aan met eigen contactinformatie. Vervolgens kan een aspirant-student zich bij een instelling en een opleiding aanmelden. De instelling verzorgt de verdere communicatie en plaatsing."/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+  <properties
+      key="Werkingsgebied"
+      value="bve"/>
+  <properties
+      key="Herkomst beschrijving"
+      value="Omschrijving gebaseerd op website CAMBO"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://mbovoorzieningen.nl/voorzieningen/voorziening-centraal-aanmelden/"/>
+  <properties
+      key="Wettelijke basis"
+      value="-"/>
+  <properties
+      key="Eigenaar"
+      value="Coöperatie Mbo Voorzieningen u.a."/>
+  <properties
+      key="Beheerder"
+      value="Coöperatie Mbo Voorzieningen u.a."/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="21-05-2022"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Properties aangepast aan nieuw sjabloon. Nieuwe omschrijving"/>
+</archimate:ApplicationComponent>
