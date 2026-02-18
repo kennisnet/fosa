@@ -248,7 +248,7 @@
         </sourceConnections>
         <bounds
             x="24"
-            y="96"
+            y="120"
             width="145"
             height="55"/>
         <archimateElement
@@ -561,7 +561,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2cf5b208823f46d591567f19162a8e67"
-        targetConnections="id-8c4847f25dbd4eb7b722a406d86e823c id-8a3a9938dc124449abf7399ee479184b"
+        targetConnections="id-8c4847f25dbd4eb7b722a406d86e823c"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
@@ -577,15 +577,6 @@
           font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
           fillColor="#ff8000"
           type="1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-8a3a9938dc124449abf7399ee479184b"
-            source="id-ed0e7b3ab2de4392b3dbe2b2fe5d85ad"
-            target="id-2cf5b208823f46d591567f19162a8e67">
-          <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_id-df52bd9f4087404ba431e8ba2c4f3c3a.xml#id-df52bd9f4087404ba431e8ba2c4f3c3a"/>
-        </sourceConnections>
         <bounds
             x="12"
             y="60"
@@ -889,7 +880,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ccf90d11165c4b30b66646d82ab33c9e"
-        targetConnections="id-c175e50f857a48daafaeffbf32446fbb id-7a65d342d75d47ca9d39a7f9d6b1938d"
+        targetConnections="id-c175e50f857a48daafaeffbf32446fbb"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
@@ -908,30 +899,6 @@
           y="36"
           width="193"
           height="187"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-1135342691514c0ea3a0cf1423003ca8"
-          font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-          fillColor="#ff0000"
-          type="1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-7a65d342d75d47ca9d39a7f9d6b1938d"
-            source="id-1135342691514c0ea3a0cf1423003ca8"
-            target="id-ccf90d11165c4b30b66646d82ab33c9e">
-          <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_id-df52bd9f4087404ba431e8ba2c4f3c3a.xml#id-df52bd9f4087404ba431e8ba2c4f3c3a"/>
-        </sourceConnections>
-        <bounds
-            x="12"
-            y="72"
-            width="164"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-911fac02d2db483487b396090ba94157.xml#id-911fac02d2db483487b396090ba94157"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-899568c4be5b4c2f8286f7ad2fb35fa8.xml#id-899568c4be5b4c2f8286f7ad2fb35fa8"/>
@@ -2291,11 +2258,8 @@
   </children>
   <properties
       key="Status"
-      value="Vastgesteld"/>
-  <properties
-      key="Datum"
-      value="2025-09-17"/>
+      value="Concept"/>
   <properties
       key="Publiceren"
-      value="Ja"/>
+      value="Niet"/>
 </archimate:ArchimateDiagramModel>

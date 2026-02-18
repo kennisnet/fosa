@@ -1,8 +1,15 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rechtvaardigheid"
-    id="id-f26f5997576840d98b8fe3d078e3092c">
+    id="id-f26f5997576840d98b8fe3d078e3092c"
+    documentation="De dienstverlening van (publieke en private) dienstverleners in het onderwijs is zo ingericht dat iedere gebruiker gelijke kansen krijgt, zonder dat er groepen benadeeld of uitgesloten worden. ">
   <properties
       key="Type"
       value="kernwaarde"/>
+  <properties
+      key="Toelichting"
+      value="Rechtvaardigheid omvat kwaliteitsdoelen als gelijkheid, inclusiviteit en bruikbaarheid. Het betekent dat onderwijsbetrokkenen zonder vooroordelen worden benaderd in het gebruiken van diensten. Inclusiviteit in onderwijs betekent onbelemmerde toegankelijkheid voor alle onderwijsbetrokkenen tot (digitale) diensten ondanks hun beperkingen. Bovendien moeten onderwijsbetrokkenen de diensten kunnen gebruiken zoals dat beoogd is ongeacht hun beperkingen met andere woorden de uitkomsten moeten hetzelfde zijn."/>
+  <properties
+      key="Externe link"
+      value="https://rosa.wikixl.nl/index.php/Id-cef3416a170943c1a86a53d3c251d3fd"/>
 </archimate:Grouping>
