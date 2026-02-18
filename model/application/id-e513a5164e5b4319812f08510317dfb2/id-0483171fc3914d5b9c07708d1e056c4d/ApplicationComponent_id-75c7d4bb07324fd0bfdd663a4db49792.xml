@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SURFeduhub"
+    id="id-75c7d4bb07324fd0bfdd663a4db49792"
+    documentation="SURFeduhub is een voorziening om onderwijsdata veilig tussen Nederlandse mbo en ho onderwijsinstellingen te delen en wordt ingezet om vanuit ho-instellingen RIO te vullen">
+  <properties
+      key="Afkorting"/>
+  <properties
+      key="Alternatieve zoekterm"/>
+  <properties
+      key="Toelichting"
+      value="Met SURFeduhub kan onderwijsdata uitgewisseld worden om studentmobiliteit en flexibilisering van het onderwijs te vergemakkelijken. SURFeduhub wordt voor het hoger onderwijs de standaard voor het vullen van het Registratie Instellingen en Opleidingen (RIO). Dat zal op basis van OOAPI geschieden."/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+  <properties
+      key="Werkingsgebied"
+      value="ho"/>
+  <properties
+      key="Herkomst beschrijving"
+      value="Informatie afkomstig van de SURFeduhub-website van SURF"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.surf.nl/surfeduhub-veilig-uitwisselen-van-onderwijsdata?dst=n7099"/>
+  <properties
+      key="Wettelijke basis"/>
+  <properties
+      key="Eigenaar"
+      value="SURF"/>
+  <properties
+      key="Beheerder"
+      value="SURF"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="06-03-2023"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Beschrijving aangepast na review door SURF en ho-deelnemers aan QA-team"/>
+</archimate:ApplicationComponent>
