@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basisregister Instellingen"
+    id="id-8c3063a2e0e8446e9ccc027f0b159159"
+    documentation="Het Basisregister Instellingen (BRIN) is een door DUO beheerd register waarin o.a. gegevens over onderwijsinstellingserkenningen, vestigingserkenningen, erkende opleidingen en licenties geregistreerd zijn.">
+  <properties
+      key="Afkorting"
+      value="BRIN"/>
+  <properties
+      key="Alternatieve zoekterm"/>
+  <properties
+      key="Toelichting"
+      value="BRIN wordt uitgefaseerd en wordt vervangen door RIO. Op dit moment vindt het beheer van erkenningen, licenties e.d. nog plaats in BRIN en wordt deze informatie gesynchroniseerd met RIO."/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+  <properties
+      key="Herkomst beschrijving"
+      value="Omschrijving samengesteld uit diverse bronnen"/>
+  <properties
+      key="Werkingsgebied"
+      value="formeel onderwijs"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://duo.nl/zakelijk/primair-onderwijs/nieuws/bron-en-registers-krijgen-nieuwe-naam-vervolg.jsp"/>
+  <properties
+      key="Wettelijke basis"
+      value="?"/>
+  <properties
+      key="Eigenaar"
+      value="Ministerie van OCW"/>
+  <properties
+      key="Beheerder"
+      value="DUO"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="03-08-2022"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Aanpassing in attributen werkingsgebied en SWC status"/>
+</archimate:ApplicationComponent>

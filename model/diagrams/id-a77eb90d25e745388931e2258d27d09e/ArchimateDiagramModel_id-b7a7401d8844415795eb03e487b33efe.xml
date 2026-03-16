@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kernwaarden en doelen"
+    name="Kernwaarden en FOSA doelen"
     id="id-b7a7401d8844415795eb03e487b33efe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -852,6 +852,9 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-39ac5b71907e49e79d6e36062d2b44e7.xml#id-39ac5b71907e49e79d6e36062d2b44e7"/>
   </children>
+  <properties
+      key="Status"
+      value="Concept"/>
   <properties
       key="Publiceren"
       value="Ja"/>

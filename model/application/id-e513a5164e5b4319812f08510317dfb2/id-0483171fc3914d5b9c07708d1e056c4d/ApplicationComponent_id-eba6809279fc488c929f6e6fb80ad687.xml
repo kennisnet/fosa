@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entree Federatie"
+    id="id-eba6809279fc488c929f6e6fb80ad687"
+    documentation="Publieke voorziening die docenten en onderwijsdeelnemers single sign-on toegang biedt tot digitale leermiddelen en educatieve diensten.  ">
+  <properties
+      key="Afkorting"/>
+  <properties
+      key="Alternatieve zoekterm"/>
+  <properties
+      key="Toelichting"
+      value="Aanbieders van educatieve content en/of diensten bereiken door aansluiting op Entree Federatie bijna 2000 scholen, en kunnen zelf bepalen wie toegang krijgt tot digitale leermaterialen."/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+  <properties
+      key="Werkingsgebied"
+      value="po"/>
+  <properties
+      key="Werkingsgebied"
+      value="bve"/>
+  <properties
+      key="Werkingsgebied"
+      value="vo"/>
+  <properties
+      key="Herkomst beschrijving"
+      value="Omschrijving gebaseerd op website Kennisnet"/>
+  <properties
+      key="Externe verwijzing"
+      value="https://www.kennisnet.nl/entree-federatie/"/>
+  <properties
+      key="Wettelijke basis"/>
+  <properties
+      key="Eigenaar"
+      value="Kennisnet"/>
+  <properties
+      key="Beheerder"
+      value="Kennisnet"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="15-07-2022"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Properties aangepast aan nieuw sjabloon. Omschrijving aangepast."/>
+</archimate:ApplicationComponent>
