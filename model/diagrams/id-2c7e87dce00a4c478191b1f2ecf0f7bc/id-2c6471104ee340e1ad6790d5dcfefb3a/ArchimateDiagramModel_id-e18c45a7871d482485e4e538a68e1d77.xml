@@ -82,8 +82,8 @@
           href="AggregationRelationship_id-3426cb4770b347a287d7b6b2a181ebec.xml#id-3426cb4770b347a287d7b6b2a181ebec"/>
     </sourceConnections>
     <bounds
-        x="1344"
-        y="420"
+        x="1260"
+        y="307"
         width="241"
         height="1657"/>
     <children
@@ -431,14 +431,13 @@
           href="AggregationRelationship_id-873538aa14f3489f8de19018452c0c5a.xml#id-873538aa14f3489f8de19018452c0c5a"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="113"
+        x="12"
         width="1213"
         height="212"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ba6ebc3b53274fabbd88a54157b3c207"
-        targetConnections="id-d34d50834b364eb1abab4d7775139bbb id-abfa78d5fd5f4899ac119b9d7ab2dfe2"
+        targetConnections="id-d34d50834b364eb1abab4d7775139bbb"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
@@ -448,30 +447,6 @@
           y="36"
           width="193"
           height="157"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-158d3979f5024b128cb4d061214ec24d"
-          font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-          fillColor="#ff8000"
-          type="1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-abfa78d5fd5f4899ac119b9d7ab2dfe2"
-            source="id-158d3979f5024b128cb4d061214ec24d"
-            target="id-ba6ebc3b53274fabbd88a54157b3c207">
-          <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_id-d064f60028154302bee74a2409a3fe4c.xml#id-d064f60028154302bee74a2409a3fe4c"/>
-        </sourceConnections>
-        <bounds
-            x="24"
-            y="60"
-            width="145"
-            height="73"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-6f71b15193bc45bba0c32966905f4aac.xml#id-6f71b15193bc45bba0c32966905f4aac"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-440a1aa3f0b6432aa8e4ca9b446ba1dd.xml#id-440a1aa3f0b6432aa8e4ca9b446ba1dd"/>
@@ -688,8 +663,8 @@
           href="AggregationRelationship_id-922a99ce67234c4ea89a4136e6929f3e.xml#id-922a99ce67234c4ea89a4136e6929f3e"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="336"
+        x="12"
+        y="223"
         width="1213"
         height="373"/>
     <children
@@ -986,8 +961,8 @@
           href="AggregationRelationship_id-5fec77b91a3b420f858fe6a0b6c87827.xml#id-5fec77b91a3b420f858fe6a0b6c87827"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="996"
+        x="12"
+        y="883"
         width="1213"
         height="337"/>
     <children
@@ -1325,8 +1300,8 @@
           href="AggregationRelationship_id-9d342f1a00e44110836250d63f47cbf8.xml#id-9d342f1a00e44110836250d63f47cbf8"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="1344"
+        x="12"
+        y="1231"
         width="1213"
         height="445"/>
     <children
@@ -1763,8 +1738,8 @@
           href="AggregationRelationship_id-61a8bf651320466ba90aff3f5980639a.xml#id-61a8bf651320466ba90aff3f5980639a"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="1800"
+        x="12"
+        y="1687"
         width="1213"
         height="265"/>
     <children
@@ -2015,8 +1990,8 @@
           href="AggregationRelationship_id-dc803f0cd90240bcb4f6cff9eb44e3d8.xml#id-dc803f0cd90240bcb4f6cff9eb44e3d8"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="720"
+        x="12"
+        y="607"
         width="1213"
         height="265"/>
     <children
@@ -2195,8 +2170,8 @@
       name="Legenda Mate van Realisatie"
       textAlignment="1">
     <bounds
-        x="1344"
-        y="111"
+        x="1260"
+        y="-2"
         width="241"
         height="289"/>
     <children
