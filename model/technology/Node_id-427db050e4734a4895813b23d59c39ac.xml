@@ -1,0 +1,12 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NDC"
+    id="id-427db050e4734a4895813b23d59c39ac"
+    documentation="De centrale technische infrastructuur. Biedt netwerkbeveiliging, monitoring, een gezamenlijke firewall, DDoS-mitigatie en webfiltering (preventief schild).">
+  <properties
+      key="Beheerder"
+      value="Kennisnet (i.s.m. SIVON)"/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+</archimate:Node>

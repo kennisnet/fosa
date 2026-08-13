@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="School CERT"
+    id="id-1d521946c578491d81094af3090644dd"
+    documentation="Het responsieve, adviserende orgaan voor de onderwijssector. Biedt ondersteuning bij acute beveiligingsincidenten, monitoren van threats en crisismanagementoefeningen (curatief en procedureel).">
+  <properties
+      key="Beheerder"
+      value="Kennisnet"/>
+  <properties
+      key="Type"
+      value="Ketenvoorziening"/>
+</archimate:BusinessService>
