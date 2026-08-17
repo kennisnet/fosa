@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GAP Analyse School-CERT en "
+    name="GAP Analyse School-CERT en NDC"
     id="id-4297a222bcb8478991271d3e44ef7ae7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -103,5 +103,58 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-71471d315c50441a8f2a9fdffa6e3de4.xml#id-71471d315c50441a8f2a9fdffa6e3de4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6b7a5eb8ec314f3f82207de620937ff1"
+      name="Legenda Mate van Realisatie"
+      textAlignment="1">
+    <bounds
+        x="180"
+        y="360"
+        width="229"
+        height="235"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7989062073bf4be9aeeea94460fc07cb"
+        fillColor="#ff0000"
+        type="1">
+      <bounds
+          x="24"
+          y="36"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-ca72d520effa4ec795ce8790d1cc250a.xml#id-ca72d520effa4ec795ce8790d1cc250a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a9016d13f2f140e8bf9972515fa36299"
+        fillColor="#ffff00"
+        type="1">
+      <bounds
+          x="24"
+          y="96"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-bf4a6249b49745fdb0217b0d3588f7f3.xml#id-bf4a6249b49745fdb0217b0d3588f7f3"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-53467130344f42ec9d23ede04e685b6b"
+        fillColor="#80ff00"
+        type="1">
+      <bounds
+          x="24"
+          y="156"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-59e898aa9cd847c6b258fc45f27b6dd0.xml#id-59e898aa9cd847c6b258fc45f27b6dd0"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
